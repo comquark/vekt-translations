@@ -1,0 +1,250 @@
+"onboarding.healthaccess.title"="Apple Santé Access";
+"onboarding.healthaccess.desc"="Donner accès à toutes vos données ont de santé commodément stockées dans un seul endroit. Vos données sont privées et ne seront jamais partagées.";
+"onboarding.healthaccess.info"="L'utilisation Vekt avec Apple Santé améliore l'expérience de l'application, comme automatiquement synchronise tous vos données de santé et fitness ensemble \n\nplus important. Vos données vous appartient uniquement et ne quitte jamais votre appareil. Il est maintenu en sécurité dans Apple santé, cryptées et protégées par le mot de passe de votre iPhone.";
+"onboarding.healthaccess.why"="Apprendre encore plus";
+"onboarding.healthaccess.cta"="Donnez accès";
+"onboarding.healthaccess.noaccess.confirm"="J'ai donné accès";
+"onboarding.healthaccess.noaccess.edit"="Donner la permission d'Apple dans la santé";
+"onboarding.healthaccess.noaccess.dec"="S'il vous plaît reconsidérer donnant accès. Cela permet une expérience d'application optimale. Vos données vous appartient seulement.";
+"onboarding.healthaccess.system.read"="Cela est nécessaire pour lire votre poids, l'IMC et la hauteur d'Apple santé.";
+"onboarding.healthaccess.system.write"="Cela est nécessaire pour enregistrer votre poids, l'IMC et la hauteur en santé d'Apple.";
+
+// Unit
+"unit.title"="Unité";
+"unit.desc"="Quelle langue parler votre échelle?";
+"unit.imperial"="Impérial";
+"unit.metric"="Métrique";
+"unit.stones"="Des pierres";
+"unit.soon"="Bientôt";
+
+// Height
+"height.title"="Hauteur";
+"height.intro"="Quelle est votre taille?";
+"height.desc"="Nous avons besoin de connaître votre taille pour calculer votre indice de masse corporelle pour vous.";
+"height.placeholder"="Entrer la hauteur ...";
+"height.save"="Vous êtes tous ensemble!";
+
+// Goal
+"goal.title"="Ton but";
+"goal.intro"="Qu'est-ce qui t'amène?";
+"goal.desc"="Définissez votre intention pour le suivi de votre poids.";
+"goal.gain.desc"="Prendre du poids";
+"goal.gain.past"="gagné";
+"goal.lose.desc"="Perdre du poids";
+"goal.lose.past"="perdu";
+
+// All Weights
+"alldata.title"="tous les poids";
+"alldata.action"="Voir tous les poids";
+"alldata.healthkit.action"="Voir dans Apple Santé";
+
+// Reminders
+"reminders.title"="Reminders";
+"reminders.desc"="Augmentez vos chances de succès avec des rappels. Les utilisateurs Vekt sont 32% plus susceptibles de transformer le suivi de poids en une habitude avec les notifications sur.";
+"reminders.action.enable"="Être rappelé";
+"reminders.date"="Date de début";
+"reminders.freq"="Répéter";
+"reminders.time"="Temps";
+"reminders.notification.title"="Suivi de votre poids";
+"reminders.notification.body"="Hey! Il est temps de suivre à nouveau votre poids. Il faudra seulement une seconde ☺️";
+"reminders.notification.hidden"="Rappel";
+"reminders.notification.saved"="Nouveau poids sauvé! 🎉";
+"reminders.repeat.desc"="À quelle fréquence voulez-vous faire rappeler?";
+"reminders.repeat.daily"="Tous les jours";
+"reminders.repeat.weekly"="Toutes les semaines";
+"reminders.repeat.biweekly"="Toutes les deux semaines";
+"reminders.repeat.monthly"="Chaque mois";
+"reminders.button.title"="Allumez Reminders";
+"reminders.button.daily"="Tous les jours à";
+"reminders.button.weekly"="Chaque %@ à";
+"reminders.button.biweekly"="Tous les autres %@ à";
+"reminders.button.monthly"="Chaque %@ à";
+"reminders.tutorial.desc"="Pour rester sur la bonne voie avec votre nouvelle habitude, il aide à être averti. En fait, vous êtes 32% plus de chances de réussir avec des rappels.";
+"reminders.tutorial.title"="Allumez rappels";
+"reminders.tutorial.cta"="Rappelle moi";
+
+// Target
+"target.title"="Cible";
+"target.action"="Choisir la cible";
+"target.empty.starttitle"="Poids de départ";
+"target.progress"="%@ %@ aller";
+"target.progress.next"="Cible suivante";
+"target.reached.title"="Vous avez fait ce look facile!";
+"target.reached.title.short"="Tu l'as fait!";
+"target.reached.desc"="Félicitations! Vous prenez de sérieux pas vers une meilleure santé. Prêt pour votre prochaine étape, ou si vous voulez maintenir ce poids?";
+"target.reached.action.new"="Set Nouvelle cible";
+"target.reached.action.share"="Partager";
+"target.reached.action.dismiss"="maintenir un poids";
+"target.reached.share.message"="Assez fier de celui-ci! Je viens de frapper mon objectif de %@ %@ grâce à Vekt";
+
+// Measure
+"measure.title"="nouveau poids";
+"measure.date.action"="Date de modification";
+"measure.date"="Date:";
+"measure.now"="à présent";
+
+// BMI
+"bmi.overweight.title"="en surpoids";
+"bmi.overweight.desc"="un IMC> 25 est considéré en surpoids *. Bonne chose que vous travaillez là-dessus!";
+"bmi.obese.title"="Obèse";
+"bmi.obese.desc"="un IMC> 30 est considéré comme obèse *. Vous avez du travail à faire! Restez concentré sur votre objectif.";
+"bmi.underweight.title"="insuffisance pondérale";
+"bmi.underweight.desc"="un IMC <18,5 est considéré comme une insuffisance pondérale *. Bonne chose que vous travaillez là-dessus!";
+"bmi.healthy.title"="Sain";
+"bmi.healthy.desc"="un IMC entre 18,5 et 25 est en parfaite santé. Bon travail!";
+"bmi.overweight.info"="L'excès de poids augmente généralement le risque de développer une maladie coronarienne. Pour arriver à un poids sain, essayez d'être physiquement actifs chaque jour et de manger des aliments sains bien équilibré. Gardez à l'esprit que l'IMC ne donne pas une image complète, car elle ne comprend pas les mesures musculaires et adipeuses. Si vous avez beaucoup de muscle par rapport à la graisse - vous probablement considéré comme sain aussi. En cas de doute, envisager de parler à un médecin spécialiste ou diététique.";
+"bmi.obese.info"="Être obèses que vous avez un risque plus élevé de développer une maladie coronarienne, ainsi que d'autres problèmes de santé. Il est important de réduire votre poids - chaque kilo compte. Vous pouvez réduire votre risque en étant physiquement actif chaque jour et de manger des aliments sains. Pensez à parler à un médecin spécialiste ou diététique si vous avez besoin d'une main pour y arriver.";
+"bmi.underweight.info"="L'insuffisance pondérale pourrait être un risque pour votre santé. Il est important de manger tous les jours, une alimentation saine et équilibrée. Pensez à parler à un médecin spécialiste ou diététique si vous avez perdu beaucoup de poids dans un court laps de temps ou ont du mal à ajouter du poids.";
+"bmi.unknown.title"="Inconnu";
+"bmi.unknown.desc"="Nous avons besoin de connaître d'abord votre taille et votre poids";
+"bmi.weight.title"="Poids";
+"bmi.height.title"="Hauteur";
+"bmi.action.edit.height"="Modifier Hauteur";
+"bmi.action.weight"="entrer le poids";
+"bmi.action.height"="entrer Hauteur";
+"bmi.watch.setup"="Configuration de votre taille s'il vous plaît sur iPhone premier";
+
+// History
+"history.card.countdown-4"="Vous avez besoin de 4 peser-ins pour voir votre tableau de progression.";
+"history.card.countdown-3"="Enregistrez votre poids 3 fois pour voir votre tableau de progression.";
+"history.card.countdown-2"="Juste 2 plus-ins pour soupeser aller!";
+"history.card.countdown-1"="Entrez le poids pour voir vos progrès!";
+"history.title"="Histoire";
+"history.average"="Poids moyen";
+"history.targets"="cibles succès";
+"history.measurements"="Des mesures";
+"history.best"="meilleur poids";
+"history.status"="Vous avez gagné %@ %@ %@ depuis";
+"history.status.gained"="Vous avez gagné %@ %@ depuis %@";
+"history.status.lost"="Vous avez perdu %@ %@ depuis %@";
+
+// Home
+"home.summary"="Résumé";
+"home.latest"="Dernier";
+"home.empty.title"="Ajouter votre premier poids";
+"home.empty.desc"="Commencez par ajouter votre première mesure de poids.";
+
+// Settings
+"settings.title"="Réglages";
+"settings.motivation"="Afficher les messages";
+"settings.about"="A propos Vekt";
+"settings.contact"="Nous contacter";
+"settings.privacy"="Politique de confidentialité";
+"settings.title.measurements"="Des mesures";
+"settings.title.support"="Support";
+"settings.title.subscription"="Abonnement";
+"settings.title.motivation"="Motivation";
+
+// Icon
+"icon.action"="Changer d'apparence";
+"icon.title"="Choisissez vos couleurs";
+"icon.desc"="Envie d'un look différent? Vous pouvez passer à tout moment autour de vous le souhaitez.";
+"appearance.theme.title"="Thème";
+"appearance.theme.dark"="Sombre";
+"appearance.theme.light"="Lumière";
+"appearance.theme.system"="Système";
+"appearance.icon.title"="Icône";
+
+// About
+"about.title"="Merci pour le soutien!";
+"about.devs"="Fait par Hidde van der Ploeg et Rajesh Rao";
+"about.copy"="Copywriting par Max Bos";
+"about.action.feedback"="Envoyer des commentaires";
+"about.action.twitter"="Suivez Vekt sur Twitter";
+"about.action.appstore"="Évaluer l'application";
+"about.action.tip"="Astuce Teneurs";
+
+// Subscription
+"subscription.title"="Abonnez-vous à Vekt";
+"subscription.action"="Abonnez-vous maintenant";
+"subscription.terms"="termes";
+"subscription.restore"="Déjà acheté?";
+"subscription.privacy"="Intimité";
+"subscription.cancel"="(Annuler à tout moment)";
+"subscription.new.title"="Vekt";
+"subscription.new.desc"="Abonnez-vous à un soutien illimité pour votre poids santé.";
+"subscription.new.benefit-1.title"="Restez sur la bonne voie avec vos objectifs de poids";
+"subscription.new.benefit-1.desc"="Apple intégration de la santé, l'IMC Mises à jour automatiques, graphique ligne Progress";
+"subscription.new.benefit-2.title"="Être motivé pour faire le poids suivi d'une habitude durable";
+"subscription.new.benefit-2.desc"="Cibles, rappels personnalisés, textes de motivation, Siri Raccourcis et Widgets";
+"subscription.new.benefit-3.title"="Être en meilleure santé, se sentent plus heureux, et de stimuler votre lecteur à mieux vivre";
+"subscription.new.benefit-3.desc"="74% des utilisateurs Vekt remarquent un changement de mode de vie sain après 3 Pesée";
+"subscription.new.benefit-4.title"="mises à jour régulières";
+"subscription.new.benefit-4.desc"="Nous mettrons à jour cette application sur une base régulière pour le garder frais";
+"subscription.new.best"="Save 75%";
+
+"subscription.old.title"="Salut mon ami!";
+"subscription.old.desc-1"="Bienvenue sur Vekt 3, mais notre plus grande mise à jour.";
+"subscription.old.desc-2"="Nous vous offrons un accès gratuit pendant un an.";
+"subscription.old.desc-3"="Parce que nous apprécions que vous-ce est notre façon de vous dire merci.";
+"subscription.old.action.buy"="Inscrivez-vous et soutien";
+"subscription.old.action.free"="Continuer gratuitement";
+"subscription.year"="%@ par an";
+"subscription.month"="%@ par mois";
+"subscription.lifetime"="%@ une fois";
+"subscription.trial"="Un mois d'essai gratuit";
+
+// Widget
+"widget.noacces"="Vekt doit être en mesure de lire d'Apple Santé.";
+"widget.target.remain"="%@ aller";
+"widget.weight.title"="poids Widget";
+"widget.weight.desc"="Affiche votre dernier poids mesuré.";
+"widget.target.title"="Widget cible";
+"widget.target.desc"="Montre votre progression vers votre prochaine cible.";
+
+// Siri
+"siri.title"="Connexion Nouveau Poids";
+"siri.phrase"="Connexion nouveau poids";
+"siri.shortcut.open"="Ouvert Vekt ...";
+
+// Tipping
+"tipping.title"="Merci d'utiliser Vekt!";
+"tipping.desc"="Il est le plaisir d'un tel construire ce logiciel pour vous tous. Nous espérons que vous obtenez la valeur de celui-ci. \n\nPour les plus grands fans parmi nous, nous avons une option spéciale de pointe. Votre nom sera écrit sur notre mur, à laquelle nous regardons quand nous sueur dégouline, du sang et des larmes, de nous rappeler qu'il est tout vaut. \n\nMerci, je vous remercie, je vous remercie.";
+"tipping.item.small.title"="Drink-Sized Conseil";
+"tipping.item.medium.title"="Astuce repas-Sized";
+"tipping.item.large.title"="Le plus grand fan de Vekt";
+// Complication
+"complication.target.title"="progrès cible";
+"complication.shortcut.title"="Accès rapide à Vekt";
+
+// Actions
+"actions.next"="Suivant";
+"actions.cancel"="Annuler";
+"actions.skip"="Sauter";
+"actions.save"="Sauvegarder";
+"actions.done"="OK";
+"actions.save.target"="Ajouter une cible";
+"actions.save.weight"="Ajouter Poids";
+"actions.edit"="Modifier";
+"actions.close"="Fermer";
+
+// Messages
+"motivation.positive.1"="Oui! Maintenant, donnez-moi une danse de fête!";
+"motivation.positive.2"="Simplement extraordinaire!";
+"motivation.positive.3"="Booom! Aller tout droit pour le tuer.";
+"motivation.positive.4"="Tu me rends fière. Continuer!";
+"motivation.positive.5"="Montrez-les comment faire! Bon travail.";
+"motivation.positive.6"="Vous légende absolue! Continue comme ça.";
+"motivation.positive.7"="Vous êtes une source d'inspiration! Robinet d'épaule";
+"motivation.positive.8"="Chaque pas compte. Profitez de vos progrès!";
+"motivation.positive.9"="Bellissimo! Tu es le meilleur.";
+"motivation.positive.10"="Je suis Starstruck. Briller sur!";
+"motivation.positive.11"="Tu gères! Belle progression à la recherche.";
+"motivation.positive.12"="J'y suis arrivé.";
+"motivation.positive.13"="Donnez-vous une tape dans le dos!";
+"motivation.negative.1"="Rome n'a pas été construite en un jour. Ne pas abandonner!";
+"motivation.negative.2"="Garde la tête haute! La semaine prochaine est le vôtre.";
+"motivation.negative.3"="Ça arrive aux meilleurs d'entre nous. Continue juste à le faire!";
+"motivation.negative.4"="Un pas en arrière. Deux pas en avant. Tête haute!";
+"motivation.negative.5"="Nous avons tous hors jours. Ce qui importe est de savoir comment vous rebondir.";
+"motivation.negative.6"="Personne n'a dit que ce serait facile. Tu as toujours ça!";
+"motivation.negative.lose.1"="Pas de soucis, juste ne donnent pas!";
+"motivation.negative.lose.2"="Les gagnants ne quittent pas. Ils continuent à aller.";
+"motivation.negative.lose.3"="Essayez de boire deux verres d'eau avant les repas. Voir si cela aide!";
+"motivation.negative.gain.1"="Dépoussiérez les chaussures de course!";
+"motivation.negative.gain.2"="Ajouter des poids supplémentaires, vous savez que vous pouvez le faire!";
+"motivation.negative.gain.3"="Essayez d'utiliser de plus grandes assiettes, cela pourrait vous aider à gagner un peu de poids!";
+"motivation.negative.gain.4"="Essayez d'ajouter l'avoine, les amandes ou le beurre d'arachide à votre petit-déjeuner. Obtenez ces protéines au début!";
+"motivation.neutral.1"="Un bon travail sur la mesure de votre poids!";
+"motivation.neutral.2"="Bon travail! Vous êtes sur la bonne voie à une saine habitude!";
+"motivation.neutral.3"="Bien! Le maintien ne gagne pas.";
