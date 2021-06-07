@@ -93,8 +93,8 @@
 "bmi.healthy.title"="Healthy";
 "bmi.healthy.desc"="a BMI between 18.5 and 25 is perfectly healthy. Good job! ";
 "bmi.overweight.info"="Being overweight generally increases your risk of developing coronary heart disease. To get to a healthier weight, try to be physically active every day and eat well-balanced healthy food. Keep in mind that BMI doesn't paint a full picture, as it doesn't include muscle and fat measures. If you have a lot of muscle compared to fat - you are likely considered healthy too. When in doubt, consider speaking to a medical or dietary specialist.";
-"bmi.obese.info"="Being obese means that you have a higher risk of developing coronary heart disease, as well as other health conditions. It is important to reduce your weight - every kilo matters. You can lower your risk by being physically active every day and eating healthy food. Consider speaking to a medical or dietary specialist if you need a hand to get there.";
-"bmi.underweight.info"="Being underweight could be a risk to your health. It is important to eat well-balanced, healthy food every day. Consider speaking to a medical or dietary specialist if you've lost a lot of weight in a short time or have a hard time adding weight. ";
+"bmi.obese.info"="Being obese means that you have a higher risk of developing coronary heart disease, as well as other health conditions.  It is important to reduce your weight- every kilo matters. You can lower your risk by being physically active every day and eating healthy food. Consider speaking to a medical or dietary specialist if you need a hand to get there.";
+"bmi.underweight.info"="Being underweight could be a risk to your health. It is important to eat well-balanced, healthy food every day. Consider speaking to a medical or dietary specialist if you've lost a lot of weight in a short time or have a hard time adding weight.";
 "bmi.unknown.title"="Unknown";
 "bmi.unknown.desc"="We need to know your height and weight first";
 "bmi.weight.title"="Weight";
@@ -175,7 +175,7 @@
 "subscription.new.benefit-4.desc"="We will update this app regularly to keep it fresh";
 "subscription.new.best"="Save 75%";
 "subscription.old.title"="Hey friend!";
-"subscription.old.desc-1"="Welcome to Vekt 3, our biggest update yet. ";
+"subscription.old.desc-1"="Welcome to Vekt 3, our biggest update yet.";
 "subscription.old.desc-2"="We are giving you free access for a year.";
 "subscription.old.desc-3"="Because we appreciate you–this is our way of saying thank you.";
 "subscription.old.action.buy"="Subscribe and Support";
@@ -204,6 +204,7 @@
 "tipping.item.small.title"="Drink-Sized Tip";
 "tipping.item.medium.title"="Meal-Sized Tip";
 "tipping.item.large.title"="The Biggest Fan of Vekt";
+
 // Complication
 "complication.target.title"="Target Progress";
 "complication.shortcut.title"="Quick access to Vekt";
@@ -242,7 +243,7 @@
 "motivation.negative.lose.1"="No worries, just don't give up!";
 "motivation.negative.lose.2"="Winners don't quit. They keep going.";
 "motivation.negative.lose.3"="Try drinking two glasses of water before meals. See if that helps! ";
-"motivation.negative.gain.1"="Dust off those running shoes! ";
+"motivation.negative.gain.1"="Dust off those running shoes!";
 "motivation.negative.gain.2"="Add some extra weights, you know you can do it!";
 "motivation.negative.gain.3"="Try using bigger plates, this could help you gain some weight!";
 "motivation.negative.gain.4"="Try adding oats, almonds or peanut butter to your breakfast. Get those proteins in early!";
