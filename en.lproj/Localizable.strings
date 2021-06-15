@@ -228,6 +228,7 @@
 "actions.save.weight"="Save Weight";
 "actions.edit"="Edit";
 "actions.close"="Close";
+"actions.delete" = "Delete";
 
 // Messages
 "motivation.positive.1"="Yes! Now give me a celebration dance!";
