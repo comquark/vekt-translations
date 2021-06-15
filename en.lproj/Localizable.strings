@@ -43,6 +43,8 @@
 "details.weight.metric"="Weight in Metric:";
 "details.weight.compared"="%@ %@ compared to your average."; // Value, Unit
 "details.weight.title"="Weight Details";
+"details.weight.delete.confirmation.title"="Are you sure?";
+"details.weight.delete.confirmation.description"="You really want to delete this weight entry?";
 "actions.delete.weight"="Delete Weight";
 
 // Reminders

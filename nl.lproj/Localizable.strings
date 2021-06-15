@@ -43,6 +43,8 @@
 "details.weight.metric"="Gewicht in metriek:";
 "details.weight.compared"="%@ %@ vergeleken met je gemiddelde.";
 "details.weight.title"="Gewicht details";
+"details.weight.delete.confirmation.title"="Weet je het zeker?";
+"details.weight.delete.confirmation.description"="Wil je zeker weten dit gewicht verwijderen?";
 "actions.delete.weight"="Verwijder gewicht";
 
 // Reminders
