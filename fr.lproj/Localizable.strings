@@ -38,6 +38,13 @@
 "alldata.action"="Voir tous les poids";
 "alldata.healthkit.action"="Voir dans Apple Santé";
 
+// Weight Details
+"details.weight.imperial"="Poids en impérial:";
+"details.weight.metric"="Poids en métrique:";
+"details.weight.compared"="%@ %@ par rapport à votre moyenne."; // Value, Unit
+"details.weight.title"="Détails du poids";
+"actions.delete.weight"="Supprimer poids";
+
 // Reminders
 "reminders.title"="Reminders";
 "reminders.desc"="Augmentez vos chances de succès avec des rappels. Les utilisateurs Vekt sont 32% plus susceptibles de transformer le suivi de poids en une habitude avec les notifications sur.";

@@ -38,6 +38,13 @@
 "alldata.action"="Toon alle gewichten";
 "alldata.healthkit.action"="Toon in Gezondheid-app";
 
+// Weight Details
+"details.weight.imperial"="Gewicht in imperiaal:";
+"details.weight.metric"="Gewicht in metriek:";
+"details.weight.compared"="%@ %@ vergeleken met je gemiddelde.";
+"details.weight.title"="Gewicht details";
+"actions.delete.weight"="Verwijder gewicht";
+
 // Reminders
 "reminders.title"="Herinneringen";
 "reminders.desc"="Vergroot je kans op succes met herinneringen. Vekt gebruikers maken 32% vaker een gewoonte van jezelf wegen met notificaties aan.";
