@@ -44,8 +44,7 @@
 "details.weight.compared"="%@ %@ compared to your average."; // Value, Unit
 "details.weight.title"="Weight Details";
 "details.weight.delete.confirmation.title"="Are you sure?";
-"details.weight.delete.confirmation.description"="You really want to delete this weight entry?";
-"actions.delete.weight"="Delete Weight";
+"details.weight.delete.confirmation.description"="You want to delete this weight entry?";
 
 // Reminders
 "reminders.title"="Reminders";
@@ -229,6 +228,7 @@
 "actions.edit"="Edit";
 "actions.close"="Close";
 "actions.delete" = "Delete";
+"actions.delete.weight"="Delete Weight";
 
 // Messages
 "motivation.positive.1"="Yes! Now give me a celebration dance!";

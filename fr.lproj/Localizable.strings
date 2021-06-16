@@ -43,7 +43,9 @@
 "details.weight.metric"="Poids en métrique:";
 "details.weight.compared"="%@ %@ par rapport à votre moyenne."; // Value, Unit
 "details.weight.title"="Détails du poids";
-"actions.delete.weight"="Supprimer poids";
+"details.weight.delete.confirmation.title"="Êtes-vous sûr?";
+"details.weight.delete.confirmation.description"="Vous voulez supprimer cette entrée de poids?";
+
 
 // Reminders
 "reminders.title"="Reminders";
@@ -224,6 +226,9 @@
 "actions.save.weight"="Ajouter Poids";
 "actions.edit"="Modifier";
 "actions.close"="Fermer";
+"actions.delete"="Supprimer";
+"actions.delete.weight"="Supprimer poids";
+
 
 // Messages
 "motivation.positive.1"="Oui! Maintenant, donnez-moi une danse de fête!";

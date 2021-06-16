@@ -39,6 +39,14 @@
 "alldata.action"="Посмотреть все измерения";
 "alldata.healthkit.action"="Просмотр в Apple Health";
 
+// Weight Details
+"details.weight.imperial"="Вес в имперских единицах:";
+"details.weight.metric"="Вес в метрических единицах:";
+"details.weight.compared"="%@ %@ по сравнению с вашим средним."; // Value, Unit
+"details.weight.title"="Детали веса";
+"details.weight.delete.confirmation.title"="Уверены ли вы?";
+"details.weight.delete.confirmation.description"="Вы хотите удалить эту запись веса?";
+
 // Reminders
 "reminders.title"="Напоминания";
 "reminders.desc"="Повысьте свои шансы с напоминаниями. У пользователей Vekt с включенными напоминаниями шанс выработать привычку отслеживать вес выше на 32%.";
@@ -217,6 +225,8 @@
 "actions.save.weight"="Сохранить вес";
 "actions.edit"="Редактировать";
 "actions.close"="Закрыть";
+"actions.delete" = "Удалить";
+"actions.delete.weight"="Удалить вес";
 
 // Messages
 "motivation.positive.1"="Да! А теперь покажи мне праздничный танец!";
