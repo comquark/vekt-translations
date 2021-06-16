@@ -1,0 +1,256 @@
+"onboarding.healthaccess.title"="『ヘルスケア』へのアクセスについて";
+"onboarding.healthaccess.desc"="。、第三者への共有も";
+"onboarding.healthaccess.info"="Vektと『ヘルスケア』の連携より、健康に関連するデータ。なお、";
+"onboarding.healthaccess.why"="詳しくはこちら";
+"onboarding.healthaccess.cta"="アクセスを許可する";
+"onboarding.healthaccess.noaccess.confirm"="アクセスを許可しました";
+"onboarding.healthaccess.noaccess.edit"="『ヘルスケア』へのアクセスを許可する";
+"onboarding.healthaccess.noaccess.dec"="『ヘルスケア』へのアクセスを考え直しませんか？最適なアプリ体験には必要です。また、あなたのデータは、第三者に読み取られることはありません。";
+"onboarding.healthaccess.system.read"="体重、BMI、身長を記録するために、『ヘルスケア』へのアクセスが必要です。";
+"onboarding.healthaccess.system.write"="体重、BMI、身長を保存するために、『ヘルスケア』へのアクセスが必要です。";
+
+// Unit
+"unit.title"="単位";
+"unit.desc"="体重の測り方を教えてください。";
+"unit.imperial"="ヤード・ポンド法（lb）";
+"unit.metric"="メートル法（kg）";
+"unit.stones"="ヤード・ポンド法（ストーン）";
+"unit.soon"="Coming soon";
+
+// Height
+"height.title"="ご身長";
+"height.intro"="ご身長を教えてください。";
+"height.desc"="BMIを計算するために、ご身長を教えていただくことが必要です。";
+"height.placeholder"="身長記入";
+"height.save"="準備完了！";
+
+// Goal
+"goal.title"="ご自身の目標";
+"goal.intro"="体重に関する目標を教えてください。";
+"goal.desc"="体重を測る";
+"goal.gain.desc"="体重を増やしたい";
+"goal.gain.past"="が増えた";
+"goal.lose.desc"="体重を減らしたい";
+"goal.lose.past"="が減った";
+
+// All Weights
+"alldata.title"="全体重";
+"alldata.action"="全体重の確認";
+"alldata.healthkit.action"="『ヘルスケア』で確認";
+
+// Weight Details
+"details.weight.imperial"="Weight in Imperial:";
+"details.weight.metric"="Weight in Metric:";
+"details.weight.compared"="%@ %@ compared to your average."; // Value, Unit
+"details.weight.title"="Weight Details";
+"details.weight.delete.confirmation.title"="Are you sure?";
+"details.weight.delete.confirmation.description"="You want to delete this weight entry?";
+
+// Reminders
+"reminders.title"="通知";
+"reminders.desc"="通知を設定すると、成功への近道になります。当アプリのユーザーは、通知を設定することで、体重記録を習慣化する";
+"reminders.action.enable"="通知を設定する";
+"reminders.date"="開始日";
+"reminders.freq"="繰り返す";
+"reminders.time"="時間";
+"reminders.notification.title"="体重を更新しましょう";
+"reminders.notification.body"="お疲れ様です！体重を更新する時間になりました。パパッと終わらせましょう。";
+"reminders.notification.hidden"="通知";
+"reminders.notification.saved"="体重を更新しました！ 🎉";
+"reminders.repeat.desc"="理想的な更新の頻度を教えてください。";
+"reminders.repeat.daily"="毎日";
+"reminders.repeat.weekly"="毎週に1回";
+"reminders.repeat.biweekly"="隔週に1回";
+"reminders.repeat.monthly"="毎月に1回";
+"reminders.button.title"="リマインドをオンにする";
+"reminders.button.daily"="毎日の%@";
+"reminders.button.weekly"="毎週の%@";
+"reminders.button.biweekly"="隔週の%@に";
+"reminders.button.monthly"="毎月の%@に";
+"reminders.tutorial.desc"="。研究によると、通知をつけると、";
+"reminders.tutorial.title"="通知をオンにする";
+"reminders.tutorial.cta"="";
+
+// Target
+"target.title"="目標体重";
+"target.action"="目標体重を設定する";
+"target.empty.starttitle"="現在の体重";
+"target.progress"="あと%@ %@で達成";
+"target.progress.next"="次の目標体重";
+"target.reached.title"="さすがですね！";
+"target.reached.title.short"="やり切れました！";
+"target.reached.desc"="おめでとうございます！健康生活に向かって着々と進んでいます！次の目標体重を設定しましょうか？それとも、体重を維持しますか？";
+"target.reached.action.new"="次の目標体重を設定する";
+"target.reached.action.share"="シェア";
+"target.reached.action.dismiss"="体重を維持する";
+"target.reached.share.message"="やり切れました！Vektのおかげで、%@ %@までの目標体重を達成しました！";
+
+// Measure
+"measure.title"="新体重";
+"measure.date.action"="日付の更新";
+"measure.date"="【日付】";
+"measure.now"="Now";
+
+// BMI
+"bmi.overweight.title"="肥満（1度）";
+"bmi.overweight.desc"="25以上のBMIは、肥満（1度）に該当します。頑張りましょう！";
+"bmi.obese.title"="肥満（2度）";
+"bmi.obese.desc"="30以上のBMIは、肥満（2度）に該当します。まだまだこれからです！目標からぶらずに頑張りましょう！";
+"bmi.underweight.title"="低体重（痩せ）";
+"bmi.underweight.desc"="30以上のBMIは、低体重（痩せ）に該当します。頑張りましょう！";
+"bmi.healthy.title"="普通体重";
+"bmi.healthy.desc"="18.5〜25の間のBMIは、普通体重に該当します。完璧です！";
+"bmi.overweight.info"="";
+"bmi.obese.info"="";
+"bmi.underweight.info"="";
+"bmi.unknown.title"="未記録";
+"bmi.unknown.desc"="ご身長とご体重を教えてください。";
+"bmi.weight.title"="ご体重";
+"bmi.height.title"="ご身長";
+"bmi.action.edit.height"="ご身長の更新";
+
+"bmi.action.weight"="ご体重の記入";
+"bmi.action.height"="ご身長の記入";
+"bmi.watch.setup"="iPhoneでご身長を設定してください。";
+"bmi.how"="ご自分のBMIとは？";
+
+// History
+"history.card.countdown-4"="進捗表が表示されるには、4回ほどの体重記録も必要です。";
+"history.card.countdown-3"="あと3回で体重記録をすると、進捗表が見えます。";
+"history.card.countdown-2"="進捗表の表示は、あと体重記録の2回です！";
+"history.card.countdown-1"="ご体重を記入し、進捗表を見ましょう！";
+"history.title"="履歴";
+"history.average"="平均体重";
+"history.targets"="目標達成回数";
+"history.measurements"="記録回数";
+"history.best"="--体重";
+"history.status.gained"="";
+"history.status.lost"="";
+
+// Home
+"home.summary"="まとめ";
+"home.latest"="最新";
+"home.empty.title"="";
+"home.empty.desc"="健康生活への第一歩として、ご体重を記入しましょう。";
+
+// Settings
+"settings.title"="設定";
+"settings.motivation"="メッセージを表示";
+"settings.about"="Vektについて";
+"settings.contact"="お問い合わせ";
+"settings.privacy"="個人情報保護方針";
+"settings.title.measurements"="記録";
+"settings.title.support"="サポート";
+"settings.title.subscription"="サブスクリプション";
+"settings.title.motivation"="モチベーション";
+
+// Icon
+"icon.action"="アイコンの変更";
+"icon.title"="色の選択";
+"icon.desc"="アプリの表示を？いつでも変更が可能です。";
+"appearance.theme.title"="";
+"appearance.theme.dark"="";
+"appearance.theme.light"="";
+"appearance.theme.system"="";
+"appearance.icon.title"="";
+
+// About
+"about.title"="ご利用をありがとうございます！";
+"about.devs"="【開発】Hidde van der Ploeg & Rajesh Rao";
+"about.copy"="【コピーライティング】Max Bos";
+"about.action.feedback"="フィードバックの送信";
+"about.action.twitter"="TwitterでVektをフォロー";
+"about.action.appstore"="アプリを";
+"about.action.tip"="アプリ開発者への寄付";
+
+// Subscription
+"subscription.title"="Vektのサブスクリプションについて";
+"subscription.action"="今すぐサブスクライブ！";
+"subscription.terms"="利用規約";
+"subscription.restore"="購入済み？";
+"subscription.privacy"="個人情報保護方針";
+"subscription.cancel"="（いつでもキャンセルが可能です）";
+"subscription.new.title"="Vekt";
+"subscription.new.desc"="";
+"subscription.new.benefit-1.title"="";
+"subscription.new.benefit-1.desc"="";
+"subscription.new.benefit-2.title"="";
+"subscription.new.benefit-2.desc"="";
+"subscription.new.benefit-3.title"="";
+"subscription.new.benefit-3.desc"="";
+"subscription.new.benefit-4.title"="定期的な更新";
+"subscription.new.benefit-4.desc"="定期的な更新に努めてまいります。";
+"subscription.new.best"="75%オフ！";
+"subscription.old.title"="こんにちは！";
+"subscription.old.desc-1"="大規模リニューアルの『Vekt 3』へようこそ！";
+"subscription.old.desc-2"="1年間の無料アクセスをプレゼントします。";
+"subscription.old.desc-3"="いつものご利用の感謝を込めて、1年無料利用を";
+"subscription.old.action.buy"="";
+"subscription.old.action.free"="無料で利用";
+
+// Widget
+"widget.noacces"="";
+"widget.target.remain"="";
+"widget.weight.title"="";
+"widget.weight.desc"="";
+"widget.target.title"="";
+"widget.target.desc"="";
+
+// Siri
+"siri.title"="体重を測る";
+"siri.phrase"="体重を測る";
+"siri.shortcut.open"="ベクトを開いてくだダサい。";
+
+// Tipping
+"tipping.title"="Vektのご利用をありがとうございます！";
+"tipping.desc"="みなさま。少しでもお役に立てたら幸いです。Vektが大好きなあなた、";
+"tipping.item.small.title"="飲み物代";
+"tipping.item.medium.title"="食事代";
+"tipping.item.large.title"="世界一のVektファン";
+
+// Complication
+"complication.target.title"="";
+"complication.shortcut.title"="『Vekt』へのクイックアクセス";
+
+// Actions
+"actions.next"="次";
+"actions.cancel"="停止";
+"actions.skip"="スキップ";
+"actions.save"="保存";
+"actions.done"="完了";
+"actions.save.target"="目標体重の更新";
+"actions.save.weight"="ご体重の更新";
+"actions.edit"="修正";
+"actions.close"="終了";
+"actions.delete" = "削除";
+"actions.delete.weight"="ウェイトを削除";
+
+// Messages
+"motivation.positive.1"="いいですね！踊りましょう！";
+"motivation.positive.2"="最高です！";
+"motivation.positive.3"="その調子です！またやっていきましょう！";
+"motivation.positive.4"="誇らしいです！まだまだこれからです！";
+"motivation.positive.5"="見せてやりましょう！";
+"motivation.positive.6"="もはやヒーローです！頑張りましょう！";
+"motivation.positive.7"="感動しました！";
+"motivation.positive.8"="一歩一歩でゴールへ近づけましょう！";
+"motivation.positive.9"="それそれ！さすがすぎます！";
+"motivation.positive.10"="星みたいに輝いています！素晴らしいです！";
+"motivation.positive.11"="ナイス！";
+"motivation.positive.12"="バッチリです！";
+"motivation.positive.13"="";
+"motivation.negative.1"="ローマは1日にして成らず。これからなんです！";
+"motivation.negative.2"="来週こそやっていきましょう！";
+"motivation.negative.3"="";
+"motivation.negative.4"="";
+"motivation.negative.5"="こういう日もあります！どう乗り越えていくのかが大事です！";
+"motivation.negative.6"="こんなに難しいなんて、誰でも教えてくれませんよね！頑張りましょう！";
+"motivation.negative.lose.1"="諦めなければ勝ちです！";
+"motivation.negative.lose.2"="勝ち続ける人は決して諦めません。";
+"motivation.negative.lose.3"="食事前にお水2杯を飲んでみましょう！";
+"motivation.negative.gain.1"="毎朝";
+"motivation.negative.gain.2"="";
+"motivation.negative.gain.3"="";
+"motivation.negative.gain.4"="";
+"motivation.neutral.1"="";
+"motivation.neutral.2"="";

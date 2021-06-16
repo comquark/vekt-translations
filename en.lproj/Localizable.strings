@@ -114,6 +114,7 @@
 "bmi.watch.setup"="Please setup your height on iPhone first";
 "bmi.how"="Where's my BMI?";
 
+// History
 "history.card.countdown-4"="You need 4 weigh-ins to see your progress chart.";
 "history.card.countdown-3"="Save your weight 3 more times to see your progress chart.";
 "history.card.countdown-2"="Just 2 more weigh-ins to go!";
@@ -123,9 +124,8 @@
 "history.targets"="Targets hit";
 "history.measurements"="Measurements";
 "history.best"="Best weight";
-"history.status"="You've %@ %@ %@ since %@";
-"history.status.gained"="You've gained %@ %@ since %@";
-"history.status.lost"="You've lost %@ %@ since %@";
+"history.status.gained"="You've gained %@ %@ since %@"; // Value Unit Date
+"history.status.lost"="You've lost %@ %@ since %@"; // Value Unit Date
 
 // Home
 "home.summary"="Summary";
@@ -153,7 +153,6 @@
 "appearance.theme.light" = "Light";
 "appearance.theme.system" = "System";
 "appearance.icon.title" = "Icon";
-
 
 // About
 "about.title"="Thanks for the support!";
@@ -259,6 +258,3 @@
 "motivation.negative.gain.4"="Try adding oats, almonds or peanut butter to your breakfast. Get those proteins in early!";
 "motivation.neutral.1"="Good work on measuring your weight!";
 "motivation.neutral.2"="Good job! You're on track to a healthy habit!";
-
-
-
