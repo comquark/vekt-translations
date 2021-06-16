@@ -1,3 +1,9 @@
+//
+//  Copy by Max Bos (http://maximsays.com)
+//
+
+
+// Onboarding
 "onboarding.healthaccess.title"="Gezondheid-app toegang";
 "onboarding.healthaccess.desc"="Toegang tot de Gezondheid-app is nodig om al je gezondheidsdata op één plek te kunnen opslaan. Je data is altijd privé en zal nooit worden gedeeld.";
 "onboarding.healthaccess.info"="De Gezondheid-app verbetert de app ervaring van Vekt, omdat het al je gezondheidsdata koppelt en automatisch synchroniseert.\n\n\Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd in de Gezondheid-app, versleuteld en beschermd door je eigen toegangscode.";

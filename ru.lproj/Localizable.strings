@@ -1,3 +1,8 @@
+//
+//  Copy by Anton Siliuk
+//
+
+//Onboarding
 "onboarding.healthaccess.title"="Доступ к Apple Health";
 "onboarding.healthaccess.desc"="Предоставьте доступ для хранения всех данные о состоянии вашего здоровья в одном месте. Ваши данные остаются приватными и не будут разглашены.";
 "onboarding.healthaccess.info"="Доступ к Apple Health улучшает работу приложения Vekt, так как оно автоматически синхронизирует все ваши данные о здоровье и фитнесе.

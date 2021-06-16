@@ -1,3 +1,8 @@
+//
+//  Copy by Max Bos (http://maximsays.com)
+//
+
+// Onboarding
 "onboarding.healthaccess.title"="Apple Health Access";
 "onboarding.healthaccess.desc"="Give access to have all your health data conveniently stored in one place. Your data is private and will never be shared.";
 "onboarding.healthaccess.info"="Using Vekt with Apple Health improves the app experience, as it automatically syncs all your health and fitness data together.\n\nMost importantly: your data belongs to you only and never leaves your device. It is kept secure in Apple Health, encrypted and protected with your iPhone's passcode.";
