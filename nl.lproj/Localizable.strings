@@ -38,6 +38,15 @@
 "alldata.action"="Toon alle gewichten";
 "alldata.healthkit.action"="Toon in Gezondheid-app";
 
+// Weight Details
+"details.weight.imperial"="Gewicht in imperiaal:";
+"details.weight.metric"="Gewicht in metriek:";
+"details.weight.compared"="%@ %@ ten opzichte van je gemiddelde.";
+"details.weight.title"="Gewicht details";
+"details.weight.delete.confirmation.title"="Weet je het zeker?";
+"details.weight.delete.confirmation.description"="Wil je dit gewicht verwijderen?";
+
+
 // Reminders
 "reminders.title"="Herinneringen";
 "reminders.desc"="Vergroot je kans op succes met herinneringen. Vekt gebruikers maken 32% vaker een gewoonte van jezelf wegen met notificaties aan.";
@@ -216,6 +225,8 @@
 "actions.save.weight"="Gewicht opslaan";
 "actions.edit"="Bewerk";
 "actions.close"="Sluit";
+"actions.delete"="Verwijder";
+"actions.delete.weight"="Verwijder gewicht";
 
 // Messages
 "motivation.positive.1"="Yes! Ga dit vieren!";

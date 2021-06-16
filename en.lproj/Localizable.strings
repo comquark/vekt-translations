@@ -38,6 +38,14 @@
 "alldata.action"="View All Weights";
 "alldata.healthkit.action"="View in Apple Health";
 
+// Weight Details
+"details.weight.imperial"="Weight in Imperial:";
+"details.weight.metric"="Weight in Metric:";
+"details.weight.compared"="%@ %@ compared to your average."; // Value, Unit
+"details.weight.title"="Weight Details";
+"details.weight.delete.confirmation.title"="Are you sure?";
+"details.weight.delete.confirmation.description"="You want to delete this weight entry?";
+
 // Reminders
 "reminders.title"="Reminders";
 "reminders.desc"="Boost your chance of success with reminders. Vekt users are 32% more likely to turn weight tracking into a habit with notifications on. ";
@@ -219,6 +227,8 @@
 "actions.save.weight"="Save Weight";
 "actions.edit"="Edit";
 "actions.close"="Close";
+"actions.delete" = "Delete";
+"actions.delete.weight"="Delete Weight";
 
 // Messages
 "motivation.positive.1"="Yes! Now give me a celebration dance!";
