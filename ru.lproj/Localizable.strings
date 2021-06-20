@@ -61,6 +61,11 @@
 "reminders.time"="Время";
 "reminders.notification.title"="Отслеживание веса";
 "reminders.notification.body"="Привет! Настало время снова измерить свой вес. Это займет всего секунду ☺️";
+"reminders.notification.body.2"="";
+"reminders.notification.body.3"="";
+"reminders.notification.body.4"="";
+"reminders.notification.body.5"="";
+
 "reminders.notification.hidden"="Напоминание";
 "reminders.notification.saved"="Новый вес сохранен! 🎉";
 "reminders.repeat.desc"="Как часто вы бы хотели получать напоминания?";
