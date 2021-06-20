@@ -61,7 +61,12 @@
 "reminders.freq"="Herhaal";
 "reminders.time"="Tijd";
 "reminders.notification.title"="Voer gewicht in";
-"reminders.notification.body"="Hey! Het is tijd om je gewicht in te voeren. Het duurt maar een paar seconden :) ";
+"reminders.notification.body"="Hey! Het is tijd om je gewicht in te voeren. Het duurt maar een paar seconden ☺️";
+"reminders.notification.body.2"="";
+"reminders.notification.body.3"="";
+"reminders.notification.body.4"="";
+"reminders.notification.body.5"="";
+
 "reminders.notification.hidden"="Herinnering";
 "reminders.notification.saved"="Nieuw gewicht opgeslagen! 🎉";
 "reminders.repeat.desc"="Hoe vaak wil je herinnerd worden? ";
