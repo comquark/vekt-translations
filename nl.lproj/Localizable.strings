@@ -48,6 +48,8 @@
 "details.weight.imperial"="Gewicht in imperiaal:";
 "details.weight.metric"="Gewicht in metriek:";
 "details.weight.compared"="%@ %@ ten opzichte van je gemiddelde.";
+"details.weight.more"="Dat is %@ %@ meer dan je gemiddelde."; // Value, Unit
+"details.weight.less"="Dit is %@ %@ minder dan je gemiddelde."; // Value, Unit
 "details.weight.title"="Gewicht details";
 "details.weight.delete.confirmation.title"="Weet je het zeker?";
 "details.weight.delete.confirmation.description"="Wil je dit gewicht verwijderen?";
@@ -154,6 +156,10 @@
 "settings.title.support"="Ondersteuning";
 "settings.title.subscription"="Abonnement";
 "settings.title.motivation"="Motivatie";
+"settings.subscription.purchased" = "Gekocht op %@";
+"settings.subscription.expires" = "Verloopt op %@";
+"settings.subscription.trial" = "Proefversie";
+"settings.subscription.active" = "Actief";
 
 // Icon
 "icon.action"="Wijzig stijl";

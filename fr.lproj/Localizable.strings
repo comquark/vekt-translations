@@ -42,7 +42,6 @@
 // Weight Details
 "details.weight.imperial"="Poids en impérial:";
 "details.weight.metric"="Poids en métrique:";
-"details.weight.compared"="%@ %@ par rapport à votre moyenne."; // Value, Unit
 "details.weight.title"="Détails du poids";
 "details.weight.delete.confirmation.title"="Êtes-vous sûr?";
 "details.weight.delete.confirmation.description"="Vous voulez supprimer cette entrée de poids?";

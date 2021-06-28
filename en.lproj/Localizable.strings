@@ -46,7 +46,8 @@
 // Weight Details
 "details.weight.imperial"="Weight in Imperial:";
 "details.weight.metric"="Weight in Metric:";
-"details.weight.compared"="%@ %@ compared to your average."; // Value, Unit
+"details.weight.compared.more"="That's %@ %@ more than your average."; // Value, Unit
+"details.weight.compared.less"="This is %@ %@ less than your average."; // Value, Unit
 "details.weight.title"="Weight Details";
 "details.weight.delete.confirmation.title"="Are you sure?";
 "details.weight.delete.confirmation.description"="You want to delete this weight entry?";
@@ -60,10 +61,10 @@
 "reminders.time"="Time";
 "reminders.notification.title"="Track your weight";
 "reminders.notification.body"="Hey! It's time to track your weight again. It will only take a second ☺️";
-"reminders.notification.body.2"="";
-"reminders.notification.body.3"="";
-"reminders.notification.body.4"="";
-"reminders.notification.body.5"="";
+"reminders.notification.body.2"="Random 2";
+"reminders.notification.body.3"="Random 3";
+"reminders.notification.body.4"="Random 4";
+"reminders.notification.body.5"="Random 5";
 
 "reminders.notification.hidden"="Reminder";
 "reminders.notification.saved"="New weight saved! 🎉";
@@ -153,6 +154,11 @@
 "settings.title.support"="Support";
 "settings.title.subscription"="Subscription";
 "settings.title.motivation"="Motivation";
+"settings.subscription.purchased" = "Purchased on %@";
+"settings.subscription.expires" = "Expires on %@";
+"settings.subscription.trial" = "Trial";
+"settings.subscription.active" = "Active";
+
 
 // Icon
 "icon.action"="Change Appearance";

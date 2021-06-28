@@ -47,7 +47,6 @@
 // Weight Details
 "details.weight.imperial"="Вес в имперских единицах:";
 "details.weight.metric"="Вес в метрических единицах:";
-"details.weight.compared"="%@ %@ по сравнению с вашим средним."; // Value, Unit
 "details.weight.title"="Детали веса";
 "details.weight.delete.confirmation.title"="Уверены ли вы?";
 "details.weight.delete.confirmation.description"="Вы хотите удалить эту запись веса?";
