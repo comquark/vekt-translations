@@ -1,3 +1,8 @@
+//
+//  Copy by Max Bos (http://maximsays.com)
+//
+
+// Onboarding
 "onboarding.healthaccess.title"="Apple Health Access";
 "onboarding.healthaccess.desc"="Give access to have all your health data conveniently stored in one place. Your data is private and will never be shared.";
 "onboarding.healthaccess.info"="Using Vekt with Apple Health improves the app experience, as it automatically syncs all your health and fitness data together.\n\nMost importantly: your data belongs to you only and never leaves your device. It is kept secure in Apple Health, encrypted and protected with your iPhone's passcode.";
@@ -41,7 +46,8 @@
 // Weight Details
 "details.weight.imperial"="Weight in Imperial:";
 "details.weight.metric"="Weight in Metric:";
-"details.weight.compared"="%@ %@ compared to your average."; // Value, Unit
+"details.weight.compared.more"="That's %@ %@ more than your average."; // Value, Unit
+"details.weight.compared.less"="This is %@ %@ less than your average."; // Value, Unit
 "details.weight.title"="Weight Details";
 "details.weight.delete.confirmation.title"="Are you sure?";
 "details.weight.delete.confirmation.description"="You want to delete this weight entry?";
@@ -55,6 +61,11 @@
 "reminders.time"="Time";
 "reminders.notification.title"="Track your weight";
 "reminders.notification.body"="Hey! It's time to track your weight again. It will only take a second ☺️";
+"reminders.notification.body.2"="Random 2";
+"reminders.notification.body.3"="Random 3";
+"reminders.notification.body.4"="Random 4";
+"reminders.notification.body.5"="Random 5";
+
 "reminders.notification.hidden"="Reminder";
 "reminders.notification.saved"="New weight saved! 🎉";
 "reminders.repeat.desc"="How often do you want to get reminded?";
@@ -114,6 +125,7 @@
 "bmi.watch.setup"="Please setup your height on iPhone first";
 "bmi.how"="Where's my BMI?";
 
+// History
 "history.card.countdown-4"="You need 4 weigh-ins to see your progress chart.";
 "history.card.countdown-3"="Save your weight 3 more times to see your progress chart.";
 "history.card.countdown-2"="Just 2 more weigh-ins to go!";
@@ -123,9 +135,8 @@
 "history.targets"="Targets hit";
 "history.measurements"="Measurements";
 "history.best"="Best weight";
-"history.status"="You've %@ %@ %@ since %@";
-"history.status.gained"="You've gained %@ %@ since %@";
-"history.status.lost"="You've lost %@ %@ since %@";
+"history.status.gained"="You've gained %@ %@ since %@"; // Value Unit Date
+"history.status.lost"="You've lost %@ %@ since %@"; // Value Unit Date
 
 // Home
 "home.summary"="Summary";
@@ -143,6 +154,11 @@
 "settings.title.support"="Support";
 "settings.title.subscription"="Subscription";
 "settings.title.motivation"="Motivation";
+"settings.subscription.purchased" = "Purchased on %@";
+"settings.subscription.expires" = "Expires on %@";
+"settings.subscription.trial" = "Trial";
+"settings.subscription.active" = "Active";
+
 
 // Icon
 "icon.action"="Change Appearance";
@@ -153,7 +169,6 @@
 "appearance.theme.light" = "Light";
 "appearance.theme.system" = "System";
 "appearance.icon.title" = "Icon";
-
 
 // About
 "about.title"="Thanks for the support!";
@@ -259,6 +274,3 @@
 "motivation.negative.gain.4"="Try adding oats, almonds or peanut butter to your breakfast. Get those proteins in early!";
 "motivation.neutral.1"="Good work on measuring your weight!";
 "motivation.neutral.2"="Good job! You're on track to a healthy habit!";
-
-
-

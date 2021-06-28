@@ -1,3 +1,4 @@
+// Onboarding
 "onboarding.healthaccess.title"="Apple Santé Access";
 "onboarding.healthaccess.desc"="Donner accès à toutes vos données ont de santé commodément stockées dans un seul endroit. Vos données sont privées et ne seront jamais partagées.";
 "onboarding.healthaccess.info"="L'utilisation Vekt avec Apple Santé améliore l'expérience de l'application, comme automatiquement synchronise tous vos données de santé et fitness ensemble \n\nplus important. Vos données vous appartient uniquement et ne quitte jamais votre appareil. Il est maintenu en sécurité dans Apple santé, cryptées et protégées par le mot de passe de votre iPhone.";
@@ -41,7 +42,6 @@
 // Weight Details
 "details.weight.imperial"="Poids en impérial:";
 "details.weight.metric"="Poids en métrique:";
-"details.weight.compared"="%@ %@ par rapport à votre moyenne."; // Value, Unit
 "details.weight.title"="Détails du poids";
 "details.weight.delete.confirmation.title"="Êtes-vous sûr?";
 "details.weight.delete.confirmation.description"="Vous voulez supprimer cette entrée de poids?";
@@ -56,6 +56,11 @@
 "reminders.time"="Temps";
 "reminders.notification.title"="Suivi de votre poids";
 "reminders.notification.body"="Hey! Il est temps de suivre à nouveau votre poids. Il faudra seulement une seconde ☺️";
+"reminders.notification.body.2"="";
+"reminders.notification.body.3"="";
+"reminders.notification.body.4"="";
+"reminders.notification.body.5"="";
+
 "reminders.notification.hidden"="Rappel";
 "reminders.notification.saved"="Nouveau poids sauvé! 🎉";
 "reminders.repeat.desc"="À quelle fréquence voulez-vous faire rappeler?";

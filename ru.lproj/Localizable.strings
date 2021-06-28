@@ -1,3 +1,8 @@
+//
+//  Copy by Anton Siliuk
+//
+
+//Onboarding
 "onboarding.healthaccess.title"="Доступ к Apple Health";
 "onboarding.healthaccess.desc"="Предоставьте доступ для хранения всех данные о состоянии вашего здоровья в одном месте. Ваши данные остаются приватными и не будут разглашены.";
 "onboarding.healthaccess.info"="Доступ к Apple Health улучшает работу приложения Vekt, так как оно автоматически синхронизирует все ваши данные о здоровье и фитнесе.
@@ -42,7 +47,6 @@
 // Weight Details
 "details.weight.imperial"="Вес в имперских единицах:";
 "details.weight.metric"="Вес в метрических единицах:";
-"details.weight.compared"="%@ %@ по сравнению с вашим средним."; // Value, Unit
 "details.weight.title"="Детали веса";
 "details.weight.delete.confirmation.title"="Уверены ли вы?";
 "details.weight.delete.confirmation.description"="Вы хотите удалить эту запись веса?";
@@ -56,6 +60,11 @@
 "reminders.time"="Время";
 "reminders.notification.title"="Отслеживание веса";
 "reminders.notification.body"="Привет! Настало время снова измерить свой вес. Это займет всего секунду ☺️";
+"reminders.notification.body.2"="";
+"reminders.notification.body.3"="";
+"reminders.notification.body.4"="";
+"reminders.notification.body.5"="";
+
 "reminders.notification.hidden"="Напоминание";
 "reminders.notification.saved"="Новый вес сохранен! 🎉";
 "reminders.repeat.desc"="Как часто вы бы хотели получать напоминания?";

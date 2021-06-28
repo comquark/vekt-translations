@@ -1,3 +1,9 @@
+//
+//  Copy by Max Bos (http://maximsays.com)
+//
+
+
+// Onboarding
 "onboarding.healthaccess.title"="Gezondheid-app toegang";
 "onboarding.healthaccess.desc"="Toegang tot de Gezondheid-app is nodig om al je gezondheidsdata op één plek te kunnen opslaan. Je data is altijd privé en zal nooit worden gedeeld.";
 "onboarding.healthaccess.info"="De Gezondheid-app verbetert de app ervaring van Vekt, omdat het al je gezondheidsdata koppelt en automatisch synchroniseert.\n\n\Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd in de Gezondheid-app, versleuteld en beschermd door je eigen toegangscode.";
@@ -42,6 +48,8 @@
 "details.weight.imperial"="Gewicht in imperiaal:";
 "details.weight.metric"="Gewicht in metriek:";
 "details.weight.compared"="%@ %@ ten opzichte van je gemiddelde.";
+"details.weight.more"="Dat is %@ %@ meer dan je gemiddelde."; // Value, Unit
+"details.weight.less"="Dit is %@ %@ minder dan je gemiddelde."; // Value, Unit
 "details.weight.title"="Gewicht details";
 "details.weight.delete.confirmation.title"="Weet je het zeker?";
 "details.weight.delete.confirmation.description"="Wil je dit gewicht verwijderen?";
@@ -55,7 +63,12 @@
 "reminders.freq"="Herhaal";
 "reminders.time"="Tijd";
 "reminders.notification.title"="Voer gewicht in";
-"reminders.notification.body"="Hey! Het is tijd om je gewicht in te voeren. Het duurt maar een paar seconden :) ";
+"reminders.notification.body"="Hey! Het is tijd om je gewicht in te voeren. Het duurt maar een paar seconden ☺️";
+"reminders.notification.body.2"="";
+"reminders.notification.body.3"="";
+"reminders.notification.body.4"="";
+"reminders.notification.body.5"="";
+
 "reminders.notification.hidden"="Herinnering";
 "reminders.notification.saved"="Nieuw gewicht opgeslagen! 🎉";
 "reminders.repeat.desc"="Hoe vaak wil je herinnerd worden? ";
@@ -143,6 +156,10 @@
 "settings.title.support"="Ondersteuning";
 "settings.title.subscription"="Abonnement";
 "settings.title.motivation"="Motivatie";
+"settings.subscription.purchased" = "Gekocht op %@";
+"settings.subscription.expires" = "Verloopt op %@";
+"settings.subscription.trial" = "Proefversie";
+"settings.subscription.active" = "Actief";
 
 // Icon
 "icon.action"="Wijzig stijl";
