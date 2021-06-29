@@ -2,7 +2,6 @@
 //  Copy by Max Bos (http://maximsays.com)
 //
 
-
 // Onboarding
 "onboarding.healthaccess.title"="Gezondheid-app toegang";
 "onboarding.healthaccess.desc"="Toegang tot de Gezondheid-app is nodig om al je gezondheidsdata op één plek te kunnen opslaan. Je data is altijd privé en zal nooit worden gedeeld.";
@@ -47,13 +46,11 @@
 // Weight Details
 "details.weight.imperial"="Gewicht in imperiaal:";
 "details.weight.metric"="Gewicht in metriek:";
-"details.weight.compared"="%@ %@ ten opzichte van je gemiddelde.";
 "details.weight.more"="Dat is %@ %@ meer dan je gemiddelde."; // Value, Unit
 "details.weight.less"="Dit is %@ %@ minder dan je gemiddelde."; // Value, Unit
 "details.weight.title"="Gewicht details";
 "details.weight.delete.confirmation.title"="Weet je het zeker?";
 "details.weight.delete.confirmation.description"="Wil je dit gewicht verwijderen?";
-
 
 // Reminders
 "reminders.title"="Herinneringen";
@@ -149,6 +146,7 @@
 // Settings
 "settings.title"="Instellingen";
 "settings.motivation"="Toon motivatie";
+"settings.milestones"="Zet doel stappen";
 "settings.about"="Over Vekt";
 "settings.contact"="Neem contact op";
 "settings.privacy"="Privacy policy";
@@ -158,8 +156,8 @@
 "settings.title.motivation"="Motivatie";
 "settings.subscription.purchased" = "Gekocht op %@";
 "settings.subscription.expires" = "Verloopt op %@";
+"settings.subscription.willrenew" = "Vernieuwd op %@";
 "settings.subscription.trial" = "Proefversie";
-"settings.subscription.active" = "Actief";
 
 // Icon
 "icon.action"="Wijzig stijl";
@@ -228,6 +226,7 @@
 "tipping.item.small.title"="Geef een drankje";
 "tipping.item.medium.title"="Geef een maaltijd";
 "tipping.item.large.title"="De grootste fan van Vekt";
+
 // Complication
 "complication.target.title"="Streefgewicht";
 "complication.shortcut.title"="Snelle toegang tot vekt";

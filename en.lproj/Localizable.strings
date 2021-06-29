@@ -147,7 +147,7 @@
 // Settings
 "settings.title"="Settings";
 "settings.motivation"="Show Messages";
-"settings.milestones"="Target Milestones";
+"settings.milestones"="Set Target Milestones";
 "settings.about"="About Vekt";
 "settings.contact"="Contact Us";
 "settings.privacy"="Privacy Policy";
@@ -157,9 +157,8 @@
 "settings.title.motivation"="Motivation";
 "settings.subscription.purchased" = "Purchased on %@";
 "settings.subscription.expires" = "Expires on %@";
+"settings.subscription.willrenew" = "Will renew on %@";
 "settings.subscription.trial" = "Trial";
-"settings.subscription.active" = "Active";
-
 
 // Icon
 "icon.action"="Change Appearance";
