@@ -54,21 +54,21 @@
 
 // Reminders
 "reminders.title"="Reminders";
-"reminders.desc"="Boost your chance of success with reminders. Vekt users are 32% more likely to turn weight tracking into a habit with notifications on. ";
+"reminders.desc"="Vekt users are 32% more likely to succeed with notifications on. ";
 "reminders.action.enable"="Get Reminded";
 "reminders.date"="Start Date";
 "reminders.freq"="Repeat";
 "reminders.time"="Time";
 "reminders.notification.title"="Track your weight";
-"reminders.notification.body"="Hey! It's time to track your weight again. It will only take a second ☺️";
-"reminders.notification.body.2"="Random 2";
-"reminders.notification.body.3"="Random 3";
-"reminders.notification.body.4"="Random 4";
-"reminders.notification.body.5"="Random 5";
+"reminders.notification.body"="⏰ Time to hop onto the scale!";
+"reminders.notification.body.2"="👋 Scales out, weights in!";
+"reminders.notification.body.3"="👍 Time for a weigh-in. Keep it up!";
+"reminders.notification.body.4"="😄 Step onto the scale. You got this!";
+"reminders.notification.body.5"="💪 You're up. Get onto the scale!";
 
 "reminders.notification.hidden"="Reminder";
 "reminders.notification.saved"="New weight saved! 🎉";
-"reminders.repeat.desc"="How often do you want to get reminded?";
+"reminders.repeat.desc"="How often would you like to get reminded?";
 "reminders.repeat.daily"="Every day";
 "reminders.repeat.weekly"="Every week";
 "reminders.repeat.biweekly"="Every two weeks";
@@ -78,7 +78,7 @@
 "reminders.button.weekly"="Every %@ at ";
 "reminders.button.biweekly"="Every other %@ at ";
 "reminders.button.monthly"="Every %@ at ";
-"reminders.tutorial.desc"="To stay on track with your new habit it helps to get notified. In fact, you are 32% more likely to succeed with reminders.";
+"reminders.tutorial.desc"="Turn on reminders to increase your chance of success with 32%.";
 "reminders.tutorial.title"="Turn on reminders";
 "reminders.tutorial.cta"="Remind Me";
 
@@ -90,7 +90,7 @@
 "target.progress.next"="Next Target";
 "target.reached.title"="You made that look easy!";
 "target.reached.title.short"="You did it!";
-"target.reached.desc"="Congrats! You are taking serious steps towards a healthier you. Ready for your next milestone, or want to maintain this weight?";
+"target.reached.desc"="Congrats! You're taking serious steps to live healthier! Ready for your next target, or want to maintain this weight?";
 "target.reached.action.new"="Set New Target";
 "target.reached.action.share"="Share";
 "target.reached.action.dismiss"="Maintain Weight";
