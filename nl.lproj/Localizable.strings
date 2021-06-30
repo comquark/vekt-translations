@@ -54,17 +54,17 @@
 
 // Reminders
 "reminders.title"="Herinneringen";
-"reminders.desc"="Vergroot je kans op succes met herinneringen. Vekt gebruikers maken 32% vaker een gewoonte van jezelf wegen met notificaties aan.";
+"reminders.desc"="Vekt gebruikers slagen 32% vaker met behulp van herinneringen.";
 "reminders.action.enable"="Krijg herinneringen";
 "reminders.date"="Start datum";
 "reminders.freq"="Herhaal";
 "reminders.time"="Tijd";
-"reminders.notification.title"="Voer gewicht in";
-"reminders.notification.body"="Hey! Het is tijd om je gewicht in te voeren. Het duurt maar een paar seconden ☺️";
-"reminders.notification.body.2"="";
-"reminders.notification.body.3"="";
-"reminders.notification.body.4"="";
-"reminders.notification.body.5"="";
+"reminders.notification.title"="Voer je gewicht in";
+"reminders.notification.body"="⏰ Tijd om jezelf te wegen!";
+"reminders.notification.body.2"="😄 Hup, de weegschaal op. Je kan het!";
+"reminders.notification.body.3"="💪 Jouw beurt. Tijd om jezelf te wegen!";
+"reminders.notification.body.4"="😄 Stap op de weegschaal! Zo gepiept.";
+"reminders.notification.body.5"="👍 Tijd om jezelf te wegen. Ga zo door!";
 
 "reminders.notification.hidden"="Herinnering";
 "reminders.notification.saved"="Nieuw gewicht opgeslagen! 🎉";
@@ -78,7 +78,7 @@
 "reminders.button.weekly"="Elke %@ om ";
 "reminders.button.biweekly"="Om de %@ om ";
 "reminders.button.monthly"="Elke %@ om ";
-"reminders.tutorial.desc"="Herinneringen helpen om op koers te blijven. Je kans van slagen neemt met 32% toe, om precies te zijn.";
+"reminders.tutorial.desc"="Je kans van slagen neemt met 32% toe met herinneringen ingeschakeld.";
 "reminders.tutorial.title"="Zet herinneringen aan";
 "reminders.tutorial.cta"="Help mij herinneren";
 
