@@ -229,8 +229,9 @@
 "tipping.item.large.title"="世界一のVektファン";
 
 // Complication
-"complication.target.title"="";
+"complication.target.title"="Target & Quick access";
 "complication.shortcut.title"="『Vekt』へのクイックアクセス";
+"complication.bmi.title"="BMI Complicatie";
 
 // Actions
 "actions.next"="次";

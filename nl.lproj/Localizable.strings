@@ -228,8 +228,9 @@
 "tipping.item.large.title"="De grootste fan van Vekt";
 
 // Complication
-"complication.target.title"="Streefgewicht";
+"complication.target.title"="Streefgewicht + Snelle toegang";
 "complication.shortcut.title"="Snelle toegang tot vekt";
+"complication.bmi.title"="BMI Complicatie";
 
 // Actions
 "actions.next"="Volgende";

@@ -227,9 +227,11 @@
 "tipping.item.small.title"="Drink-Sized Conseil";
 "tipping.item.medium.title"="Astuce repas-Sized";
 "tipping.item.large.title"="Le plus grand fan de Vekt";
+
 // Complication
 "complication.target.title"="progrès cible";
 "complication.shortcut.title"="Accès rapide à Vekt";
+"complication.bmi.title"="BMI Complicatie";
 
 // Actions
 "actions.next"="Suivant";

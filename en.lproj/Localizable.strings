@@ -54,7 +54,7 @@
 
 // Reminders
 "reminders.title"="Reminders";
-"reminders.desc"="Vekt users are 32% more likely to succeed with notifications on. ";
+"reminders.desc"="Vekt users are 32% more likely to succeed with notifications on.";
 "reminders.action.enable"="Get Reminded";
 "reminders.date"="Start Date";
 "reminders.freq"="Repeat";
@@ -229,8 +229,9 @@
 "tipping.item.large.title"="The Biggest Fan of Vekt";
 
 // Complication
-"complication.target.title"="Target Progress";
+"complication.target.title"="Target & Quick access";
 "complication.shortcut.title"="Quick access to Vekt";
+"complication.bmi.title"="BMI Complication";
 
 // Actions
 "actions.next"="Next";

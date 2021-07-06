@@ -231,6 +231,7 @@
 // Complication
 "complication.target.title"="Прогресс цели";
 "complication.shortcut.title"="Быстрый доступ к Vekt";
+"complication.bmi.title"="BMI Complication";
 
 // Actions
 "actions.next"="Дальше";
