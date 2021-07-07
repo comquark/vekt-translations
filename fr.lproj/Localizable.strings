@@ -207,6 +207,7 @@
 "subscription.month"="%@ par mois";
 "subscription.lifetime"="%@ une fois";
 "subscription.trial"="Un mois d'essai gratuit";
+"subscription.manage"="Manage Subscription";
 
 // Widget
 "widget.noacces"="Vekt doit être en mesure de lire d'Apple Santé.";

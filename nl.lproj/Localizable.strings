@@ -206,6 +206,7 @@
 "subscription.month"="%@ per maand";
 "subscription.lifetime"="%@ eenmalig";
 "subscription.trial"="Probeer één maand gratis";
+"subscription.manage"="Beheer Abonnement";
 
 // Widget
 "widget.noacces"="Vekt moet gegevens kunnen lezen in de Gezondheid-app.";

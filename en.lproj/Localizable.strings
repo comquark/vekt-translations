@@ -207,6 +207,7 @@
 "subscription.month"="%@ per month";
 "subscription.lifetime"="%@ one time";
 "subscription.trial"="Try 1 Month free";
+"subscription.manage"="Manage Subscription";
 
 // Widget
 "widget.noacces"="Vekt needs to be able to read from Apple Health.";

@@ -207,6 +207,7 @@
 "subscription.month"="%@ в месяц";
 "subscription.lifetime"="%@ один раз";
 "subscription.trial"="Первый месяц бесплатно";
+"subscription.manage"="Manage Subscription";
 
 // Widget
 "widget.noacces"="Vekt нужен доступ для чтения Apple Health.";
