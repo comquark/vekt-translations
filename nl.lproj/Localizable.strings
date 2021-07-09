@@ -119,7 +119,7 @@
 "bmi.weight.title"="Gewicht";
 "bmi.height.title"="Lengte";
 "bmi.action.edit.height"="Verander lengte";
-
+"bmi.title" = "bmi";
 "bmi.action.weight"="Voer gewicht in";
 "bmi.action.height"="Voer lengte in";
 "bmi.watch.setup"="Voer eerst je lengte in op iPhone";
@@ -136,6 +136,7 @@
 "history.best"="Beste gewicht";
 "history.status.gained"="Je bent %@ %@ aangekomen sinds %@";
 "history.status.lost"="Je bent %@ %@ afgevallen sinds %@";
+"history.average.value"="%.1f gem."; // BMI
 
 // Home
 "home.summary"="Samenvatting";

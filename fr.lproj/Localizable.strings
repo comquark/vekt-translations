@@ -119,7 +119,7 @@
 "bmi.weight.title"="Poids";
 "bmi.height.title"="Hauteur";
 "bmi.action.edit.height"="Modifier Hauteur";
-
+"bmi.title" = "IMC";
 "bmi.action.weight"="entrer le poids";
 "bmi.action.height"="entrer Hauteur";
 "bmi.watch.setup"="Configuration de votre taille s'il vous plaît sur iPhone premier";
@@ -137,6 +137,7 @@
 "history.best"="meilleur poids";
 "history.status.gained"="Vous avez gagné %@ %@ depuis %@";
 "history.status.lost"="Vous avez perdu %@ %@ depuis %@";
+"history.average.value"="%.1f avg."; // BMI
 
 // Home
 "home.summary"="Résumé";

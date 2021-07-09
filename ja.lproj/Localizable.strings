@@ -119,7 +119,7 @@
 "bmi.weight.title"="ご体重";
 "bmi.height.title"="ご身長";
 "bmi.action.edit.height"="ご身長の更新";
-
+"bmi.title" = "bmi";
 "bmi.action.weight"="ご体重の記入";
 "bmi.action.height"="ご身長の記入";
 "bmi.watch.setup"="iPhoneでご身長を設定してください。";
@@ -137,6 +137,7 @@
 "history.best"="--体重";
 "history.status.gained"="";
 "history.status.lost"="";
+"history.average.value"="%.1f avg."; // BMI
 
 // Home
 "home.summary"="まとめ";

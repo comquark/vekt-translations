@@ -119,7 +119,7 @@
 "bmi.weight.title"="Weight";
 "bmi.height.title"="Height";
 "bmi.action.edit.height"="Change Height";
-
+"bmi.title" = "bmi";
 "bmi.action.weight"="Enter Weight";
 "bmi.action.height"="Enter Height";
 "bmi.watch.setup"="Please setup your height on iPhone first";
@@ -137,6 +137,7 @@
 "history.best"="Best weight";
 "history.status.gained"="You've gained %@ %@ since %@"; // Value Unit Date
 "history.status.lost"="You've lost %@ %@ since %@"; // Value Unit Date
+"history.average.value"="%.1f avg."; // BMI
 
 // Home
 "home.summary"="Summary";
