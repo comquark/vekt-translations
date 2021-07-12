@@ -138,6 +138,8 @@
 "history.status.gained"="";
 "history.status.lost"="";
 "history.average.value"="%.1f avg."; // BMI
+"history.weight.graph.title" = "Latest weights";
+"history.weight.graph.count" = "entries";
 
 // Home
 "home.summary"="まとめ";

@@ -137,7 +137,9 @@
 "history.best"="meilleur poids";
 "history.status.gained"="Vous avez gagné %@ %@ depuis %@";
 "history.status.lost"="Vous avez perdu %@ %@ depuis %@";
-"history.average.value"="%.1f avg."; // BMI
+"history.average.value"="%.1f moy."; // BMI
+"history.weight.graph.title" = "Dernier";
+"history.weight.graph.count" = "poids";
 
 // Home
 "home.summary"="Résumé";

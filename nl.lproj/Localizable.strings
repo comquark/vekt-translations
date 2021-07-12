@@ -137,6 +137,8 @@
 "history.status.gained"="Je bent %@ %@ aangekomen sinds %@";
 "history.status.lost"="Je bent %@ %@ afgevallen sinds %@";
 "history.average.value"="%.1f gem."; // BMI
+"history.weight.graph.title" = "Recente gewichten";
+"history.weight.graph.count" = "metingen";
 
 // Home
 "home.summary"="Samenvatting";

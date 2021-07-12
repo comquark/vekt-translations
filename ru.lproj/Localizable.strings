@@ -138,6 +138,8 @@
 "history.status.gained"="вы набрали %@ %@ вес, так как %@"; // Value Unit Date
 "history.status.lost"="вы потеряли %@ %@ вес, так как %@"; // Value Unit Date
 "history.average.value"="%.1f avg."; // BMI
+"history.weight.graph.title" = "Latest weights";
+"history.weight.graph.count" = "entries";
 
 // Home
 "home.summary"="Сводка";
