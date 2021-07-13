@@ -1,3 +1,7 @@
+
+
+
+
 // Onboarding
 "onboarding.healthaccess.title"="Apple Santé Access";
 "onboarding.healthaccess.desc"="Donner accès à toutes vos données ont de santé commodément stockées dans un seul endroit. Vos données sont privées et ne seront jamais partagées.";
@@ -42,10 +46,11 @@
 // Weight Details
 "details.weight.imperial"="Poids en impérial:";
 "details.weight.metric"="Poids en métrique:";
+"details.weight.compared.more"="C'est %@ %@ de plus que votre moyenne."; // Value, Unit
+"details.weight.compared.less"="C'est %@ %@ moins que votre moyenne."; // Value, Unit
 "details.weight.title"="Détails du poids";
 "details.weight.delete.confirmation.title"="Êtes-vous sûr?";
 "details.weight.delete.confirmation.description"="Vous voulez supprimer cette entrée de poids?";
-
 
 // Reminders
 "reminders.title"="Reminders";
@@ -114,9 +119,11 @@
 "bmi.weight.title"="Poids";
 "bmi.height.title"="Hauteur";
 "bmi.action.edit.height"="Modifier Hauteur";
+"bmi.title" = "IMC";
 "bmi.action.weight"="entrer le poids";
 "bmi.action.height"="entrer Hauteur";
 "bmi.watch.setup"="Configuration de votre taille s'il vous plaît sur iPhone premier";
+"bmi.how"="Où est mon IMC?";
 
 // History
 "history.card.countdown-4"="Vous avez besoin de 4 peser-ins pour voir votre tableau de progression.";
@@ -128,9 +135,11 @@
 "history.targets"="cibles succès";
 "history.measurements"="Des mesures";
 "history.best"="meilleur poids";
-"history.status"="Vous avez gagné %@ %@ %@ depuis";
 "history.status.gained"="Vous avez gagné %@ %@ depuis %@";
 "history.status.lost"="Vous avez perdu %@ %@ depuis %@";
+"history.average.value"="%.1f moy."; // BMI
+"history.weight.graph.title" = "Dernier";
+"history.weight.graph.count" = "poids";
 
 // Home
 "home.summary"="Résumé";
@@ -141,6 +150,7 @@
 // Settings
 "settings.title"="Réglages";
 "settings.motivation"="Afficher les messages";
+"settings.milestones"="Étapes cibles";
 "settings.about"="A propos Vekt";
 "settings.contact"="Nous contacter";
 "settings.privacy"="Politique de confidentialité";
@@ -148,6 +158,10 @@
 "settings.title.support"="Support";
 "settings.title.subscription"="Abonnement";
 "settings.title.motivation"="Motivation";
+"settings.subscription.purchased" = "Acheté le %@";
+"settings.subscription.expires" = "Expire le %@";
+"settings.subscription.willrenew" = "Renouvellera le %@";
+"settings.subscription.trial" = "Essai";
 
 // Icon
 "icon.action"="Changer d'apparence";
@@ -186,7 +200,6 @@
 "subscription.new.benefit-4.title"="mises à jour régulières";
 "subscription.new.benefit-4.desc"="Nous mettrons à jour cette application sur une base régulière pour le garder frais";
 "subscription.new.best"="Save 75%";
-
 "subscription.old.title"="Salut mon ami!";
 "subscription.old.desc-1"="Bienvenue sur Vekt 3, mais notre plus grande mise à jour.";
 "subscription.old.desc-2"="Nous vous offrons un accès gratuit pendant un an.";
@@ -197,6 +210,7 @@
 "subscription.month"="%@ par mois";
 "subscription.lifetime"="%@ une fois";
 "subscription.trial"="Un mois d'essai gratuit";
+"subscription.manage"="Manage Subscription";
 
 // Widget
 "widget.noacces"="Vekt doit être en mesure de lire d'Apple Santé.";
@@ -217,9 +231,11 @@
 "tipping.item.small.title"="Drink-Sized Conseil";
 "tipping.item.medium.title"="Astuce repas-Sized";
 "tipping.item.large.title"="Le plus grand fan de Vekt";
+
 // Complication
 "complication.target.title"="progrès cible";
 "complication.shortcut.title"="Accès rapide à Vekt";
+"complication.bmi.title"="BMI Complicatie";
 
 // Actions
 "actions.next"="Suivant";
@@ -233,7 +249,6 @@
 "actions.close"="Fermer";
 "actions.delete"="Supprimer";
 "actions.delete.weight"="Supprimer poids";
-
 
 // Messages
 "motivation.positive.1"="Oui! Maintenant, donnez-moi une danse de fête!";

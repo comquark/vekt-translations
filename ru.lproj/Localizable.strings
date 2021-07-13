@@ -5,8 +5,7 @@
 //Onboarding
 "onboarding.healthaccess.title"="Доступ к Apple Health";
 "onboarding.healthaccess.desc"="Предоставьте доступ для хранения всех данные о состоянии вашего здоровья в одном месте. Ваши данные остаются приватными и не будут разглашены.";
-"onboarding.healthaccess.info"="Доступ к Apple Health улучшает работу приложения Vekt, так как оно автоматически синхронизирует все ваши данные о здоровье и фитнесе.
-Самое главное: Ваши данные принадлежат только вам и никогда не покидают устройство. Они хранятся в безопасности в Apple Health, зашифрованы и защищены паролем вашего iPhone.";
+"onboarding.healthaccess.info"="Доступ к Apple Health улучшает работу приложения Vekt, так как оно автоматически синхронизирует все ваши данные о здоровье и фитнесе.\n\nСамое главное: Ваши данные принадлежат только вам и никогда не покидают устройство. Они хранятся в безопасности в Apple Health, зашифрованы и защищены паролем вашего iPhone.";
 "onboarding.healthaccess.why"="Узнать больше";
 "onboarding.healthaccess.cta"="Предоставить доступ";
 "onboarding.healthaccess.noaccess.confirm"="Я уже предоставил доступ";
@@ -47,6 +46,8 @@
 // Weight Details
 "details.weight.imperial"="Вес в имперских единицах:";
 "details.weight.metric"="Вес в метрических единицах:";
+"details.weight.compared.more"="Это на %@ %@ больше, чем в среднем."; // Value, Unit
+"details.weight.compared.less"="Это на  %@ %@ меньше среднего."; // Value, Unit
 "details.weight.title"="Детали веса";
 "details.weight.delete.confirmation.title"="Уверены ли вы?";
 "details.weight.delete.confirmation.description"="Вы хотите удалить эту запись веса?";
@@ -118,11 +119,13 @@
 "bmi.weight.title"="Масса";
 "bmi.height.title"="Рост";
 "bmi.action.edit.height"="Изменить рост";
+"bmi.title" = "ИМТ";
 "bmi.action.weight"="Введите вес";
 "bmi.action.height"="Введите рост";
 "bmi.watch.setup"="Пожалуйста, сначала установите ваш рост на iPhone";
+"bmi.how"="Где мой ИМТ?";
 
-
+// History
 "history.card.countdown-4"="Вам нужно 4 взвешивания, чтобы увидеть график вашего прогресса.";
 "history.card.countdown-3"="Сохраните ваш вес еще 3 раз, чтобы увидеть график вашего прогресса.";
 "history.card.countdown-2"="Еще два взвешивания и все готово!";
@@ -132,7 +135,11 @@
 "history.targets"="Достижение цели";
 "history.measurements"="Измерения";
 "history.best"="Лучший вес";
-"history.status"="Вы имеете %@ %@ %@ %@, так как";
+"history.status.gained"="вы набрали %@ %@ вес, так как %@"; // Value Unit Date
+"history.status.lost"="вы потеряли %@ %@ вес, так как %@"; // Value Unit Date
+"history.average.value"="%.1f avg."; // BMI
+"history.weight.graph.title" = "Latest weights";
+"history.weight.graph.count" = "entries";
 
 // Home
 "home.summary"="Сводка";
@@ -143,6 +150,7 @@
 // Settings
 "settings.title"="Настройки";
 "settings.motivation"="Показывать сообщения";
+"settings.milestones"="Установите целевые вехи";
 "settings.about"="О Vekt";
 "settings.contact"="Свяжитесь с нами";
 "settings.privacy"="Политика конфиденциальности";
@@ -150,6 +158,10 @@
 "settings.title.support"="Служба поддержки";
 "settings.title.subscription"="Подписка";
 "settings.title.motivation"="Мотивация";
+"settings.subscription.purchased" = "Куплен %@";
+"settings.subscription.expires" = "Срок действия истекает %@";
+"settings.subscription.willrenew" = "Будет ли возобновить %@";
+"settings.subscription.trial" = "Пробная версия";
 
 // Icon
 "icon.action"="Изменение внешнего вида";
@@ -198,7 +210,7 @@
 "subscription.month"="%@ в месяц";
 "subscription.lifetime"="%@ один раз";
 "subscription.trial"="Первый месяц бесплатно";
-
+"subscription.manage"="Manage Subscription";
 
 // Widget
 "widget.noacces"="Vekt нужен доступ для чтения Apple Health.";
@@ -223,6 +235,7 @@
 // Complication
 "complication.target.title"="Прогресс цели";
 "complication.shortcut.title"="Быстрый доступ к Vekt";
+"complication.bmi.title"="BMI Complication";
 
 // Actions
 "actions.next"="Дальше";
@@ -266,4 +279,3 @@
 "motivation.negative.gain.4"="Попробуйте добавить к завтраку овес, миндаль или арахисовое масло. Получите эти белки в начале дня!";
 "motivation.neutral.1"="Хорошая работа по измерению вашего веса!";
 "motivation.neutral.2"="Отличная работа! Вы находитесь на пути к здоровой привычке!";
-"motivation.neutral.3"="Хорошо! Продолжайте в том же духе.";

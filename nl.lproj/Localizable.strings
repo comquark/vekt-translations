@@ -2,7 +2,6 @@
 //  Copy by Max Bos (http://maximsays.com)
 //
 
-
 // Onboarding
 "onboarding.healthaccess.title"="Gezondheid-app toegang";
 "onboarding.healthaccess.desc"="Toegang tot de Gezondheid-app is nodig om al je gezondheidsdata op één plek te kunnen opslaan. Je data is altijd privé en zal nooit worden gedeeld.";
@@ -47,13 +46,11 @@
 // Weight Details
 "details.weight.imperial"="Gewicht in imperiaal:";
 "details.weight.metric"="Gewicht in metriek:";
-"details.weight.compared"="%@ %@ ten opzichte van je gemiddelde.";
 "details.weight.more"="Dat is %@ %@ meer dan je gemiddelde."; // Value, Unit
 "details.weight.less"="Dit is %@ %@ minder dan je gemiddelde."; // Value, Unit
 "details.weight.title"="Gewicht details";
 "details.weight.delete.confirmation.title"="Weet je het zeker?";
 "details.weight.delete.confirmation.description"="Wil je dit gewicht verwijderen?";
-
 
 // Reminders
 "reminders.title"="Herinneringen";
@@ -122,7 +119,7 @@
 "bmi.weight.title"="Gewicht";
 "bmi.height.title"="Lengte";
 "bmi.action.edit.height"="Verander lengte";
-
+"bmi.title" = "bmi";
 "bmi.action.weight"="Voer gewicht in";
 "bmi.action.height"="Voer lengte in";
 "bmi.watch.setup"="Voer eerst je lengte in op iPhone";
@@ -139,6 +136,9 @@
 "history.best"="Beste gewicht";
 "history.status.gained"="Je bent %@ %@ aangekomen sinds %@";
 "history.status.lost"="Je bent %@ %@ afgevallen sinds %@";
+"history.average.value"="%.1f gem."; // BMI
+"history.weight.graph.title" = "Recente gewichten";
+"history.weight.graph.count" = "metingen";
 
 // Home
 "home.summary"="Samenvatting";
@@ -149,6 +149,7 @@
 // Settings
 "settings.title"="Instellingen";
 "settings.motivation"="Toon motivatie";
+"settings.milestones"="Kies subdoelen";
 "settings.about"="Over Vekt";
 "settings.contact"="Neem contact op";
 "settings.privacy"="Privacy policy";
@@ -158,8 +159,8 @@
 "settings.title.motivation"="Motivatie";
 "settings.subscription.purchased" = "Gekocht op %@";
 "settings.subscription.expires" = "Verloopt op %@";
+"settings.subscription.willrenew" = "Vernieuwd op %@";
 "settings.subscription.trial" = "Proefversie";
-"settings.subscription.active" = "Actief";
 
 // Icon
 "icon.action"="Wijzig stijl";
@@ -208,6 +209,7 @@
 "subscription.month"="%@ per maand";
 "subscription.lifetime"="%@ eenmalig";
 "subscription.trial"="Probeer één maand gratis";
+"subscription.manage"="Beheer Abonnement";
 
 // Widget
 "widget.noacces"="Vekt moet gegevens kunnen lezen in de Gezondheid-app.";
@@ -228,9 +230,11 @@
 "tipping.item.small.title"="Geef een drankje";
 "tipping.item.medium.title"="Geef een maaltijd";
 "tipping.item.large.title"="De grootste fan van Vekt";
+
 // Complication
-"complication.target.title"="Streefgewicht";
+"complication.target.title"="Streefgewicht + Snelle toegang";
 "complication.shortcut.title"="Snelle toegang tot vekt";
+"complication.bmi.title"="BMI Complicatie";
 
 // Actions
 "actions.next"="Volgende";

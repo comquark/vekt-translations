@@ -54,7 +54,7 @@
 
 // Reminders
 "reminders.title"="Reminders";
-"reminders.desc"="Vekt users are 32% more likely to succeed with notifications on. ";
+"reminders.desc"="Vekt users are 32% more likely to succeed with notifications on.";
 "reminders.action.enable"="Get Reminded";
 "reminders.date"="Start Date";
 "reminders.freq"="Repeat";
@@ -119,7 +119,7 @@
 "bmi.weight.title"="Weight";
 "bmi.height.title"="Height";
 "bmi.action.edit.height"="Change Height";
-
+"bmi.title" = "bmi";
 "bmi.action.weight"="Enter Weight";
 "bmi.action.height"="Enter Height";
 "bmi.watch.setup"="Please setup your height on iPhone first";
@@ -137,6 +137,9 @@
 "history.best"="Best weight";
 "history.status.gained"="You've gained %@ %@ since %@"; // Value Unit Date
 "history.status.lost"="You've lost %@ %@ since %@"; // Value Unit Date
+"history.average.value"="%.1f avg."; // BMI
+"history.weight.graph.title" = "Latest weights";
+"history.weight.graph.count" = "entries";
 
 // Home
 "home.summary"="Summary";
@@ -147,6 +150,7 @@
 // Settings
 "settings.title"="Settings";
 "settings.motivation"="Show Messages";
+"settings.milestones"="Set Target Milestones";
 "settings.about"="About Vekt";
 "settings.contact"="Contact Us";
 "settings.privacy"="Privacy Policy";
@@ -156,9 +160,8 @@
 "settings.title.motivation"="Motivation";
 "settings.subscription.purchased" = "Purchased on %@";
 "settings.subscription.expires" = "Expires on %@";
+"settings.subscription.willrenew" = "Will renew on %@";
 "settings.subscription.trial" = "Trial";
-"settings.subscription.active" = "Active";
-
 
 // Icon
 "icon.action"="Change Appearance";
@@ -207,6 +210,7 @@
 "subscription.month"="%@ per month";
 "subscription.lifetime"="%@ one time";
 "subscription.trial"="Try 1 Month free";
+"subscription.manage"="Manage Subscription";
 
 // Widget
 "widget.noacces"="Vekt needs to be able to read from Apple Health.";
@@ -229,8 +233,9 @@
 "tipping.item.large.title"="The Biggest Fan of Vekt";
 
 // Complication
-"complication.target.title"="Target Progress";
+"complication.target.title"="Target & Quick access";
 "complication.shortcut.title"="Quick access to Vekt";
+"complication.bmi.title"="BMI Complication";
 
 // Actions
 "actions.next"="Next";

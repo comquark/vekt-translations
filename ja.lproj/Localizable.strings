@@ -46,7 +46,8 @@
 // Weight Details
 "details.weight.imperial"="Weight in Imperial:";
 "details.weight.metric"="Weight in Metric:";
-"details.weight.compared"="%@ %@ compared to your average."; // Value, Unit
+"details.weight.compared.more"="That's %@ %@ more than your average."; // Value, Unit
+"details.weight.compared.less"="This is %@ %@ less than your average."; // Value, Unit
 "details.weight.title"="Weight Details";
 "details.weight.delete.confirmation.title"="Are you sure?";
 "details.weight.delete.confirmation.description"="You want to delete this weight entry?";
@@ -118,7 +119,7 @@
 "bmi.weight.title"="ご体重";
 "bmi.height.title"="ご身長";
 "bmi.action.edit.height"="ご身長の更新";
-
+"bmi.title" = "bmi";
 "bmi.action.weight"="ご体重の記入";
 "bmi.action.height"="ご身長の記入";
 "bmi.watch.setup"="iPhoneでご身長を設定してください。";
@@ -136,6 +137,9 @@
 "history.best"="--体重";
 "history.status.gained"="";
 "history.status.lost"="";
+"history.average.value"="%.1f avg."; // BMI
+"history.weight.graph.title" = "Latest weights";
+"history.weight.graph.count" = "entries";
 
 // Home
 "home.summary"="まとめ";
@@ -146,6 +150,7 @@
 // Settings
 "settings.title"="設定";
 "settings.motivation"="メッセージを表示";
+"settings.milestones"="Set Target Milestones";
 "settings.about"="Vektについて";
 "settings.contact"="お問い合わせ";
 "settings.privacy"="個人情報保護方針";
@@ -153,16 +158,20 @@
 "settings.title.support"="サポート";
 "settings.title.subscription"="サブスクリプション";
 "settings.title.motivation"="モチベーション";
+"settings.subscription.purchased" = "Purchased on %@";
+"settings.subscription.expires" = "Expires on %@";
+"settings.subscription.willrenew" = "Will renew on %@";
+"settings.subscription.trial" = "Trial";
 
 // Icon
 "icon.action"="アイコンの変更";
 "icon.title"="色の選択";
 "icon.desc"="アプリの表示を？いつでも変更が可能です。";
-"appearance.theme.title"="";
-"appearance.theme.dark"="";
-"appearance.theme.light"="";
-"appearance.theme.system"="";
-"appearance.icon.title"="";
+"appearance.theme.title" = "Theme";
+"appearance.theme.dark" = "Dark";
+"appearance.theme.light" = "Light";
+"appearance.theme.system" = "System";
+"appearance.icon.title" = "Icon";
 
 // About
 "about.title"="ご利用をありがとうございます！";
@@ -197,6 +206,11 @@
 "subscription.old.desc-3"="いつものご利用の感謝を込めて、1年無料利用を";
 "subscription.old.action.buy"="";
 "subscription.old.action.free"="無料で利用";
+"subscription.year"="%@ per year";
+"subscription.month"="%@ per month";
+"subscription.lifetime"="%@ one time";
+"subscription.trial"="Try 1 Month free";
+"subscription.manage"="Manage Subscription";
 
 // Widget
 "widget.noacces"="";
@@ -219,8 +233,9 @@
 "tipping.item.large.title"="世界一のVektファン";
 
 // Complication
-"complication.target.title"="";
+"complication.target.title"="Target & Quick access";
 "complication.shortcut.title"="『Vekt』へのクイックアクセス";
+"complication.bmi.title"="BMI Complicatie";
 
 // Actions
 "actions.next"="次";
