@@ -60,11 +60,11 @@
 "reminders.freq"="Повтор";
 "reminders.time"="Время";
 "reminders.notification.title"="Отслеживание веса";
-"reminders.notification.body"="Привет! Настало время снова измерить свой вес. Это займет всего секунду ☺️";
-"reminders.notification.body.2"="";
-"reminders.notification.body.3"="";
-"reminders.notification.body.4"="";
-"reminders.notification.body.5"="";
+“reminders.notification.body”=“⏰ Пора вскочить на весы!”;
+“reminders.notification.body.2”=“👋 Вытащите весы, взвесьте!”;
+“reminders.notification.body.3”=“👍 Время для взвешивания. Так держать!”;
+“reminders.notification.body.4”=“😄 Встаньте на весы. Вы получили это!”;
+“reminders.notification.body.5”=“💪 Ты до. Встаньте на весы!”;
 
 "reminders.notification.hidden"="Напоминание";
 "reminders.notification.saved"="Новый вес сохранен! 🎉";
@@ -138,8 +138,8 @@
 "history.status.gained"="вы набрали %@ %@ вес, так как %@"; // Value Unit Date
 "history.status.lost"="вы потеряли %@ %@ вес, так как %@"; // Value Unit Date
 "history.average.value"="%.1f avg."; // BMI
-"history.weight.graph.title" = "Latest weights";
-"history.weight.graph.count" = "entries";
+"history.weight.graph.title" = "Последние веса";
+"history.weight.graph.count" = "измерения";
 
 // Home
 "home.summary"="Сводка";
@@ -210,7 +210,7 @@
 "subscription.month"="%@ в месяц";
 "subscription.lifetime"="%@ один раз";
 "subscription.trial"="Первый месяц бесплатно";
-"subscription.manage"="Manage Subscription";
+"subscription.manage"="управлять подпиской";
 
 // Widget
 "widget.noacces"="Vekt нужен доступ для чтения Apple Health.";
