@@ -125,6 +125,7 @@
 "bmi.action.height"="entrer Hauteur";
 "bmi.watch.setup"="Configuration de votre taille s'il vous plaît sur iPhone premier";
 "bmi.how"="Où est mon IMC?";
+"bmi.stats" = "vos détails";
 
 // History
 "history.card.countdown-4"="Vous avez besoin de 4 peser-ins pour voir votre tableau de progression.";

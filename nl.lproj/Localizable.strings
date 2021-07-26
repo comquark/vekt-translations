@@ -124,6 +124,7 @@
 "bmi.action.height"="Voer lengte in";
 "bmi.watch.setup"="Voer eerst je lengte in op iPhone";
 "bmi.how" = "Waar is mijn BMI?";
+"bmi.stats" = "Gegevens";
 
 "history.card.countdown-4"="Voeg 4 keer je gewicht toe om je progressie te zien in een lijndiagram. ";
 "history.card.countdown-3"="Voeg nog 3 keer je gewicht toe om je progressie te zien.";

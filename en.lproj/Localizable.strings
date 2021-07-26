@@ -124,6 +124,7 @@
 "bmi.action.height"="Enter Height";
 "bmi.watch.setup"="Please setup your height on iPhone first";
 "bmi.how"="Where's my BMI?";
+"bmi.stats" = "Your details";
 
 // History
 "history.card.countdown-4"="You need 4 weigh-ins to see your progress chart.";
