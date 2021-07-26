@@ -151,6 +151,7 @@
 "settings.motivation"="Toon motivatie";
 "settings.milestones"="Kies subdoelen";
 "settings.about"="Over Vekt";
+"settings.specialThanks" = "Credits";
 "settings.contact"="Neem contact op";
 "settings.privacy"="Privacy policy";
 "settings.title.measurements"="Metingen";
@@ -174,12 +175,18 @@
 
 // About
 "about.title"="Bedankt voor je steun!";
-"about.devs"="Gemaakt door Hidde van der Ploeg & Rajesh Rao";
-"about.copy"="Copywriting door Max Bos";
 "about.action.feedback"="Geef Feedback";
 "about.action.twitter"="Volg Vekt op Twitter";
 "about.action.appstore"="Schrijf een beoordeling";
 "about.action.tip"="Geef fooi aan de Makers";
+"about.action.helpTranslate"="Help met vertalen";
+"about.specialThanks" = "Mede moglijk gemaakt door...";
+"about.credits.development" = "Ontwikkeling";
+"about.credits.copy" = "Copywriting";
+"about.credits.translations" = "Vertalingen";
+"about.credits.appicons" = "App Iconen";
+"about.credits.daily" = "Dagelijks Ondersteuning";
+"about.credits.desc" = "Vekt zou niet kunnen bestaan zonder de hulp van de volgende mensen.";
 
 // Subscription
 "subscription.title"="Abonneer op Vekt";

@@ -153,6 +153,7 @@
 "settings.motivation"="Afficher les messages";
 "settings.milestones"="Étapes cibles";
 "settings.about"="A propos Vekt";
+"settings.specialThanks" = "Crédits";
 "settings.contact"="Nous contacter";
 "settings.privacy"="Politique de confidentialité";
 "settings.title.measurements"="Des mesures";
@@ -176,12 +177,18 @@
 
 // About
 "about.title"="Merci pour le soutien!";
-"about.devs"="Fait par Hidde van der Ploeg et Rajesh Rao";
-"about.copy"="Copywriting par Max Bos";
 "about.action.feedback"="Envoyer des commentaires";
 "about.action.twitter"="Suivez Vekt sur Twitter";
 "about.action.appstore"="Évaluer l'application";
 "about.action.tip"="Astuce Teneurs";
+"about.action.helpTranslate"="Aide à la traduction";
+"about.specialThanks" = "Remerciement spécial à...";
+"about.credits.development" = "Développement";
+"about.credits.copy" = "Rédaction";
+"about.credits.translations" = "Traductions";
+"about.credits.appicons" = "App Icons";
+"about.credits.daily" = "Soutien quotidien";
+"about.credits.desc" = "Vekt ne pourrait exister sans le soutien des personnes suivantes.";
 
 // Subscription
 "subscription.title"="Abonnez-vous à Vekt";

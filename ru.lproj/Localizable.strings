@@ -152,6 +152,7 @@
 "settings.motivation"="Показывать сообщения";
 "settings.milestones"="Установите целевые вехи";
 "settings.about"="О Vekt";
+"settings.specialThanks" = "Кредиты";
 "settings.contact"="Свяжитесь с нами";
 "settings.privacy"="Политика конфиденциальности";
 "settings.title.measurements"="Измерения";
@@ -175,12 +176,18 @@
 
 // About
 "about.title"="Спасибо за поддержку!";
-"about.devs"="Сделано Hidde van derр Ploeg и Rajesh Rao";
-"about.copy"="Копирайтинг Max Bos";
 "about.action.feedback"="Отправить отзыв";
 "about.action.twitter"="Подписаться на Vekt в Twitter";
 "about.action.appstore"="Оцените это приложение";
 "about.action.tip"="Поддержать разработчиков";
+"about.action.helpTranslate"="Помощь Транслейтинг Vekt";
+"about.specialThanks" = "Отдельное спасибо...";
+"about.credits.development" = "Развитие";
+"about.credits.copy" = "Копирайтинг";
+"about.credits.translations" = "Переводы";
+"about.credits.appicons" = "App Icons";
+"about.credits.daily" = "Ежедневная поддержка";
+"about.credits.desc" = "Vekt не может существовать без поддержки следующих людей.";
 
 // Subscription
 "subscription.title"="Подписаться на Vekt";
