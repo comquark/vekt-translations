@@ -60,11 +60,11 @@
 "reminders.freq"="Повтор";
 "reminders.time"="Время";
 "reminders.notification.title"="Отслеживание веса";
-“reminders.notification.body”=“⏰ Пора вскочить на весы!”;
-“reminders.notification.body.2”=“👋 Вытащите весы, взвесьте!”;
-“reminders.notification.body.3”=“👍 Время для взвешивания. Так держать!”;
-“reminders.notification.body.4”=“😄 Встаньте на весы. Вы получили это!”;
-“reminders.notification.body.5”=“💪 Ты до. Встаньте на весы!”;
+"reminders.notification.body"="⏰ Пора вскочить на весы!";
+"reminders.notification.body.2"="👋 Вытащите весы, взвесьте!";
+"reminders.notification.body.3"="👍 Время для взвешивания. Так держать!";
+"reminders.notification.body.4"="😄 Встаньте на весы. Вы получили это!";
+"reminders.notification.body.5"="💪 Ты до. Встаньте на весы!";
 
 "reminders.notification.hidden"="Напоминание";
 "reminders.notification.saved"="Новый вес сохранен! 🎉";
