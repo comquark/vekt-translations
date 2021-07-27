@@ -61,11 +61,11 @@
 "reminders.time"="Temps";
 "reminders.notification.title"="Suivi de votre poids";
 "reminders.notification.body"="Hey! Il est temps de suivre à nouveau votre poids. Il faudra seulement une seconde ☺️";
-“reminders.notification.body”=“⏰ Il est temps de sauter sur l’échelle!”;
-“reminders.notification.body.2”=“👋 Échelle, poids dedans!”;
-“reminders.notification.body.3”=“👍 L’heure de la pesée. Continue comme ça!”;
-“reminders.notification.body.4”=“😄 Montez sur la balance. Tu as ça!”;
-“reminders.notification.body.5”=“💪 Tu es partant. Montez sur la balance!”;
+"reminders.notification.body"="⏰ Il est temps de sauter sur l’échelle!";
+"reminders.notification.body.2"="👋 Échelle, poids dedans!";
+"reminders.notification.body.3"="👍 L’heure de la pesée. Continue comme ça!";
+"reminders.notification.body.4"="😄 Montez sur la balance. Tu as ça!";
+"reminders.notification.body.5"="💪 Tu es partant. Montez sur la balance!";
 
 "reminders.notification.hidden"="Rappel";
 "reminders.notification.saved"="Nouveau poids sauvé! 🎉";
