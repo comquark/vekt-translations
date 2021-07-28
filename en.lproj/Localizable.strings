@@ -163,7 +163,8 @@
 "settings.subscription.purchased" = "Purchased on %@";
 "settings.subscription.expires" = "Expires on %@";
 "settings.subscription.willrenew" = "Will renew on %@";
-"settings.subscription.trial" = "Trial";
+"settings.subscription.refunded" = "Refunded on %@";
+"settings.subscription.trial" = "Free Trial";
 
 // Icon
 "icon.action"="Change Appearance";
