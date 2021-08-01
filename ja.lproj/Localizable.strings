@@ -6,7 +6,7 @@
 "onboarding.healthaccess.title"="『ヘルスケア』へのアクセスについて";
 "onboarding.healthaccess.desc"="すべての健康データを1つの場所に保管するためのアクセスを許可しませんか？
 尚あなたのデータは非公開で、第三者に共有されることは一切ありません。";
-"onboarding.healthaccess.info"=""Vektを『ヘルスケア』と一緒に使用すると、すべての健康とフィットネスのデータが自動的に同期されるため、アプリの使用感が向上します。最も重要なことは、あなたのデータは『ヘルスケア』内で安全に保管され、iPhoneのパスコードで暗号化され保護されます。データの漏洩はございませんのでご安心ください。";
+"onboarding.healthaccess.info"="Vektを『ヘルスケア』と一緒に使用すると、すべての健康とフィットネスのデータが自動的に同期されるため、アプリの使用感が向上します。最も重要なことは、あなたのデータは『ヘルスケア』内で安全に保管され、iPhoneのパスコードで暗号化され保護されます。データの漏洩はございませんのでご安心ください。";
 "onboarding.healthaccess.why"="詳しくはこちら";
 "onboarding.healthaccess.cta"="アクセスを許可する";
 "onboarding.healthaccess.noaccess.confirm"="アクセスを許可しました";
@@ -44,44 +44,45 @@
 "alldata.action"="全ての記録を確認";
 "alldata.healthkit.action"="『ヘルスケア』で確認";
 
-// Weight Details（NOT FINISHED TRANSLATING）
-"details.weight.imperial"="Weight in Imperial:";
-"details.weight.metric"="Weight in Metric:";
-"details.weight.compared.more"="That's %@ %@ more than your average."; // Value, Unit
-"details.weight.compared.less"="This is %@ %@ less than your average."; // Value, Unit
-"details.weight.title"="Weight Details";
-"details.weight.delete.confirmation.title"="Are you sure?";
-"details.weight.delete.confirmation.description"="この記録を削除しても大丈夫ですか？";
+// Weight Details（DONE）
+"details.weight.imperial"="ヤード・ポンド法（lb）での体重";
+"details.weight.metric"="メートル法（kg）での体重：";
+"details.weight.compared.more"="いつものの平均体重よりも%@ %@重いです."; // Value, Unit
+"details.weight.compared.less"="いつものの平均体重よりも%@ %@軽いです"; // Value, Unit
+"details.weight.title"="体重の詳細";
+"details.weight.delete.confirmation.title"="本当によろしいですか？";
+"details.weight.delete.confirmation.description"="この体重記録を削除してもよろしいでしょうか？";
 
-// Reminders（NOT FINISHED TRANSLATING）
+// Reminders（DONE）
 "reminders.title"="通知";
 "reminders.desc"="通知を設定すると、成功への近道になります。当アプリのユーザーは、通知を設定することで、体重記録を習慣化する";
 "reminders.action.enable"="通知を設定する";
 "reminders.date"="開始日";
 "reminders.freq"="繰り返す";
 "reminders.time"="時間";
-"reminders.notification.title"="体重を更新しましょう";
+"reminders.notification.title"="体重を更新する";
 "reminders.notification.body"="お疲れ様です！体重を更新する時間になりました。パパッと終わらせましょう。☺️";
-"reminders.notification.body.2"="";
-"reminders.notification.body.3"="";
-"reminders.notification.body.4"="";
-"reminders.notification.body.5"="";
+"reminders.notification.body.2"="体重計を出して測ろう！👋";
+"reminders.notification.body.3"="体重を測る時間だ！この調整で頑張りましょう！👍";
+"reminders.notification.body.4"="体重計が怖くない！あなたならできます！😄";
+"reminders.notification.body.5"="あなたの番です！体重計に乗りましょう！💪";
 
 "reminders.notification.hidden"="通知";
 "reminders.notification.saved"="体重を更新しました！ 🎉";
 "reminders.repeat.desc"="理想的な更新の頻度を教えてください。";
 "reminders.repeat.daily"="毎日";
-"reminders.repeat.weekly"="毎週に1回";
-"reminders.repeat.biweekly"="隔週に1回";
-"reminders.repeat.monthly"="毎月に1回";
-"reminders.button.title"="リマインドをオンにする";
-"reminders.button.daily"="毎日の%@";
-"reminders.button.weekly"="毎週の%@";
-"reminders.button.biweekly"="隔週の%@に";
-"reminders.button.monthly"="毎月の%@に";
-"reminders.tutorial.desc"="。研究によると、通知をつけると、";
+"reminders.repeat.weekly"="週に1回";
+"reminders.repeat.biweekly"="2週間に1回";
+"reminders.repeat.monthly"="月に1回";
+"reminders.button.title"="リマインド通知をオンにする";
+"reminders.button.daily"="毎日%@時にリマインド通知";
+"reminders.button.weekly"="毎週%@時にリマインド通知";
+"reminders.button.biweekly"="隔週で%@時にリマインド通知";
+"reminders.button.monthly"="毎月%@時にリマインド通知";
+"reminders.tutorial.desc"="新しい習慣を継続するためには、通知を受けることが有効です。実際、リマインダーがある事で32％成功しやすくなるという研究結果が出ています。";
 "reminders.tutorial.title"="通知をオンにする";
-"reminders.tutorial.cta"="";
+"reminders.tutorial.cta"="リマインダー通知をオンにする";
+
 
 // Target　(DONE)
 "target.title"="目標体重";
@@ -214,29 +215,34 @@
 "subscription.trial"="1ヶ月間無料でお試し";
 "subscription.manage"="サブスクリプション管理"; 
 
-// Widget（NOT FINISHED TRANSLATING）
-"widget.noacces"="";
-"widget.target.remain"="";
-"widget.weight.title"="";
-"widget.weight.desc"="";
-"widget.target.title"="";
-"widget.target.desc"="";
+// Widget（DONE）
+"widget.noacces"="Vektのご利用は『ヘルスケア』アプリと連動させて読み取る必要があります。";
+"widget.target.remain"="あと%@";
+"widget.weight.title"="体重のウィジェット"; 
+"widget.weight.desc"="最新の体重記録を表示"; 
+"widget.target.title"="目標体重"; 
+"widget.target.desc"="次の目標に向けての進捗状況を表示する。";
 
 // Siri　(DONE)
 "siri.title"="体重入力";
 "siri.phrase"="体重入力";
 "siri.shortcut.open"="Vektを開く";
 
-// Tipping（NOT FINISHED TRANSLATING）
-"tipping.title"="Vektのご利用をありがとうございます！";
-"tipping.desc"="みなさま。少しでもお役に立てたら幸いです。Vektが大好きなあなた、";
-"tipping.item.small.title"="飲み物代";
-"tipping.item.medium.title"="食事代";
+// Tipping（DONE）
+"tipping.title"="Vektをご利用いただき、ありがとうございます！";
+"tipping.desc"="皆様にこのアプリを提供できたことをとても嬉しく感じています。
+少しでも皆様の意義のある生活習慣の構築のお役に立てていれば幸いです。
+Vektを大好きになってくださった方々に向けて、特別なチップ制度のオプションを用意させて頂きました。
+チップ制度を通してサポートをしてくださったユーザー様の名前は私達の壁に刻まれ、開発スタッフ一同、血と汗と涙の滲む努力の末にその壁を見返して、感謝の気持ちを噛み締めたいと思っております。
+もしサポートしてあげても良い！と感じてくださった場合は、是非宜しくお願い致します。"; 
+"tipping.item.small.title"="開発スタッフに飲み物を奢る";
+"tipping.item.medium.title"="開発スタッフに食べ物を奢る";
 "tipping.item.large.title"="世界一のVektファン";
 
-// Complication（NOT FINISHED TRANSLATING）
-"complication.target.title"="目標&クイックアクセス";
-"complication.shortcut.title"="『Vekt』へのクイックアクセス";
+// Complication（DONE）
+"complication.target.title"="目標 進捗率";
+"complication.shortcut.title"="Vektにアクセス";
+"complication.bmi.title"="BMI値の問題点";
 "complication.bmi.title"="BMI Complicatie";
 
 // Actions　(DONE)
