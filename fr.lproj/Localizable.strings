@@ -61,11 +61,11 @@
 "reminders.time"="Temps";
 "reminders.notification.title"="Suivi de votre poids";
 "reminders.notification.body"="Hey! Il est temps de suivre à nouveau votre poids. Il faudra seulement une seconde ☺️";
-“reminders.notification.body”=“⏰ Il est temps de sauter sur l’échelle!”;
-“reminders.notification.body.2”=“👋 Échelle, poids dedans!”;
-“reminders.notification.body.3”=“👍 L’heure de la pesée. Continue comme ça!”;
-“reminders.notification.body.4”=“😄 Montez sur la balance. Tu as ça!”;
-“reminders.notification.body.5”=“💪 Tu es partant. Montez sur la balance!”;
+"reminders.notification.body"="⏰ Il est temps de sauter sur l’échelle!";
+"reminders.notification.body.2"="👋 Échelle, poids dedans!";
+"reminders.notification.body.3"="👍 L’heure de la pesée. Continue comme ça!";
+"reminders.notification.body.4"="😄 Montez sur la balance. Tu as ça!";
+"reminders.notification.body.5"="💪 Tu es partant. Montez sur la balance!";
 
 "reminders.notification.hidden"="Rappel";
 "reminders.notification.saved"="Nouveau poids sauvé! 🎉";
@@ -125,6 +125,7 @@
 "bmi.action.height"="entrer Hauteur";
 "bmi.watch.setup"="Configuration de votre taille s'il vous plaît sur iPhone premier";
 "bmi.how"="Où est mon IMC?";
+"bmi.stats" = "vos détails";
 
 // History
 "history.card.countdown-4"="Vous avez besoin de 4 peser-ins pour voir votre tableau de progression.";
@@ -153,6 +154,7 @@
 "settings.motivation"="Afficher les messages";
 "settings.milestones"="Étapes cibles";
 "settings.about"="A propos Vekt";
+"settings.specialThanks" = "Crédits";
 "settings.contact"="Nous contacter";
 "settings.privacy"="Politique de confidentialité";
 "settings.title.measurements"="Des mesures";
@@ -176,12 +178,18 @@
 
 // About
 "about.title"="Merci pour le soutien!";
-"about.devs"="Fait par Hidde van der Ploeg et Rajesh Rao";
-"about.copy"="Copywriting par Max Bos";
 "about.action.feedback"="Envoyer des commentaires";
 "about.action.twitter"="Suivez Vekt sur Twitter";
 "about.action.appstore"="Évaluer l'application";
 "about.action.tip"="Astuce Teneurs";
+"about.action.helpTranslate"="Aide à la traduction";
+"about.specialThanks" = "Remerciement spécial à...";
+"about.credits.development" = "Développement";
+"about.credits.copy" = "Rédaction";
+"about.credits.translations" = "Traductions";
+"about.credits.appicons" = "App Icons";
+"about.credits.daily" = "Soutien quotidien";
+"about.credits.desc" = "Vekt ne pourrait exister sans le soutien des personnes suivantes.";
 
 // Subscription
 "subscription.title"="Abonnez-vous à Vekt";

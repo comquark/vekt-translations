@@ -60,11 +60,11 @@
 "reminders.freq"="Повтор";
 "reminders.time"="Время";
 "reminders.notification.title"="Отслеживание веса";
-“reminders.notification.body”=“⏰ Пора вскочить на весы!”;
-“reminders.notification.body.2”=“👋 Вытащите весы, взвесьте!”;
-“reminders.notification.body.3”=“👍 Время для взвешивания. Так держать!”;
-“reminders.notification.body.4”=“😄 Встаньте на весы. Вы получили это!”;
-“reminders.notification.body.5”=“💪 Ты до. Встаньте на весы!”;
+"reminders.notification.body"="⏰ Пора вскочить на весы!";
+"reminders.notification.body.2"="👋 Вытащите весы, взвесьте!";
+"reminders.notification.body.3"="👍 Время для взвешивания. Так держать!";
+"reminders.notification.body.4"="😄 Встаньте на весы. Вы получили это!";
+"reminders.notification.body.5"="💪 Ты до. Встаньте на весы!";
 
 "reminders.notification.hidden"="Напоминание";
 "reminders.notification.saved"="Новый вес сохранен! 🎉";
@@ -124,6 +124,7 @@
 "bmi.action.height"="Введите рост";
 "bmi.watch.setup"="Пожалуйста, сначала установите ваш рост на iPhone";
 "bmi.how"="Где мой ИМТ?";
+"bmi.stats" = "Ваши данные";
 
 // History
 "history.card.countdown-4"="Вам нужно 4 взвешивания, чтобы увидеть график вашего прогресса.";
@@ -152,6 +153,7 @@
 "settings.motivation"="Показывать сообщения";
 "settings.milestones"="Установите целевые вехи";
 "settings.about"="О Vekt";
+"settings.specialThanks" = "Кредиты";
 "settings.contact"="Свяжитесь с нами";
 "settings.privacy"="Политика конфиденциальности";
 "settings.title.measurements"="Измерения";
@@ -175,12 +177,18 @@
 
 // About
 "about.title"="Спасибо за поддержку!";
-"about.devs"="Сделано Hidde van derр Ploeg и Rajesh Rao";
-"about.copy"="Копирайтинг Max Bos";
 "about.action.feedback"="Отправить отзыв";
 "about.action.twitter"="Подписаться на Vekt в Twitter";
 "about.action.appstore"="Оцените это приложение";
 "about.action.tip"="Поддержать разработчиков";
+"about.action.helpTranslate"="Помощь Транслейтинг Vekt";
+"about.specialThanks" = "Отдельное спасибо...";
+"about.credits.development" = "Развитие";
+"about.credits.copy" = "Копирайтинг";
+"about.credits.translations" = "Переводы";
+"about.credits.appicons" = "App Icons";
+"about.credits.daily" = "Ежедневная поддержка";
+"about.credits.desc" = "Vekt не может существовать без поддержки следующих людей.";
 
 // Subscription
 "subscription.title"="Подписаться на Vekt";

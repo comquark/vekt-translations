@@ -124,6 +124,7 @@
 "bmi.action.height"="Enter Height";
 "bmi.watch.setup"="Please setup your height on iPhone first";
 "bmi.how"="Where's my BMI?";
+"bmi.stats" = "Your details";
 
 // History
 "history.card.countdown-4"="You need 4 weigh-ins to see your progress chart.";
@@ -152,6 +153,7 @@
 "settings.motivation"="Show Messages";
 "settings.milestones"="Set Target Milestones";
 "settings.about"="About Vekt";
+"settings.specialThanks" = "Credits";
 "settings.contact"="Contact Us";
 "settings.privacy"="Privacy Policy";
 "settings.title.measurements"="Measurements";
@@ -175,12 +177,18 @@
 
 // About
 "about.title"="Thanks for the support!";
-"about.devs"="Made by Hidde van der Ploeg & Rajesh Rao";
-"about.copy"="Copywriting by Max Bos";
 "about.action.feedback"="Give Feedback";
 "about.action.twitter"="Follow Vekt on Twitter";
 "about.action.appstore"="Rate this App";
 "about.action.tip"="Tip the Makers";
+"about.action.helpTranslate"="Help Translating Vekt";
+"about.specialThanks" = "Special Thanks to...";
+"about.credits.development" = "Development";
+"about.credits.copy" = "Copywriting";
+"about.credits.translations" = "Translations";
+"about.credits.appicons" = "App Icons";
+"about.credits.daily" = "Daily Support";
+"about.credits.desc" = "Vekt couldn’t exist without the support of the following people.";
 
 // Subscription
 "subscription.title"="Subscribe to Vekt";

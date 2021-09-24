@@ -124,6 +124,7 @@
 "bmi.action.height"="Voer lengte in";
 "bmi.watch.setup"="Voer eerst je lengte in op iPhone";
 "bmi.how" = "Waar is mijn BMI?";
+"bmi.stats" = "Gegevens";
 
 "history.card.countdown-4"="Voeg 4 keer je gewicht toe om je progressie te zien in een lijndiagram. ";
 "history.card.countdown-3"="Voeg nog 3 keer je gewicht toe om je progressie te zien.";
@@ -151,6 +152,7 @@
 "settings.motivation"="Toon motivatie";
 "settings.milestones"="Kies subdoelen";
 "settings.about"="Over Vekt";
+"settings.specialThanks" = "Credits";
 "settings.contact"="Neem contact op";
 "settings.privacy"="Privacy policy";
 "settings.title.measurements"="Metingen";
@@ -174,12 +176,18 @@
 
 // About
 "about.title"="Bedankt voor je steun!";
-"about.devs"="Gemaakt door Hidde van der Ploeg & Rajesh Rao";
-"about.copy"="Copywriting door Max Bos";
 "about.action.feedback"="Geef Feedback";
 "about.action.twitter"="Volg Vekt op Twitter";
 "about.action.appstore"="Schrijf een beoordeling";
 "about.action.tip"="Geef fooi aan de Makers";
+"about.action.helpTranslate"="Help met vertalen";
+"about.specialThanks" = "Mede mogelijk gemaakt door...";
+"about.credits.development" = "Ontwikkeling";
+"about.credits.copy" = "Copywriting";
+"about.credits.translations" = "Vertalingen";
+"about.credits.appicons" = "App Iconen";
+"about.credits.daily" = "Dagelijkse Steun";
+"about.credits.desc" = "Vekt zou niet kunnen bestaan zonder de hulp van de volgende mensen.";
 
 // Subscription
 "subscription.title"="Abonneer op Vekt";
