@@ -181,12 +181,12 @@
 "about.action.appstore"="Schrijf een beoordeling";
 "about.action.tip"="Geef fooi aan de Makers";
 "about.action.helpTranslate"="Help met vertalen";
-"about.specialThanks" = "Mede moglijk gemaakt door...";
+"about.specialThanks" = "Mede mogelijk gemaakt door...";
 "about.credits.development" = "Ontwikkeling";
 "about.credits.copy" = "Copywriting";
 "about.credits.translations" = "Vertalingen";
 "about.credits.appicons" = "App Iconen";
-"about.credits.daily" = "Dagelijks Ondersteuning";
+"about.credits.daily" = "Dagelijkse Steun";
 "about.credits.desc" = "Vekt zou niet kunnen bestaan zonder de hulp van de volgende mensen.";
 
 // Subscription
