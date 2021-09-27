@@ -96,6 +96,16 @@
 "target.reached.action.dismiss"="Gewicht Behouden";
 "target.reached.share.message"="Behoorlijk trots op deze! Ik heb net m'n doel gehaald van %@ %@ dankzij Vekt";
 
+// Range
+"lowest.title"="Laagste";
+"lowest.desc"="Wat wil je als minimaal gewicht?";
+"highest.title"="Hoogst";
+"highest.desc"="Vanaf wanneer vind je het wat te zwaar?";
+"range.title"="Gewicht bereik";
+"range.desc"="Hier bepaal je welk bereik aan gewichten je gezond vind. De suggesties zijn op basis van je lengte of gemiddelde.";
+"range.suggest"="Suggestie: %@";
+"rang.card.desc" = "Bepaal je ideal gewicht";
+
 // Measure
 "measure.title"="Nieuw gewicht";
 "measure.date.action"="Verander datum";

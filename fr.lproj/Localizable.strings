@@ -97,6 +97,16 @@
 "target.reached.action.dismiss"="maintenir un poids";
 "target.reached.share.message"="Assez fier de celui-ci! Je viens de frapper mon objectif de %@ %@ grâce à Vekt";
 
+// Range
+"lowest.title"="Le plus bas";
+"lowest.desc"="Quel serait votre poids minimum?";
+"highest.title"="Le plus élevé";
+"highest.desc"="Décider où ça devient un peu trop lourd?";
+"range.title"="Échelle de poids";
+"range.desc"="Décidez quelle gamme vous considéreriez comme saine.";
+"range.suggest"="Suggestion: %@";
+"rang.card.desc" = "Définissez votre plage idéale.";
+
 // Measure
 "measure.title"="nouveau poids";
 "measure.date.action"="Date de modification";
