@@ -33,10 +33,14 @@
 "goal.title"="Je doel";
 "goal.intro"="Wat wil je bereiken?";
 "goal.desc"="Stel je doel in om je gewicht bij te houden.";
+"goal.gain.title"="Aankomen";
 "goal.gain.desc"="Aankomen";
 "goal.gain.past"="aangekomen";
+"goal.lose.title"="Afvallen";
 "goal.lose.desc"="Afvallen";
 "goal.lose.past"="afgevallen";
+"goal.maintain.title"="Onderhoud";
+"goal.maintain.desc"="Onderhouden";
 
 // All Weights
 "alldata.title"="Alle gewichten";
@@ -56,6 +60,7 @@
 "reminders.title"="Herinneringen";
 "reminders.desc"="Vekt gebruikers slagen 32% vaker met behulp van herinneringen.";
 "reminders.action.enable"="Krijg herinneringen";
+"reminders.day"="Welke dag";
 "reminders.date"="Start datum";
 "reminders.freq"="Herhaal";
 "reminders.time"="Tijd";
@@ -96,6 +101,12 @@
 "target.reached.action.dismiss"="Gewicht Behouden";
 "target.reached.share.message"="Behoorlijk trots op deze! Ik heb net m'n doel gehaald van %@ %@ dankzij Vekt";
 
+// Measure
+"measure.title"="Nieuw gewicht";
+"measure.date.action"="Verander datum";
+"measure.date"="Datum:";
+"measure.now"="Nu";
+
 // Range
 "lowest.title"="Laagste";
 "lowest.desc"="Wat wil je als minimaal gewicht?";
@@ -104,13 +115,7 @@
 "range.title"="Gewicht bereik";
 "range.desc"="Hier bepaal je welk bereik aan gewichten je gezond vind. De suggesties zijn op basis van je lengte of gemiddelde.";
 "range.suggest"="Suggestie: %@";
-"rang.card.desc" = "Bepaal je ideal gewicht";
-
-// Measure
-"measure.title"="Nieuw gewicht";
-"measure.date.action"="Verander datum";
-"measure.date"="Datum:";
-"measure.now"="Nu";
+"rang.card.desc" = "Bepaal je ideale gewicht";
 
 // BMI
 "bmi.overweight.title"="Overgewicht";
@@ -136,6 +141,7 @@
 "bmi.how" = "Waar is mijn BMI?";
 "bmi.stats" = "Gegevens";
 
+// History
 "history.card.countdown-4"="Voeg 4 keer je gewicht toe om je progressie te zien in een lijndiagram. ";
 "history.card.countdown-3"="Voeg nog 3 keer je gewicht toe om je progressie te zien.";
 "history.card.countdown-2"="Nog maar 2 keer je gewicht toevoegen!";
@@ -172,6 +178,7 @@
 "settings.subscription.purchased" = "Gekocht op %@";
 "settings.subscription.expires" = "Verloopt op %@";
 "settings.subscription.willrenew" = "Vernieuwd op %@";
+"settings.subscription.refunded" = "Teruggestort op %@";
 "settings.subscription.trial" = "Proefversie";
 
 // Icon

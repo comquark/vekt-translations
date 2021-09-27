@@ -101,6 +101,12 @@
 "target.reached.action.dismiss"="Maintain Weight";
 "target.reached.share.message"="Pretty proud of this one! I just hit my target of %@ %@ thanks to Vekt";
 
+// Measure
+"measure.title"="New Weight";
+"measure.date.action"="Change Date";
+"measure.date"="Date:";
+"measure.now"="Now";
+
 // Range
 "lowest.title"="Lowest";
 "lowest.desc"="What would be your minimum weight?";
@@ -110,12 +116,6 @@
 "range.desc"="Decide what range you would consider healthy.";
 "range.suggest"="Suggested: %@";
 "rang.card.desc" = "Set your ideal range.";
-
-// Measure
-"measure.title"="New Weight";
-"measure.date.action"="Change Date";
-"measure.date"="Date:";
-"measure.now"="Now";
 
 // BMI
 "bmi.overweight.title"="Overweight";

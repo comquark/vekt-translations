@@ -33,10 +33,14 @@
 "goal.title"="Ton but";
 "goal.intro"="Qu'est-ce qui t'amène?";
 "goal.desc"="Définissez votre intention pour le suivi de votre poids.";
+"goal.gain.title"="Gain";
 "goal.gain.desc"="Prendre du poids";
 "goal.gain.past"="gagné";
+"goal.lose.title"="Lose";
 "goal.lose.desc"="Perdre du poids";
 "goal.lose.past"="perdu";
+"goal.maintain.title"="Maintain";
+"goal.maintain.desc"="Maintain Weight";
 
 // All Weights
 "alldata.title"="tous les poids";
@@ -57,10 +61,10 @@
 "reminders.desc"="Augmentez vos chances de succès avec des rappels. Les utilisateurs Vekt sont 32% plus susceptibles de transformer le suivi de poids en une habitude avec les notifications sur.";
 "reminders.action.enable"="Être rappelé";
 "reminders.date"="Date de début";
+"reminders.day"="Weekday";
 "reminders.freq"="Répéter";
 "reminders.time"="Temps";
 "reminders.notification.title"="Suivi de votre poids";
-"reminders.notification.body"="Hey! Il est temps de suivre à nouveau votre poids. Il faudra seulement une seconde ☺️";
 "reminders.notification.body"="⏰ Il est temps de sauter sur l’échelle!";
 "reminders.notification.body.2"="👋 Échelle, poids dedans!";
 "reminders.notification.body.3"="👍 L’heure de la pesée. Continue comme ça!";
@@ -174,6 +178,7 @@
 "settings.subscription.purchased" = "Acheté le %@";
 "settings.subscription.expires" = "Expire le %@";
 "settings.subscription.willrenew" = "Renouvellera le %@";
+"settings.subscription.refunded" = "Refunded on %@";
 "settings.subscription.trial" = "Essai";
 
 // Icon
@@ -298,4 +303,3 @@
 "motivation.negative.gain.4"="Essayez d'ajouter l'avoine, les amandes ou le beurre d'arachide à votre petit-déjeuner. Obtenez ces protéines au début!";
 "motivation.neutral.1"="Un bon travail sur la mesure de votre poids!";
 "motivation.neutral.2"="Bon travail! Vous êtes sur la bonne voie à une saine habitude!";
-"motivation.neutral.3"="Bien! Le maintien ne gagne pas.";

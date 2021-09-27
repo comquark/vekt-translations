@@ -33,10 +33,14 @@
 "goal.title"="Ваша Цель";
 "goal.intro"="Что привело вас сюда?";
 "goal.desc"="Выберите цель для отслеживания вашего веса.";
+"goal.gain.title"="Gain";
 "goal.gain.desc"="Набрать вес";
 "goal.gain.past"="Вес набран";
+"goal.lose.title"="Lose";
 "goal.lose.desc"="Сбросить вес";
 "goal.lose.past"="Вес сброшен";
+"goal.maintain.title"="Maintain";
+"goal.maintain.desc"="Maintain Weight";
 
 // All Weights
 "alldata.title"="Все веса";
@@ -57,6 +61,7 @@
 "reminders.desc"="Повысьте свои шансы с напоминаниями. У пользователей Vekt с включенными напоминаниями шанс выработать привычку отслеживать вес выше на 32%.";
 "reminders.action.enable"="Напоминать";
 "reminders.date"="Дата начала";
+"reminders.day"="Weekday";
 "reminders.freq"="Повтор";
 "reminders.time"="Время";
 "reminders.notification.title"="Отслеживание веса";
@@ -173,6 +178,7 @@
 "settings.subscription.purchased" = "Куплен %@";
 "settings.subscription.expires" = "Срок действия истекает %@";
 "settings.subscription.willrenew" = "Будет ли возобновить %@";
+"settings.subscription.refunded" = "Refunded on %@";
 "settings.subscription.trial" = "Пробная версия";
 
 // Icon
