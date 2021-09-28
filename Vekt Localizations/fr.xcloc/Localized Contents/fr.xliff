@@ -35,6 +35,7 @@
       </trans-unit>
       <trans-unit id="BMI" xml:space="preserve">
         <source>BMI</source>
+        <target>IMC</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LBS" xml:space="preserve">
@@ -43,6 +44,7 @@
       </trans-unit>
       <trans-unit id="Refund is being processed" xml:space="preserve">
         <source>Refund is being processed</source>
+        <target>Le remboursement est en cours</target>
         <note>Alert Title: Confirming that the refund is being processed</note>
       </trans-unit>
       <trans-unit id="ST" xml:space="preserve">
@@ -51,22 +53,27 @@
       </trans-unit>
       <trans-unit id="Thank you for staying, we really appreciate it!" xml:space="preserve">
         <source>Thank you for staying, we really appreciate it!</source>
+        <target>Merci d'être resté, nous l'apprécions vraiment!</target>
         <note>Alert Message: thanking the user for remaing a subscriber.</note>
       </trans-unit>
       <trans-unit id="Thanks for staying" xml:space="preserve">
         <source>Thanks for staying</source>
+        <target>Merci de rester</target>
         <note>Alert Title: Thanking the user for remaing a subscriber.</note>
       </trans-unit>
       <trans-unit id="These are all Vekt transactions you’ve made in the past." xml:space="preserve">
         <source>These are all Vekt transactions you’ve made in the past.</source>
+        <target>Ce sont toutes les transactions Vekt que vous avez effectuées dans le passé.</target>
         <note>Label: This view presents all previous transactions.</note>
       </trans-unit>
       <trans-unit id="View Transactions" xml:space="preserve">
         <source>View Transactions</source>
+        <target>Afficher les transactions</target>
         <note>Button: Shows all previous transactions</note>
       </trans-unit>
       <trans-unit id="We're so sad to see you go, have a lovely day!" xml:space="preserve">
         <source>We're so sad to see you go, have a lovely day!</source>
+        <target>Nous sommes très tristes de vous voir partir, passez une belle journée!</target>
         <note>Alert message: Tell our users we're sad that they cancel our subscription</note>
       </trans-unit>
       <trans-unit id="about.action.appstore" xml:space="preserve">
@@ -236,12 +243,12 @@
       </trans-unit>
       <trans-unit id="bmi.action.height" xml:space="preserve">
         <source>Enter Height</source>
-        <target>entrer Hauteur</target>
+        <target>Entrer Hauteur</target>
         <note/>
       </trans-unit>
       <trans-unit id="bmi.action.weight" xml:space="preserve">
         <source>Enter Weight</source>
-        <target>entrer le poids</target>
+        <target>Entrer le poids</target>
         <note/>
       </trans-unit>
       <trans-unit id="bmi.healthy.desc" xml:space="preserve">
@@ -291,7 +298,7 @@
       </trans-unit>
       <trans-unit id="bmi.overweight.title" xml:space="preserve">
         <source>Overweight</source>
-        <target>en surpoids</target>
+        <target>En surpoids</target>
         <note>BMI</note>
       </trans-unit>
       <trans-unit id="bmi.stats" xml:space="preserve">
@@ -1385,10 +1392,12 @@ Merci, je vous remercie, je vous remercie.</target>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Needed to read your weight, BMI and height from Apple Health.</source>
+        <target>Ceci est nécessaire pour lire votre poids, votre IMC et votre taille d'Apple Health.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Needed to save your weight, BMI and height into Apple Health.</source>
+        <target>Cela est nécessaire pour enregistrer votre poids, votre IMC et votre taille d'Apple Health.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -1408,10 +1417,12 @@ Merci, je vous remercie, je vous remercie.</target>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>Needed to read your weight, BMI and height from Apple Health.</source>
+        <target>Ceci est nécessaire pour lire votre poids, votre IMC et votre taille d'Apple Health.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>Needed to save your weight, BMI and height into Apple Health.</source>
+        <target>Cela est nécessaire pour enregistrer votre poids, votre IMC et votre taille d'Apple Health.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
     </body>
@@ -1431,14 +1442,17 @@ Merci, je vous remercie, je vous remercie.</target>
       </trans-unit>
       <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
         <source>This is needed to read your weight, BMI, and height from Apple Health.</source>
+        <target>Ceci est nécessaire pour lire votre poids, votre IMC et votre taille d'Apple Health.</target>
         <note>Privacy - Health Share Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
         <source>This is needed to save your weight, BMI, and height into Apple Health.</source>
+        <target>Cela est nécessaire pour enregistrer votre poids, votre IMC et votre taille d'Apple Health.</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
         <source>Allow Vekt to save your achievement into your photo library.</source>
+        <target>Autorisez Vekt à enregistrer votre réussite dans votre photothèque.</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
     </body>
