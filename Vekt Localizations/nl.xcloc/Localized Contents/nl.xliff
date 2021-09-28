@@ -372,11 +372,11 @@
       </trans-unit>
       <trans-unit id="details.weight.compared.less" xml:space="preserve">
         <source>This is %@ %@ less than your average.</source>
-        <note>Value, Unit</note>
+        <note>Value, Unit (e.g. That's 2.2 kg less than your average.)</note>
       </trans-unit>
       <trans-unit id="details.weight.compared.more" xml:space="preserve">
         <source>That's %@ %@ more than your average.</source>
-        <note>Value, Unit</note>
+        <note>Value, Unit (e.g. That's 2.2 kg more than your average.)</note>
       </trans-unit>
       <trans-unit id="details.weight.delete.confirmation.description" xml:space="preserve">
         <source>You want to delete this weight entry?</source>
@@ -501,7 +501,7 @@
       <trans-unit id="history.average.value" xml:space="preserve">
         <source>%.1f avg.</source>
         <target>%.1f gem.</target>
-        <note>BMI</note>
+        <note>BMI average (e.g. 21.5 avg.)</note>
       </trans-unit>
       <trans-unit id="history.best" xml:space="preserve">
         <source>Best weight</source>
@@ -536,12 +536,12 @@
       <trans-unit id="history.status.gained" xml:space="preserve">
         <source>You've gained %@ %@ since %@</source>
         <target>Je bent %@ %@ aangekomen sinds %@</target>
-        <note>Value Unit Date</note>
+        <note>Value Unit Date (e.g. You've gained 2.3 kg since DATE)</note>
       </trans-unit>
       <trans-unit id="history.status.lost" xml:space="preserve">
         <source>You've lost %@ %@ since %@</source>
         <target>Je bent %@ %@ afgevallen sinds %@</target>
-        <note>Value Unit Date</note>
+        <note>Value Unit Date (e.g. You've lost 2.3 kg since DATE)</note>
       </trans-unit>
       <trans-unit id="history.targets" xml:space="preserve">
         <source>Targets hit</source>
@@ -839,7 +839,7 @@ Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd i
       <trans-unit id="range.suggest" xml:space="preserve">
         <source>Suggested: %@</source>
         <target>Suggestie: %@</target>
-        <note/>
+        <note>Weight value (e.g. 32)</note>
       </trans-unit>
       <trans-unit id="range.title" xml:space="preserve">
         <source>Weight Range</source>
@@ -854,7 +854,7 @@ Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd i
       <trans-unit id="reminders.button.biweekly" xml:space="preserve">
         <source>Every other %@ at </source>
         <target>Om de %@ om </target>
-        <note/>
+        <note>Weekday (e.g Every other Thursday at TIME)</note>
       </trans-unit>
       <trans-unit id="reminders.button.daily" xml:space="preserve">
         <source>Daily at </source>
@@ -864,7 +864,7 @@ Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd i
       <trans-unit id="reminders.button.monthly" xml:space="preserve">
         <source>Every %@ at </source>
         <target>Elke %@ om </target>
-        <note/>
+        <note>Day (e.g Every 2nd at TIME)</note>
       </trans-unit>
       <trans-unit id="reminders.button.title" xml:space="preserve">
         <source>Turn on Reminders</source>
@@ -874,7 +874,7 @@ Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd i
       <trans-unit id="reminders.button.weekly" xml:space="preserve">
         <source>Every %@ at </source>
         <target>Elke %@ om </target>
-        <note/>
+        <note>Weekday (e.g Every Thursday at TIME)</note>
       </trans-unit>
       <trans-unit id="reminders.date" xml:space="preserve">
         <source>Start Date</source>
@@ -1019,17 +1019,17 @@ Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd i
       <trans-unit id="settings.subscription.expires" xml:space="preserve">
         <source>Expires on %@</source>
         <target>Verloopt op %@</target>
-        <note/>
+        <note>Date (e.g. Expires on DATE)</note>
       </trans-unit>
       <trans-unit id="settings.subscription.purchased" xml:space="preserve">
         <source>Purchased on %@</source>
         <target>Gekocht op %@</target>
-        <note/>
+        <note>Date (e.g. Purchased on DATE)</note>
       </trans-unit>
       <trans-unit id="settings.subscription.refunded" xml:space="preserve">
         <source>Refunded on %@</source>
         <target>Teruggestort op %@</target>
-        <note/>
+        <note>(e.g. Refunded on DATE)</note>
       </trans-unit>
       <trans-unit id="settings.subscription.trial" xml:space="preserve">
         <source>Free Trial</source>
@@ -1039,7 +1039,7 @@ Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd i
       <trans-unit id="settings.subscription.willrenew" xml:space="preserve">
         <source>Will renew on %@</source>
         <target>Vernieuwd op %@</target>
-        <note/>
+        <note>Date (e.g. Will renew on DATE)</note>
       </trans-unit>
       <trans-unit id="settings.title" xml:space="preserve">
         <source>Settings</source>
@@ -1094,7 +1094,7 @@ Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd i
       <trans-unit id="subscription.lifetime" xml:space="preserve">
         <source>%@ one time</source>
         <target>%@ eenmalig</target>
-        <note/>
+        <note>Price (e.g. €17.99 one time)</note>
       </trans-unit>
       <trans-unit id="subscription.manage" xml:space="preserve">
         <source>Manage Subscription</source>
@@ -1104,7 +1104,7 @@ Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd i
       <trans-unit id="subscription.month" xml:space="preserve">
         <source>%@ per month</source>
         <target>%@ per maand</target>
-        <note/>
+        <note>Price (e.g. €2.99 per month)</note>
       </trans-unit>
       <trans-unit id="subscription.new.benefit-1.desc" xml:space="preserve">
         <source>Apple Health Integration, Automatic BMI Updates, Progress Line Chart</source>
@@ -1219,7 +1219,7 @@ Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd i
       <trans-unit id="subscription.year" xml:space="preserve">
         <source>%@ per year</source>
         <target>%@ per jaar</target>
-        <note/>
+        <note>Price (e.g. €7.99 per year)</note>
       </trans-unit>
       <trans-unit id="target.action" xml:space="preserve">
         <source>Set Target</source>
@@ -1234,7 +1234,7 @@ Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd i
       <trans-unit id="target.progress" xml:space="preserve">
         <source>%@ %@ to go</source>
         <target>%@ %@ te gaan</target>
-        <note/>
+        <note>Weight value, Unit (e.g. 3.2 kg to go)</note>
       </trans-unit>
       <trans-unit id="target.progress.next" xml:space="preserve">
         <source>Next Target</source>
@@ -1264,7 +1264,7 @@ Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd i
       <trans-unit id="target.reached.share.message" xml:space="preserve">
         <source>Pretty proud of this one! I just hit my target of %@ %@ thanks to Vekt</source>
         <target>Behoorlijk trots op deze! Ik heb net m'n doel gehaald van %@ %@ dankzij Vekt</target>
-        <note/>
+        <note>Weight, Unit (e.g. I just hit my target of 43 kg thanks to Vekt)</note>
       </trans-unit>
       <trans-unit id="target.reached.title" xml:space="preserve">
         <source>You made that look easy!</source>
@@ -1357,7 +1357,7 @@ Voor de grootste fans onder ons hebben we een speciale donatie-optie. Je naam wo
       <trans-unit id="widget.target.remain" xml:space="preserve">
         <source>%@ to go</source>
         <target>%@ te gaan</target>
-        <note/>
+        <note>Weight value (e.g. 4.1 to go)</note>
       </trans-unit>
       <trans-unit id="widget.target.title" xml:space="preserve">
         <source>Target Widget</source>

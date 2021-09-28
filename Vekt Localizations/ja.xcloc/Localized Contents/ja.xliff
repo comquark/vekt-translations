@@ -373,12 +373,12 @@
       <trans-unit id="details.weight.compared.less" xml:space="preserve">
         <source>This is %@ %@ less than your average.</source>
         <target>いつものの平均体重よりも%@ %@軽いです</target>
-        <note>Value, Unit</note>
+        <note>Value, Unit (e.g. That's 2.2 kg less than your average.)</note>
       </trans-unit>
       <trans-unit id="details.weight.compared.more" xml:space="preserve">
         <source>That's %@ %@ more than your average.</source>
         <target>いつものの平均体重よりも%@ %@重いです.</target>
-        <note>Value, Unit</note>
+        <note>Value, Unit (e.g. That's 2.2 kg more than your average.)</note>
       </trans-unit>
       <trans-unit id="details.weight.delete.confirmation.description" xml:space="preserve">
         <source>You want to delete this weight entry?</source>
@@ -502,8 +502,8 @@
       </trans-unit>
       <trans-unit id="history.average.value" xml:space="preserve">
         <source>%.1f avg.</source>
-        <target>平均BMI値：%</target>
-        <note>BMI</note>
+        <target>平均BMI値：%.1f</target>
+        <note>BMI average (e.g. 21.5 avg.)</note>
       </trans-unit>
       <trans-unit id="history.best" xml:space="preserve">
         <source>Best weight</source>
@@ -538,12 +538,12 @@
       <trans-unit id="history.status.gained" xml:space="preserve">
         <source>You've gained %@ %@ since %@</source>
         <target>%@ から %@ %@体重が増加しました</target>
-        <note>Value Unit Date</note>
+        <note>Value Unit Date (e.g. You've gained 2.3 kg since DATE)</note>
       </trans-unit>
       <trans-unit id="history.status.lost" xml:space="preserve">
         <source>You've lost %@ %@ since %@</source>
         <target>%@ から %@ %@体重が減少しました</target>
-        <note>Value Unit Date</note>
+        <note>Value Unit Date (e.g. You've lost 2.3 kg since DATE)</note>
       </trans-unit>
       <trans-unit id="history.targets" xml:space="preserve">
         <source>Targets hit</source>
@@ -839,7 +839,7 @@ Most importantly: your data belongs to you only and never leaves your device. It
       <trans-unit id="range.suggest" xml:space="preserve">
         <source>Suggested: %@</source>
         <target>Suggested: %@</target>
-        <note/>
+        <note>Weight value (e.g. 32)</note>
       </trans-unit>
       <trans-unit id="range.title" xml:space="preserve">
         <source>Weight Range</source>
@@ -854,7 +854,7 @@ Most importantly: your data belongs to you only and never leaves your device. It
       <trans-unit id="reminders.button.biweekly" xml:space="preserve">
         <source>Every other %@ at </source>
         <target>隔週で%@時にリマインド通知</target>
-        <note/>
+        <note>Weekday (e.g Every other Thursday at TIME)</note>
       </trans-unit>
       <trans-unit id="reminders.button.daily" xml:space="preserve">
         <source>Daily at </source>
@@ -864,7 +864,7 @@ Most importantly: your data belongs to you only and never leaves your device. It
       <trans-unit id="reminders.button.monthly" xml:space="preserve">
         <source>Every %@ at </source>
         <target>毎月%@時にリマインド通知</target>
-        <note/>
+        <note>Day (e.g Every 2nd at TIME)</note>
       </trans-unit>
       <trans-unit id="reminders.button.title" xml:space="preserve">
         <source>Turn on Reminders</source>
@@ -874,7 +874,7 @@ Most importantly: your data belongs to you only and never leaves your device. It
       <trans-unit id="reminders.button.weekly" xml:space="preserve">
         <source>Every %@ at </source>
         <target>毎週%@時にリマインド通知</target>
-        <note/>
+        <note>Weekday (e.g Every Thursday at TIME)</note>
       </trans-unit>
       <trans-unit id="reminders.date" xml:space="preserve">
         <source>Start Date</source>
@@ -1019,17 +1019,17 @@ Most importantly: your data belongs to you only and never leaves your device. It
       <trans-unit id="settings.subscription.expires" xml:space="preserve">
         <source>Expires on %@</source>
         <target>【有効期限】%@</target>
-        <note/>
+        <note>Date (e.g. Expires on DATE)</note>
       </trans-unit>
       <trans-unit id="settings.subscription.purchased" xml:space="preserve">
         <source>Purchased on %@</source>
         <target>【購入日】 %@</target>
-        <note/>
+        <note>Date (e.g. Purchased on DATE)</note>
       </trans-unit>
       <trans-unit id="settings.subscription.refunded" xml:space="preserve">
         <source>Refunded on %@</source>
         <target>Refunded on %@</target>
-        <note/>
+        <note>(e.g. Refunded on DATE)</note>
       </trans-unit>
       <trans-unit id="settings.subscription.trial" xml:space="preserve">
         <source>Free Trial</source>
@@ -1039,7 +1039,7 @@ Most importantly: your data belongs to you only and never leaves your device. It
       <trans-unit id="settings.subscription.willrenew" xml:space="preserve">
         <source>Will renew on %@</source>
         <target>【更新日】%@</target>
-        <note/>
+        <note>Date (e.g. Will renew on DATE)</note>
       </trans-unit>
       <trans-unit id="settings.title" xml:space="preserve">
         <source>Settings</source>
@@ -1094,7 +1094,7 @@ Most importantly: your data belongs to you only and never leaves your device. It
       <trans-unit id="subscription.lifetime" xml:space="preserve">
         <source>%@ one time</source>
         <target>都度利用料 %@</target>
-        <note/>
+        <note>Price (e.g. €17.99 one time)</note>
       </trans-unit>
       <trans-unit id="subscription.manage" xml:space="preserve">
         <source>Manage Subscription</source>
@@ -1104,7 +1104,7 @@ Most importantly: your data belongs to you only and never leaves your device. It
       <trans-unit id="subscription.month" xml:space="preserve">
         <source>%@ per month</source>
         <target>月間利用料 %@</target>
-        <note/>
+        <note>Price (e.g. €2.99 per month)</note>
       </trans-unit>
       <trans-unit id="subscription.new.benefit-1.desc" xml:space="preserve">
         <source>Apple Health Integration, Automatic BMI Updates, Progress Line Chart</source>
@@ -1219,7 +1219,7 @@ Most importantly: your data belongs to you only and never leaves your device. It
       <trans-unit id="subscription.year" xml:space="preserve">
         <source>%@ per year</source>
         <target>年間利用料 %@</target>
-        <note/>
+        <note>Price (e.g. €7.99 per year)</note>
       </trans-unit>
       <trans-unit id="target.action" xml:space="preserve">
         <source>Set Target</source>
@@ -1234,7 +1234,7 @@ Most importantly: your data belongs to you only and never leaves your device. It
       <trans-unit id="target.progress" xml:space="preserve">
         <source>%@ %@ to go</source>
         <target>あと%@ %@で達成</target>
-        <note/>
+        <note>Weight value, Unit (e.g. 3.2 kg to go)</note>
       </trans-unit>
       <trans-unit id="target.progress.next" xml:space="preserve">
         <source>Next Target</source>
@@ -1263,8 +1263,8 @@ Most importantly: your data belongs to you only and never leaves your device. It
       </trans-unit>
       <trans-unit id="target.reached.share.message" xml:space="preserve">
         <source>Pretty proud of this one! I just hit my target of %@ %@ thanks to Vekt</source>
-        <target>目標達成！Vektのおかげで、%@ %@までの目標体重を達成しました！</target>
-        <note/>
+        <target>目標達成！Vektのおかげで、%@ %@ までの目標体重を達成しました！</target>
+        <note>Weight, Unit (e.g. I just hit my target of 43 kg thanks to Vekt)</note>
       </trans-unit>
       <trans-unit id="target.reached.title" xml:space="preserve">
         <source>You made that look easy!</source>
@@ -1353,7 +1353,7 @@ Thank you, thank you, thank you.</source>
       <trans-unit id="widget.target.remain" xml:space="preserve">
         <source>%@ to go</source>
         <target>あと%@</target>
-        <note/>
+        <note>Weight value (e.g. 4.1 to go)</note>
       </trans-unit>
       <trans-unit id="widget.target.title" xml:space="preserve">
         <source>Target Widget</source>
