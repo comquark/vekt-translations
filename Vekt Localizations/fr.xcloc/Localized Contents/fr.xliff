@@ -13,10 +13,6 @@
         <source>%@ ft</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@ history.weight.graph.count" xml:space="preserve">
-        <source>%@ history.weight.graph.count</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="%@ in" xml:space="preserve">
         <source>%@ in</source>
         <note>No comment provided by engineer.</note>
@@ -45,41 +41,33 @@
         <source>LBS</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Manage Subscription" xml:space="preserve">
-        <source>Manage Subscription</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Refund is being processed" xml:space="preserve">
         <source>Refund is being processed</source>
-        <note>No comment provided by engineer.</note>
+        <note>Alert Title: Confirming that the refund is being processed</note>
       </trans-unit>
       <trans-unit id="ST" xml:space="preserve">
         <source>ST</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Save" xml:space="preserve">
-        <source>Save</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Thank you for staying, we really appreciate it!" xml:space="preserve">
         <source>Thank you for staying, we really appreciate it!</source>
-        <note>No comment provided by engineer.</note>
+        <note>Alert Message: thanking the user for remaing a subscriber.</note>
       </trans-unit>
       <trans-unit id="Thanks for staying" xml:space="preserve">
         <source>Thanks for staying</source>
-        <note>No comment provided by engineer.</note>
+        <note>Alert Title: Thanking the user for remaing a subscriber.</note>
       </trans-unit>
       <trans-unit id="These are all Vekt transactions you’ve made in the past." xml:space="preserve">
         <source>These are all Vekt transactions you’ve made in the past.</source>
-        <note>No comment provided by engineer.</note>
+        <note>Label: This view presents all previous transactions.</note>
       </trans-unit>
       <trans-unit id="View Transactions" xml:space="preserve">
         <source>View Transactions</source>
-        <note>No comment provided by engineer.</note>
+        <note>Button: Shows all previous transactions</note>
       </trans-unit>
       <trans-unit id="We're so sad to see you go, have a lovely day!" xml:space="preserve">
         <source>We're so sad to see you go, have a lovely day!</source>
-        <note>No comment provided by engineer.</note>
+        <note>Alert message: Tell our users we're sad that they cancel our subscription</note>
       </trans-unit>
       <trans-unit id="about.action.appstore" xml:space="preserve">
         <source>Rate this App</source>
@@ -170,10 +158,6 @@
         <source>Done</source>
         <target>OK</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="actions.doneactions.edit" xml:space="preserve">
-        <source>actions.doneactions.edit</source>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="actions.edit" xml:space="preserve">
         <source>Edit</source>
@@ -556,8 +540,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="history.weight.graph.count" xml:space="preserve">
-        <source>entries</source>
-        <target>poids</target>
+        <source>%d entries</source>
+        <target>%d poids</target>
         <note/>
       </trans-unit>
       <trans-unit id="history.weight.graph.title" xml:space="preserve">

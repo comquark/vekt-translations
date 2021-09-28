@@ -15,11 +15,6 @@
         <target>%@ ft</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@ history.weight.graph.count" xml:space="preserve">
-        <source>%@ history.weight.graph.count</source>
-        <target>%@ history.weight.graph.count</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="%@ in" xml:space="preserve">
         <source>%@ in</source>
         <target>%@ in</target>
@@ -55,50 +50,40 @@
         <target>LBS</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Manage Subscription" xml:space="preserve">
-        <source>Manage Subscription</source>
-        <target>Manage Subscription</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Refund is being processed" xml:space="preserve">
         <source>Refund is being processed</source>
         <target>Refund is being processed</target>
-        <note>No comment provided by engineer.</note>
+        <note>Alert Title: Confirming that the refund is being processed</note>
       </trans-unit>
       <trans-unit id="ST" xml:space="preserve">
         <source>ST</source>
         <target>ST</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Save" xml:space="preserve">
-        <source>Save</source>
-        <target>Save</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Thank you for staying, we really appreciate it!" xml:space="preserve">
         <source>Thank you for staying, we really appreciate it!</source>
         <target>Thank you for staying, we really appreciate it!</target>
-        <note>No comment provided by engineer.</note>
+        <note>Alert Message: thanking the user for remaing a subscriber.</note>
       </trans-unit>
       <trans-unit id="Thanks for staying" xml:space="preserve">
         <source>Thanks for staying</source>
         <target>Thanks for staying</target>
-        <note>No comment provided by engineer.</note>
+        <note>Alert Title: Thanking the user for remaing a subscriber.</note>
       </trans-unit>
       <trans-unit id="These are all Vekt transactions you’ve made in the past." xml:space="preserve">
         <source>These are all Vekt transactions you’ve made in the past.</source>
         <target>These are all Vekt transactions you’ve made in the past.</target>
-        <note>No comment provided by engineer.</note>
+        <note>Label: This view presents all previous transactions.</note>
       </trans-unit>
       <trans-unit id="View Transactions" xml:space="preserve">
         <source>View Transactions</source>
         <target>View Transactions</target>
-        <note>No comment provided by engineer.</note>
+        <note>Button: Shows all previous transactions</note>
       </trans-unit>
       <trans-unit id="We're so sad to see you go, have a lovely day!" xml:space="preserve">
         <source>We're so sad to see you go, have a lovely day!</source>
         <target>We're so sad to see you go, have a lovely day!</target>
-        <note>No comment provided by engineer.</note>
+        <note>Alert message: Tell our users we're sad that they cancel our subscription</note>
       </trans-unit>
       <trans-unit id="about.action.appstore" xml:space="preserve">
         <source>Rate this App</source>
@@ -189,11 +174,6 @@
         <source>Done</source>
         <target>Done</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="actions.doneactions.edit" xml:space="preserve">
-        <source>actions.doneactions.edit</source>
-        <target>actions.doneactions.edit</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="actions.edit" xml:space="preserve">
         <source>Edit</source>
@@ -576,8 +556,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="history.weight.graph.count" xml:space="preserve">
-        <source>entries</source>
-        <target>entries</target>
+        <source>%d entries</source>
+        <target>%d entries</target>
         <note/>
       </trans-unit>
       <trans-unit id="history.weight.graph.title" xml:space="preserve">

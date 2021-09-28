@@ -13,10 +13,6 @@
         <source>%@ ft</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@ history.weight.graph.count" xml:space="preserve">
-        <source>%@ history.weight.graph.count</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="%@ in" xml:space="preserve">
         <source>%@ in</source>
         <note>No comment provided by engineer.</note>
@@ -39,47 +35,47 @@
       </trans-unit>
       <trans-unit id="BMI" xml:space="preserve">
         <source>BMI</source>
+        <target>BMI</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LBS" xml:space="preserve">
         <source>LBS</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Manage Subscription" xml:space="preserve">
-        <source>Manage Subscription</source>
+        <target>LBS</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Refund is being processed" xml:space="preserve">
         <source>Refund is being processed</source>
-        <note>No comment provided by engineer.</note>
+        <target>Terugbetaling is in behandling</target>
+        <note>Alert Title: Confirming that the refund is being processed</note>
       </trans-unit>
       <trans-unit id="ST" xml:space="preserve">
         <source>ST</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Save" xml:space="preserve">
-        <source>Save</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Thank you for staying, we really appreciate it!" xml:space="preserve">
         <source>Thank you for staying, we really appreciate it!</source>
-        <note>No comment provided by engineer.</note>
+        <target>Bedankt dat je nog even blijft, we waarderen dat enorm!</target>
+        <note>Alert Message: thanking the user for remaing a subscriber.</note>
       </trans-unit>
       <trans-unit id="Thanks for staying" xml:space="preserve">
         <source>Thanks for staying</source>
-        <note>No comment provided by engineer.</note>
+        <target>Dankjewel</target>
+        <note>Alert Title: Thanking the user for remaing a subscriber.</note>
       </trans-unit>
       <trans-unit id="These are all Vekt transactions you’ve made in the past." xml:space="preserve">
         <source>These are all Vekt transactions you’ve made in the past.</source>
-        <note>No comment provided by engineer.</note>
+        <target>Dit zijn alle abonnement transacties die je gemaakt heb met Vekt.</target>
+        <note>Label: This view presents all previous transactions.</note>
       </trans-unit>
       <trans-unit id="View Transactions" xml:space="preserve">
         <source>View Transactions</source>
-        <note>No comment provided by engineer.</note>
+        <target>Bekijk transacties</target>
+        <note>Button: Shows all previous transactions</note>
       </trans-unit>
       <trans-unit id="We're so sad to see you go, have a lovely day!" xml:space="preserve">
         <source>We're so sad to see you go, have a lovely day!</source>
-        <note>No comment provided by engineer.</note>
+        <target>We vinden het spijtig dat je weg gaat maar hoop dat je gezond en wel blijft!</target>
+        <note>Alert message: Tell our users we're sad that they cancel our subscription</note>
       </trans-unit>
       <trans-unit id="about.action.appstore" xml:space="preserve">
         <source>Rate this App</source>
@@ -170,10 +166,6 @@
         <source>Done</source>
         <target>Klaar</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="actions.doneactions.edit" xml:space="preserve">
-        <source>actions.doneactions.edit</source>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="actions.edit" xml:space="preserve">
         <source>Edit</source>
@@ -372,10 +364,12 @@
       </trans-unit>
       <trans-unit id="details.weight.compared.less" xml:space="preserve">
         <source>This is %@ %@ less than your average.</source>
+        <target>Dit is %@ %@ minder dan je gemiddelde.</target>
         <note>Value, Unit (e.g. That's 2.2 kg less than your average.)</note>
       </trans-unit>
       <trans-unit id="details.weight.compared.more" xml:space="preserve">
         <source>That's %@ %@ more than your average.</source>
+        <target>Dat is %@ %@ meer dan je gemiddelde.</target>
         <note>Value, Unit (e.g. That's 2.2 kg more than your average.)</note>
       </trans-unit>
       <trans-unit id="details.weight.delete.confirmation.description" xml:space="preserve">
@@ -554,8 +548,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="history.weight.graph.count" xml:space="preserve">
-        <source>entries</source>
-        <target>metingen</target>
+        <source>%d entries</source>
+        <target>%d metingen</target>
         <note/>
       </trans-unit>
       <trans-unit id="history.weight.graph.title" xml:space="preserve">
@@ -600,6 +594,7 @@
       </trans-unit>
       <trans-unit id="lbs" xml:space="preserve">
         <source>lbs</source>
+        <target>lbs</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="lowest.desc" xml:space="preserve">
@@ -1028,7 +1023,7 @@ Belangrijker: je data is van jou en verlaat je toestel nooit. Het is beveiligd i
       </trans-unit>
       <trans-unit id="settings.subscription.refunded" xml:space="preserve">
         <source>Refunded on %@</source>
-        <target>Teruggestort op %@</target>
+        <target>Terugbetaald op %@</target>
         <note>(e.g. Refunded on DATE)</note>
       </trans-unit>
       <trans-unit id="settings.subscription.trial" xml:space="preserve">
@@ -1445,6 +1440,7 @@ Voor de grootste fans onder ons hebben we een speciale donatie-optie. Je naam wo
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Vekt</source>
+        <target>Vekt</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">

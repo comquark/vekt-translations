@@ -155,7 +155,7 @@
 "history.status.lost"="You've lost %@ %@ since %@"; // Value Unit Date (e.g. You've lost 2.3 kg since DATE)
 "history.average.value"="%.1f avg."; // BMI average (e.g. 21.5 avg.)
 "history.weight.graph.title" = "Latest weights";
-"history.weight.graph.count" = "entries";
+"history.weight.graph.count" = "%d entries";
 
 // Home
 "home.summary"="Summary";
