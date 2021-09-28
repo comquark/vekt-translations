@@ -1,0 +1,8 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Vekt";
+/* Bundle name */
+"CFBundleName" = "Vekt Widget ExtensionExtension";
+/* Privacy - Health Share Usage Description */
+"NSHealthShareUsageDescription" = "Needed to read your weight, BMI and height from Apple Health.";
+/* Privacy - Health Update Usage Description */
+"NSHealthUpdateUsageDescription" = "Needed to save your weight, BMI and height into Apple Health.";
