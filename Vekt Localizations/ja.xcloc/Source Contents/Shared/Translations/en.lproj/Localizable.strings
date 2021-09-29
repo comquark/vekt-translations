@@ -1,0 +1,305 @@
+//
+//  Copy by Max Bos (http://maximsays.com)
+//
+
+// Onboarding
+"onboarding.healthaccess.title"="Apple Health Access";
+"onboarding.healthaccess.desc"="Give access to have all your health data conveniently stored in one place. Your data is private and will never be shared.";
+"onboarding.healthaccess.info"="Using Vekt with Apple Health improves the app experience, as it automatically syncs all your health and fitness data together.\n\nMost importantly: your data belongs to you only and never leaves your device. It is kept secure in Apple Health, encrypted and protected with your iPhone's passcode.";
+"onboarding.healthaccess.why"="Learn More";
+"onboarding.healthaccess.cta"="Give Access";
+"onboarding.healthaccess.noaccess.confirm"="I Did Give Access";
+"onboarding.healthaccess.noaccess.edit"="Give Permission in Apple Health";
+"onboarding.healthaccess.noaccess.dec"="Please reconsider giving access. This allows for an optimal app experience. Your data belongs to you only.";
+"onboarding.healthaccess.system.read"="This is needed to read your weight, BMI, and height from Apple Health.";
+"onboarding.healthaccess.system.write"="This is needed to save your weight, BMI, and height into Apple Health.";
+
+// Unit
+"unit.title"="Unit";
+"unit.desc"="What language does your scale speak?";
+"unit.imperial"="Imperial";
+"unit.metric"="Metric";
+"unit.stones"="Stones";
+"unit.soon"="Coming soon";
+
+// Height
+"height.title"="Height";
+"height.intro"="How tall are you?";
+"height.desc"="We need to know your height to calculate your body mass index for you.";
+"height.placeholder"="Enter height...";
+"height.save"="You're All Set!";
+
+// Goal
+"goal.title"="Your Goal";
+"goal.intro"="What brings you here?";
+"goal.desc"="Set your intention for tracking your weight.";
+"goal.gain.title"="Gain";
+"goal.gain.desc"="Gaining Weight";
+"goal.gain.past"="gained";
+"goal.lose.title"="Lose";
+"goal.lose.desc"="Losing Weight";
+"goal.lose.past"="lost";
+"goal.maintain.title"="Maintain";
+"goal.maintain.desc"="Maintain Weight";
+
+// All Weights
+"alldata.title"="All Weights";
+"alldata.action"="View All Weights";
+"alldata.healthkit.action"="View in Apple Health";
+
+// Weight Details
+"details.weight.imperial"="Weight in Imperial:";
+"details.weight.metric"="Weight in Metric:";
+"details.weight.compared.more"="That's %@ %@ more than your average."; // Value, Unit (e.g. That's 2.2 kg more than your average.)
+"details.weight.compared.less"="This is %@ %@ less than your average."; // Value, Unit (e.g. That's 2.2 kg less than your average.)
+"details.weight.title"="Weight Details";
+"details.weight.delete.confirmation.title"="Are you sure?";
+"details.weight.delete.confirmation.description"="You want to delete this weight entry?";
+
+// Reminders
+"reminders.title"="Reminders";
+"reminders.desc"="Vekt users are 32% more likely to succeed with notifications on.";
+"reminders.action.enable"="Get Reminded";
+"reminders.date"="Start Date";
+"reminders.day"="Weekday";
+"reminders.freq"="Repeat";
+"reminders.time"="Time";
+"reminders.notification.title"="Track your weight";
+"reminders.notification.body"="⏰ Time to hop onto the scale!";
+"reminders.notification.body.2"="👋 Scales out, weights in!";
+"reminders.notification.body.3"="👍 Time for a weigh-in. Keep it up!";
+"reminders.notification.body.4"="😄 Step onto the scale. You got this!";
+"reminders.notification.body.5"="💪 You're up. Get onto the scale!";
+
+"reminders.notification.hidden"="Reminder";
+"reminders.notification.saved"="New weight saved! 🎉";
+"reminders.repeat.desc"="How often would you like to get reminded?";
+"reminders.repeat.daily"="Every day";
+"reminders.repeat.weekly"="Every week";
+"reminders.repeat.biweekly"="Every two weeks";
+"reminders.repeat.monthly"="Every month";
+"reminders.button.title"="Turn on Reminders";
+"reminders.button.daily"="Daily at ";
+"reminders.button.weekly"="Every %@ at "; // Weekday (e.g Every Thursday at TIME)
+"reminders.button.biweekly"="Every other %@ at "; // Weekday (e.g Every other Thursday at TIME)
+"reminders.button.monthly"="Every %@ at "; // Day (e.g Every 2nd at TIME)
+"reminders.tutorial.desc"="Turn on reminders to increase your chance of success with 32%.";
+"reminders.tutorial.title"="Turn on reminders";
+"reminders.tutorial.cta"="Remind Me";
+
+// Target
+"target.title"="Target";
+"target.action"="Set Target";
+"target.empty.starttitle"="Starting Weight";
+"target.progress"="%@ %@ to go"; // Weight value, Unit (e.g. 3.2 kg to go)
+"target.progress.next"="Next Target";
+"target.reached.title"="You made that look easy!";
+"target.reached.title.short"="You did it!";
+"target.reached.desc"="Congrats! You're taking serious steps to live healthier! Ready for your next target, or want to maintain this weight?";
+"target.reached.action.new"="Set New Target";
+"target.reached.action.share"="Share";
+"target.reached.action.dismiss"="Maintain Weight";
+"target.reached.share.message"="Pretty proud of this one! I just hit my target of %@ %@ thanks to Vekt"; // Weight, Unit (e.g. I just hit my target of 43 kg thanks to Vekt)
+
+// Measure
+"measure.title"="New Weight";
+"measure.date.action"="Change Date";
+"measure.date"="Date:";
+"measure.now"="Now";
+
+// Range
+"lowest.title"="Lowest";
+"lowest.desc"="What would be your minimum weight?";
+"highest.title"="Highest";
+"highest.desc"="Decide on where it gets a bit too heavy?";
+"range.title"="Weight Range";
+"range.desc"="Decide what range you would consider healthy.";
+"range.suggest"="Suggested: %@"; // Weight value (e.g. 32)
+"rang.card.desc" = "Set your ideal range.";
+
+// BMI
+"bmi.overweight.title"="Overweight";
+"bmi.overweight.desc"="a BMI over 25 is considered overweight. Good thing you're working on it!";
+"bmi.obese.title"="Obese";
+"bmi.obese.desc"="a BMI over 30 is considered obese. You've got work to do! Stay focused on your goal.";
+"bmi.underweight.title"="Underweight";
+"bmi.underweight.desc"="a BMI below 18.5 is considered underweight. Good thing you're working on it!";
+"bmi.healthy.title"="Healthy";
+"bmi.healthy.desc"="a BMI between 18.5 and 25 is perfectly healthy. Good job! ";
+"bmi.overweight.info"="Being overweight generally increases your risk of developing coronary heart disease. To get to a healthier weight, try to be physically active every day and eat well-balanced healthy food. Keep in mind that BMI doesn't paint a full picture, as it doesn't include muscle and fat measures. If you have a lot of muscle compared to fat - you are likely considered healthy too. When in doubt, consider speaking to a medical or dietary specialist.";
+"bmi.obese.info"="Being obese means that you have a higher risk of developing coronary heart disease, as well as other health conditions.  It is important to reduce your weight- every kilo matters. You can lower your risk by being physically active every day and eating healthy food. Consider speaking to a medical or dietary specialist if you need a hand to get there.";
+"bmi.underweight.info"="Being underweight could be a risk to your health. It is important to eat well-balanced, healthy food every day. Consider speaking to a medical or dietary specialist if you've lost a lot of weight in a short time or have a hard time adding weight.";
+"bmi.unknown.title"="Unknown";
+"bmi.unknown.desc"="We need to know your height and weight first";
+"bmi.weight.title"="Weight";
+"bmi.height.title"="Height";
+"bmi.action.edit.height"="Change Height";
+"bmi.title" = "bmi";
+"bmi.action.weight"="Enter Weight";
+"bmi.action.height"="Enter Height";
+"bmi.watch.setup"="Please setup your height on iPhone first";
+"bmi.how"="Where's my BMI?";
+"bmi.stats" = "Your details";
+
+// History
+"history.card.countdown-4"="You need 4 weigh-ins to see your progress chart.";
+"history.card.countdown-3"="Save your weight 3 more times to see your progress chart.";
+"history.card.countdown-2"="Just 2 more weigh-ins to go!";
+"history.card.countdown-1"="Enter weight to see your progress!";
+"history.title"="History";
+"history.average"="Average weight";
+"history.targets"="Targets hit";
+"history.measurements"="Measurements";
+"history.best"="Best weight";
+"history.status.gained"="You've gained %@ %@ since %@"; // Value Unit Date (e.g. You've gained 2.3 kg since DATE)
+"history.status.lost"="You've lost %@ %@ since %@"; // Value Unit Date (e.g. You've lost 2.3 kg since DATE)
+"history.average.value"="%.1f avg."; // BMI average (e.g. 21.5 avg.)
+"history.weight.graph.title" = "Latest weights";
+"history.weight.graph.count" = "%d entries";
+
+// Home
+"home.summary"="Summary";
+"home.latest"="Latest";
+"home.empty.title"="Set your starting weight";
+"home.empty.desc"="Let's kick-start your healthy lifestyle by entering your first weight.";
+
+// Settings
+"settings.title"="Settings";
+"settings.motivation"="Show Messages";
+"settings.milestones"="Set Target Milestones";
+"settings.about"="About Vekt";
+"settings.specialThanks" = "Credits";
+"settings.contact"="Contact Us";
+"settings.privacy"="Privacy Policy";
+"settings.title.measurements"="Measurements";
+"settings.title.support"="Support";
+"settings.title.subscription"="Subscription";
+"settings.title.motivation"="Motivation";
+"settings.subscription.purchased" = "Purchased on %@"; // Date (e.g. Purchased on DATE)
+"settings.subscription.expires" = "Expires on %@"; // Date (e.g. Expires on DATE)
+"settings.subscription.willrenew" = "Will renew on %@"; // Date (e.g. Will renew on DATE)
+"settings.subscription.refunded" = "Refunded on %@"; // (e.g. Refunded on DATE)
+"settings.subscription.trial" = "Free Trial";
+
+// Icon
+"icon.action"="Change Appearance";
+"icon.title"="Choose Your Colors ";
+"icon.desc"="Want a different look? You can switch around anytime you like.";
+"appearance.theme.title" = "Theme";
+"appearance.theme.dark" = "Dark";
+"appearance.theme.light" = "Light";
+"appearance.theme.system" = "System";
+"appearance.icon.title" = "Icon";
+
+// About
+"about.title"="Thanks for the support!";
+"about.action.feedback"="Give Feedback";
+"about.action.twitter"="Follow Vekt on Twitter";
+"about.action.appstore"="Rate this App";
+"about.action.tip"="Tip the Makers";
+"about.action.helpTranslate"="Help Translating Vekt";
+"about.specialThanks" = "Special Thanks to...";
+"about.credits.development" = "Development";
+"about.credits.copy" = "Copywriting";
+"about.credits.translations" = "Translations";
+"about.credits.appicons" = "App Icons";
+"about.credits.daily" = "Daily Support";
+"about.credits.desc" = "Vekt couldn’t exist without the support of the following people.";
+
+// Subscription
+"subscription.title"="Subscribe to Vekt";
+"subscription.action"="Subscribe Now";
+"subscription.terms"="Terms";
+"subscription.restore"="Already Purchased?";
+"subscription.privacy"="Privacy";
+"subscription.cancel"="(Cancel anytime)";
+"subscription.new.title"="Vekt";
+"subscription.new.desc"="Subscribe to unlimited support for your healthy weight";
+"subscription.new.benefit-1.title"="Stay on track with your weight goals";
+"subscription.new.benefit-1.desc"="Apple Health Integration, Automatic BMI Updates, Progress Line Chart";
+"subscription.new.benefit-2.title"="Get motivated to make weight tracking a habit";
+"subscription.new.benefit-2.desc"="Targets, Personalized Reminders, Motivational Texts, Siri Shortcuts and Widgets";
+"subscription.new.benefit-3.title"="Feel healthier, happier, and driven to kick it ";
+"subscription.new.benefit-3.desc"="74% of Vekt users notice a healthy change in lifestyle after 3 weigh-ins";
+"subscription.new.benefit-4.title"="Regular updates";
+"subscription.new.benefit-4.desc"="We will update this app regularly to keep it fresh";
+"subscription.new.best"="Save 75%";
+"subscription.old.title"="Hey friend!";
+"subscription.old.desc-1"="Welcome to Vekt 3, our biggest update yet.";
+"subscription.old.desc-2"="We are giving you free access for a year.";
+"subscription.old.desc-3"="Because we appreciate you–this is our way of saying thank you.";
+"subscription.old.action.buy"="Subscribe and Support";
+"subscription.old.action.free"="Continue for Free";
+"subscription.year"="%@ per year"; // Price (e.g. €7.99 per year)
+"subscription.month"="%@ per month"; // Price (e.g. €2.99 per month)
+"subscription.lifetime"="%@ one time"; // Price (e.g. €17.99 one time)
+"subscription.trial"="Try 1 Month free";
+"subscription.manage"="Manage Subscription";
+
+// Widget
+"widget.noacces"="Vekt needs to be able to read from Apple Health.";
+"widget.target.remain"="%@ to go"; // Weight value (e.g. 4.1 to go)
+"widget.weight.title"="Weight Widget";
+"widget.weight.desc"="Shows your latest measured weight.";
+"widget.target.title"="Target Widget";
+"widget.target.desc"="Shows your progress toward your next target.";
+
+// Siri
+"siri.title"="Log New Weight";
+"siri.phrase"="Log new weight";
+"siri.shortcut.open"="Open Vekt…";
+
+// Tipping
+"tipping.title"="Thank you for using Vekt!";
+"tipping.desc"="It is such a pleasure to build this software for you all. We hope that you are getting value from it.\n\nFor the greatest fans among us, we have a special tip option. Your name will be written on our wall, to which we look up when we drip sweat, blood, and tears, to remind ourselves that it is all worth it.\n\nThank you, thank you, thank you.";
+"tipping.item.small.title"="Drink-Sized Tip";
+"tipping.item.medium.title"="Meal-Sized Tip";
+"tipping.item.large.title"="The Biggest Fan of Vekt";
+
+// Complication
+"complication.target.title"="Target & Quick access";
+"complication.shortcut.title"="Quick access to Vekt";
+"complication.bmi.title"="BMI Complication";
+
+// Actions
+"actions.next"="Next";
+"actions.cancel"="Cancel";
+"actions.skip"="Skip";
+"actions.save"="Save";
+"actions.done"="Done";
+"actions.save.target"="Save Target";
+"actions.save.weight"="Save Weight";
+"actions.edit"="Edit";
+"actions.close"="Close";
+"actions.delete" = "Delete";
+"actions.delete.weight"="Delete Weight";
+
+// Messages
+"motivation.positive.1"="Yes! Now give me a celebration dance!";
+"motivation.positive.2"="Simply amazing!";
+"motivation.positive.3"="Booom! Going straight for the kill.";
+"motivation.positive.4"="You make me proud. Keep going!";
+"motivation.positive.5"="Show 'em how it's done! Great work.";
+"motivation.positive.6"="You absolute legend! Keep it up.";
+"motivation.positive.7"="You're inspirational! Shoulder tap";
+"motivation.positive.8"="Every step counts. Enjoy your progress!";
+"motivation.positive.9"="Bellissimo! You're the best.";
+"motivation.positive.10"="I'm starstruck. Shine on!";
+"motivation.positive.11"="You rock! Nice looking progress.";
+"motivation.positive.12"="Nailed it.";
+"motivation.positive.13"="Give yourself a pat on the back!";
+"motivation.negative.1"="Rome wasn't built in a day. Don't give up!";
+"motivation.negative.2"="Keep your head up! Next week is yours.";
+"motivation.negative.3"="It happens to the best of us. Just keep going!";
+"motivation.negative.4"="One step back. Two steps forward. Chin up!";
+"motivation.negative.5"="We all have off-days. What matters is how you bounce back.";
+"motivation.negative.6"="Nobody said it was easy. You still got this!";
+"motivation.negative.lose.1"="No worries, just don't give up!";
+"motivation.negative.lose.2"="Winners don't quit. They keep going.";
+"motivation.negative.lose.3"="Try drinking two glasses of water before meals. See if that helps! ";
+"motivation.negative.gain.1"="Dust off those running shoes!";
+"motivation.negative.gain.2"="Add some extra weights, you know you can do it!";
+"motivation.negative.gain.3"="Try using bigger plates, this could help you gain some weight!";
+"motivation.negative.gain.4"="Try adding oats, almonds or peanut butter to your breakfast. Get those proteins in early!";
+"motivation.neutral.1"="Good work on measuring your weight!";
+"motivation.neutral.2"="Good job! You're on track to a healthy habit!";

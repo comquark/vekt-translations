@@ -1,0 +1,10 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Vekt";
+/* Bundle name */
+"CFBundleName" = "Vekt";
+/* Privacy - Health Share Usage Description */
+"NSHealthShareUsageDescription" = "This is needed to read your weight, BMI, and height from Apple Health.";
+/* Privacy - Health Update Usage Description */
+"NSHealthUpdateUsageDescription" = "This is needed to save your weight, BMI, and height into Apple Health.";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Allow Vekt to save your achievement into your photo library.";

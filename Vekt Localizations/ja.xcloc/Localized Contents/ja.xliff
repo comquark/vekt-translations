@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Shared/Translations/en.lproj/Localizable.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A233"/>
+    </header>
+    <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ ft" xml:space="preserve">
+        <source>%@ ft</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ in" xml:space="preserve">
+        <source>%@ in</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@, %@" xml:space="preserve">
+        <source>%1$@, %2$@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@.%@" xml:space="preserve">
+        <source>%1$@.%2$@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="&lt;%.1f" xml:space="preserve">
+        <source>&lt;%.1f</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="&gt;%.0f" xml:space="preserve">
+        <source>&gt;%.0f</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BMI" xml:space="preserve">
+        <source>BMI</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LBS" xml:space="preserve">
+        <source>LBS</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Refund is being processed" xml:space="preserve">
+        <source>Refund is being processed</source>
+        <note>Alert Title: Confirming that the refund is being processed</note>
+      </trans-unit>
+      <trans-unit id="ST" xml:space="preserve">
+        <source>ST</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank you for staying, we really appreciate it!" xml:space="preserve">
+        <source>Thank you for staying, we really appreciate it!</source>
+        <note>Alert Message: thanking the user for remaing a subscriber.</note>
+      </trans-unit>
+      <trans-unit id="Thanks for staying" xml:space="preserve">
+        <source>Thanks for staying</source>
+        <note>Alert Title: Thanking the user for remaing a subscriber.</note>
+      </trans-unit>
+      <trans-unit id="These are all Vekt transactions you’ve made in the past." xml:space="preserve">
+        <source>These are all Vekt transactions you’ve made in the past.</source>
+        <note>Label: This view presents all previous transactions.</note>
+      </trans-unit>
+      <trans-unit id="View Transactions" xml:space="preserve">
+        <source>View Transactions</source>
+        <note>Button: Shows all previous transactions</note>
+      </trans-unit>
+      <trans-unit id="We're so sad to see you go, have a lovely day!" xml:space="preserve">
+        <source>We're so sad to see you go, have a lovely day!</source>
+        <note>Alert message: Tell our users we're sad that they cancel our subscription</note>
+      </trans-unit>
+      <trans-unit id="about.action.appstore" xml:space="preserve">
+        <source>Rate this App</source>
+        <target>アプリを評価する</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.action.feedback" xml:space="preserve">
+        <source>Give Feedback</source>
+        <target>フィードバックの送信</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.action.helpTranslate" xml:space="preserve">
+        <source>Help Translating Vekt</source>
+        <target>Help Translating Vekt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.action.tip" xml:space="preserve">
+        <source>Tip the Makers</source>
+        <target>アプリ開発者への寄付</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.action.twitter" xml:space="preserve">
+        <source>Follow Vekt on Twitter</source>
+        <target>TwitterでVektをフォロー</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.credits.appicons" xml:space="preserve">
+        <source>App Icons</source>
+        <target>App Icons</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.credits.copy" xml:space="preserve">
+        <source>Copywriting</source>
+        <target>Copywriting</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.credits.daily" xml:space="preserve">
+        <source>Daily Support</source>
+        <target>Daily Support</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.credits.desc" xml:space="preserve">
+        <source>Vekt couldn’t exist without the support of the following people.</source>
+        <target>Vekt couldn’t exist without the support of the following people.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.credits.development" xml:space="preserve">
+        <source>Development</source>
+        <target>Development</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.credits.translations" xml:space="preserve">
+        <source>Translations</source>
+        <target>Translations</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.specialThanks" xml:space="preserve">
+        <source>Special Thanks to...</source>
+        <target>Special Thanks to...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.title" xml:space="preserve">
+        <source>Thanks for the support!</source>
+        <target>ご利用をいただき、ありがとうございます！</target>
+        <note>About</note>
+      </trans-unit>
+      <trans-unit id="actions.cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>キャンセル</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.close" xml:space="preserve">
+        <source>Close</source>
+        <target>終了</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>削除</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.delete.weight" xml:space="preserve">
+        <source>Delete Weight</source>
+        <target>体重を削除</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.done" xml:space="preserve">
+        <source>Done</source>
+        <target>完了</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.edit" xml:space="preserve">
+        <source>Edit</source>
+        <target>修正</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.next" xml:space="preserve">
+        <source>Next</source>
+        <target>次</target>
+        <note>Actions</note>
+      </trans-unit>
+      <trans-unit id="actions.save" xml:space="preserve">
+        <source>Save</source>
+        <target>保存</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.save.target" xml:space="preserve">
+        <source>Save Target</source>
+        <target>目標体重の更新</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.save.weight" xml:space="preserve">
+        <source>Save Weight</source>
+        <target>体重の更新</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.skip" xml:space="preserve">
+        <source>Skip</source>
+        <target>スキップ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="alldata.action" xml:space="preserve">
+        <source>View All Weights</source>
+        <target>全ての記録を確認</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="alldata.healthkit.action" xml:space="preserve">
+        <source>View in Apple Health</source>
+        <target>『ヘルスケア』で確認</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="alldata.title" xml:space="preserve">
+        <source>All Weights</source>
+        <target>全ての体重の記録</target>
+        <note>All Weights</note>
+      </trans-unit>
+      <trans-unit id="appearance.icon.title" xml:space="preserve">
+        <source>Icon</source>
+        <target>アイコン</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appearance.theme.dark" xml:space="preserve">
+        <source>Dark</source>
+        <target>ダーク</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appearance.theme.light" xml:space="preserve">
+        <source>Light</source>
+        <target>ライト</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appearance.theme.system" xml:space="preserve">
+        <source>System</source>
+        <target>システム</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appearance.theme.title" xml:space="preserve">
+        <source>Theme</source>
+        <target>テーマ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.action.edit.height" xml:space="preserve">
+        <source>Change Height</source>
+        <target>身長の変更</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.action.height" xml:space="preserve">
+        <source>Enter Height</source>
+        <target>身長の記入</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.action.weight" xml:space="preserve">
+        <source>Enter Weight</source>
+        <target>体重の記入</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.healthy.desc" xml:space="preserve">
+        <source>a BMI between 18.5 and 25 is perfectly healthy. Good job! </source>
+        <target>18.5〜25の間のBMI値は、健康的な体重に該当します。完璧です！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.healthy.title" xml:space="preserve">
+        <source>Healthy</source>
+        <target>健康体重</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.height.title" xml:space="preserve">
+        <source>Height</source>
+        <target>身長</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.how" xml:space="preserve">
+        <source>Where's my BMI?</source>
+        <target>ご自分のBMI値とは？</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.obese.desc" xml:space="preserve">
+        <source>a BMI over 30 is considered obese. You've got work to do! Stay focused on your goal.</source>
+        <target>30以上のBMI値は、肥満（2度）に該当します。まだまだこれから🔥 集中して目標を達成しましょう。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.obese.info" xml:space="preserve">
+        <source>Being obese means that you have a higher risk of developing coronary heart disease, as well as other health conditions.  It is important to reduce your weight- every kilo matters. You can lower your risk by being physically active every day and eating healthy food. Consider speaking to a medical or dietary specialist if you need a hand to get there.</source>
+        <target>肥満（2度）になると、冠状動脈性心臓病やその他の疾患を発症するリスクが高まる為、健康の為にも体重を減らすことは重要です。1キロ単位での減量が重要なので、毎日体を動かし、健康的な食事をすることでリスクを下げましょう。助けが必要な場合は、医療や食生活の専門家に相談してみてください。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.obese.title" xml:space="preserve">
+        <source>Obese</source>
+        <target>肥満（2度）</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.overweight.desc" xml:space="preserve">
+        <source>a BMI over 25 is considered overweight. Good thing you're working on it!</source>
+        <target>25以上のBMI値は、肥満（1度）に該当します。努力は必ず実ります！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.overweight.info" xml:space="preserve">
+        <source>Being overweight generally increases your risk of developing coronary heart disease. To get to a healthier weight, try to be physically active every day and eat well-balanced healthy food. Keep in mind that BMI doesn't paint a full picture, as it doesn't include muscle and fat measures. If you have a lot of muscle compared to fat - you are likely considered healthy too. When in doubt, consider speaking to a medical or dietary specialist.</source>
+        <target>肥満（1度）の場合、一般的に冠状動脈性心臓病の発症リスクが高まります。健康的な体重になるためには、毎日体を動かすことと、バランスのとれた健康的な食生活を心がける事が大切です。BMI値には筋肉や脂肪の数値が含まれていないため、全体像を把握することができないことに注意してください。筋肉が多く脂肪が少ない人は、健康的であると考えられます。迷ったときは、医療や食事の専門家に相談してみましょう。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.overweight.title" xml:space="preserve">
+        <source>Overweight</source>
+        <target>肥満（1度）</target>
+        <note>BMI</note>
+      </trans-unit>
+      <trans-unit id="bmi.stats" xml:space="preserve">
+        <source>Your details</source>
+        <target>Your details</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.title" xml:space="preserve">
+        <source>bmi</source>
+        <target>BMI値</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.underweight.desc" xml:space="preserve">
+        <source>a BMI below 18.5 is considered underweight. Good thing you're working on it!</source>
+        <target>18.5未満のBMI値は、平均以下の体重（痩せ型）に該当します。目指すカラダ作りに向けて頑張りましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.underweight.info" xml:space="preserve">
+        <source>Being underweight could be a risk to your health. It is important to eat well-balanced, healthy food every day. Consider speaking to a medical or dietary specialist if you've lost a lot of weight in a short time or have a hard time adding weight.</source>
+        <target>体重が平均よりも少ない事で、健康を害する恐れがあります。毎日、バランスのとれた健康的な食生活をすることが大切です。短期間で体重が大幅に減少した場合や、体重が増えにくい場合は、医療や食事の専門家に相談することをお勧めします。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.underweight.title" xml:space="preserve">
+        <source>Underweight</source>
+        <target>体重平均以下（痩せ型）</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.unknown.desc" xml:space="preserve">
+        <source>We need to know your height and weight first</source>
+        <target>身長と体重を教えてください。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.unknown.title" xml:space="preserve">
+        <source>Unknown</source>
+        <target>未記録</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.watch.setup" xml:space="preserve">
+        <source>Please setup your height on iPhone first</source>
+        <target>iPhoneで身長を設定してください。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.weight.title" xml:space="preserve">
+        <source>Weight</source>
+        <target>体重</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="complication.bmi.title" xml:space="preserve">
+        <source>BMI Complication</source>
+        <target>BMI値の問題点</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="complication.shortcut.title" xml:space="preserve">
+        <source>Quick access to Vekt</source>
+        <target>Vektにアクセス</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="complication.target.title" xml:space="preserve">
+        <source>Target &amp; Quick access</source>
+        <target>目標 進捗率</target>
+        <note>Complication</note>
+      </trans-unit>
+      <trans-unit id="details.weight.compared.less" xml:space="preserve">
+        <source>This is %@ %@ less than your average.</source>
+        <target>いつものの平均体重よりも%@ %@軽いです</target>
+        <note>Value, Unit (e.g. That's 2.2 kg less than your average.)</note>
+      </trans-unit>
+      <trans-unit id="details.weight.compared.more" xml:space="preserve">
+        <source>That's %@ %@ more than your average.</source>
+        <target>いつものの平均体重よりも%@ %@重いです.</target>
+        <note>Value, Unit (e.g. That's 2.2 kg more than your average.)</note>
+      </trans-unit>
+      <trans-unit id="details.weight.delete.confirmation.description" xml:space="preserve">
+        <source>You want to delete this weight entry?</source>
+        <target>この体重記録を削除してもよろしいでしょうか？</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="details.weight.delete.confirmation.title" xml:space="preserve">
+        <source>Are you sure?</source>
+        <target>本当によろしいですか？</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="details.weight.imperial" xml:space="preserve">
+        <source>Weight in Imperial:</source>
+        <target>ヤード・ポンド法（lb）での体重</target>
+        <note>Weight Details</note>
+      </trans-unit>
+      <trans-unit id="details.weight.metric" xml:space="preserve">
+        <source>Weight in Metric:</source>
+        <target>メートル法（kg）での体重：</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="details.weight.title" xml:space="preserve">
+        <source>Weight Details</source>
+        <target>体重の詳細</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.desc" xml:space="preserve">
+        <source>Set your intention for tracking your weight.</source>
+        <target>体重を記録する目的</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.gain.desc" xml:space="preserve">
+        <source>Gaining Weight</source>
+        <target>体重を増やしたい</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.gain.past" xml:space="preserve">
+        <source>gained</source>
+        <target>が増えた</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.gain.title" xml:space="preserve">
+        <source>Gain</source>
+        <target>Gain</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.intro" xml:space="preserve">
+        <source>What brings you here?</source>
+        <target>目標を教えてください。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.lose.desc" xml:space="preserve">
+        <source>Losing Weight</source>
+        <target>体重を減らしたい</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.lose.past" xml:space="preserve">
+        <source>lost</source>
+        <target>が減った</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.lose.title" xml:space="preserve">
+        <source>Lose</source>
+        <target>Lose</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.maintain.desc" xml:space="preserve">
+        <source>Maintain Weight</source>
+        <target>Maintain Weight</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.maintain.title" xml:space="preserve">
+        <source>Maintain</source>
+        <target>Maintain</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.title" xml:space="preserve">
+        <source>Your Goal</source>
+        <target>ご自身の目標</target>
+        <note>Goal</note>
+      </trans-unit>
+      <trans-unit id="height.desc" xml:space="preserve">
+        <source>We need to know your height to calculate your body mass index for you.</source>
+        <target>BMI値を計算するために、身長を教えていただく必要があります。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="height.intro" xml:space="preserve">
+        <source>How tall are you?</source>
+        <target>身長は何センチですか？</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="height.placeholder" xml:space="preserve">
+        <source>Enter height...</source>
+        <target>身長を入力</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="height.save" xml:space="preserve">
+        <source>You're All Set!</source>
+        <target>準備完了！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="height.title" xml:space="preserve">
+        <source>Height</source>
+        <target>ご身長</target>
+        <note>Height</note>
+      </trans-unit>
+      <trans-unit id="highest.desc" xml:space="preserve">
+        <source>Decide on where it gets a bit too heavy?</source>
+        <target>Decide on where it gets a bit too heavy?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="highest.title" xml:space="preserve">
+        <source>Highest</source>
+        <target>Highest</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.average" xml:space="preserve">
+        <source>Average weight</source>
+        <target>平均体重</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.average.value" xml:space="preserve">
+        <source>%.1f avg.</source>
+        <target>平均BMI値：%.1f</target>
+        <note>BMI average (e.g. 21.5 avg.)</note>
+      </trans-unit>
+      <trans-unit id="history.best" xml:space="preserve">
+        <source>Best weight</source>
+        <target>最大記録の体重</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.card.countdown-1" xml:space="preserve">
+        <source>Enter weight to see your progress!</source>
+        <target>体重を記入し、進捗表を確認しましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.card.countdown-2" xml:space="preserve">
+        <source>Just 2 more weigh-ins to go!</source>
+        <target>あと2回体重記録をすると、進捗表が確認出来ます。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.card.countdown-3" xml:space="preserve">
+        <source>Save your weight 3 more times to see your progress chart.</source>
+        <target>あと3回体重記録をすると、進捗表が確認出来ます。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.card.countdown-4" xml:space="preserve">
+        <source>You need 4 weigh-ins to see your progress chart.</source>
+        <target>進捗表を確認するには、4回分の体重記録が必要です。</target>
+        <note>History</note>
+      </trans-unit>
+      <trans-unit id="history.measurements" xml:space="preserve">
+        <source>Measurements</source>
+        <target>記録回数</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.status.gained" xml:space="preserve">
+        <source>You've gained %@ %@ since %@</source>
+        <target>%@ から %@ %@体重が増加しました</target>
+        <note>Value Unit Date (e.g. You've gained 2.3 kg since DATE)</note>
+      </trans-unit>
+      <trans-unit id="history.status.lost" xml:space="preserve">
+        <source>You've lost %@ %@ since %@</source>
+        <target>%@ から %@ %@体重が減少しました</target>
+        <note>Value Unit Date (e.g. You've lost 2.3 kg since DATE)</note>
+      </trans-unit>
+      <trans-unit id="history.targets" xml:space="preserve">
+        <source>Targets hit</source>
+        <target>目標達成回数</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.title" xml:space="preserve">
+        <source>History</source>
+        <target>履歴</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.weight.graph.count" xml:space="preserve">
+        <source>%d entries</source>
+        <target>%d 記録</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.weight.graph.title" xml:space="preserve">
+        <source>Latest weights</source>
+        <target>最新の体重</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.empty.desc" xml:space="preserve">
+        <source>Let's kick-start your healthy lifestyle by entering your first weight.</source>
+        <target>健康生活への第一歩として、体重を記入しましょう。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.empty.title" xml:space="preserve">
+        <source>Set your starting weight</source>
+        <target>スタート時の体重を入力</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.latest" xml:space="preserve">
+        <source>Latest</source>
+        <target>最新</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.summary" xml:space="preserve">
+        <source>Summary</source>
+        <target>まとめ</target>
+        <note>Home</note>
+      </trans-unit>
+      <trans-unit id="icon.action" xml:space="preserve">
+        <source>Change Appearance</source>
+        <target>アイコンの変更</target>
+        <note>Icon</note>
+      </trans-unit>
+      <trans-unit id="icon.desc" xml:space="preserve">
+        <source>Want a different look? You can switch around anytime you like.</source>
+        <target>アプリの表示を変えませんか？いつでも変更が可能です。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="icon.title" xml:space="preserve">
+        <source>Choose Your Colors </source>
+        <target>色を選択してくさい</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lbs" xml:space="preserve">
+        <source>lbs</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="lowest.desc" xml:space="preserve">
+        <source>What would be your minimum weight?</source>
+        <target>What would be your minimum weight?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lowest.title" xml:space="preserve">
+        <source>Lowest</source>
+        <target>Lowest</target>
+        <note>Range</note>
+      </trans-unit>
+      <trans-unit id="measure.date" xml:space="preserve">
+        <source>Date:</source>
+        <target>【日付】</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="measure.date.action" xml:space="preserve">
+        <source>Change Date</source>
+        <target>日付の更新</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="measure.now" xml:space="preserve">
+        <source>Now</source>
+        <target>現在</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="measure.title" xml:space="preserve">
+        <source>New Weight</source>
+        <target>体重記録</target>
+        <note>Measure</note>
+      </trans-unit>
+      <trans-unit id="motivation.negative.1" xml:space="preserve">
+        <source>Rome wasn't built in a day. Don't give up!</source>
+        <target>ローマは1日にして成らず。諦めないで！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.2" xml:space="preserve">
+        <source>Keep your head up! Next week is yours.</source>
+        <target>来週も気を抜かずに頑張って、ものにしましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.3" xml:space="preserve">
+        <source>It happens to the best of us. Just keep going!</source>
+        <target>最高の結果ですね。この調子で突き進みましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.4" xml:space="preserve">
+        <source>One step back. Two steps forward. Chin up!</source>
+        <target>一歩下がって二歩進む。そんな日もあります。上を向いて乗り切りましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.5" xml:space="preserve">
+        <source>We all have off-days. What matters is how you bounce back.</source>
+        <target>こういう日もあります！どう乗り越えていくのかが大事です！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.6" xml:space="preserve">
+        <source>Nobody said it was easy. You still got this!</source>
+        <target>こんなに大変だなんて、誰でも教えてくれませんよね！頑張りましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.gain.1" xml:space="preserve">
+        <source>Dust off those running shoes!</source>
+        <target>ランニングシューズのホコリをはらって！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.gain.2" xml:space="preserve">
+        <source>Add some extra weights, you know you can do it!</source>
+        <target>目指せ、体重増加！あなたなら出来ます！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.gain.3" xml:space="preserve">
+        <source>Try using bigger plates, this could help you gain some weight!</source>
+        <target>いつもより大きめのお皿に盛り付けてみて。体重増加のコツです！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.gain.4" xml:space="preserve">
+        <source>Try adding oats, almonds or peanut butter to your breakfast. Get those proteins in early!</source>
+        <target>朝食にオーツやアーモンド、ピーナッツも追加してみて、早めの時間にプロテインを補給しましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.lose.1" xml:space="preserve">
+        <source>No worries, just don't give up!</source>
+        <target>諦めなければ勝ちです！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.lose.2" xml:space="preserve">
+        <source>Winners don't quit. They keep going.</source>
+        <target>勝ち続ける人は決して諦めません。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.lose.3" xml:space="preserve">
+        <source>Try drinking two glasses of water before meals. See if that helps! </source>
+        <target>食事前にお水2杯を飲んでみましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.neutral.1" xml:space="preserve">
+        <source>Good work on measuring your weight!</source>
+        <target>体重測定、お疲れ様です！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.neutral.2" xml:space="preserve">
+        <source>Good job! You're on track to a healthy habit!</source>
+        <target>その調子！健康的な習慣が身についてきていますね！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.1" xml:space="preserve">
+        <source>Yes! Now give me a celebration dance!</source>
+        <target>いいですね！お祝いにダンスを踊りましょう！</target>
+        <note>Messages</note>
+      </trans-unit>
+      <trans-unit id="motivation.positive.2" xml:space="preserve">
+        <source>Simply amazing!</source>
+        <target>最高です！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.3" xml:space="preserve">
+        <source>Booom! Going straight for the kill.</source>
+        <target>すごい！この調子でいきましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.4" xml:space="preserve">
+        <source>You make me proud. Keep going!</source>
+        <target>誇らしいです！その調子！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.5" xml:space="preserve">
+        <source>Show 'em how it's done! Great work.</source>
+        <target>見せてやりましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.6" xml:space="preserve">
+        <source>You absolute legend! Keep it up.</source>
+        <target>あなたはヒーローです！この調子で頑張りましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.7" xml:space="preserve">
+        <source>You're inspirational! Shoulder tap</source>
+        <target>感動しました！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.8" xml:space="preserve">
+        <source>Every step counts. Enjoy your progress!</source>
+        <target>一歩一歩を踏みしめて、楽しくゴールを目指しましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.9" xml:space="preserve">
+        <source>Bellissimo! You're the best.</source>
+        <target>それそれ！さすがすぎます！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.10" xml:space="preserve">
+        <source>I'm starstruck. Shine on!</source>
+        <target>今あなたは星みたいに輝いています！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.11" xml:space="preserve">
+        <source>You rock! Nice looking progress.</source>
+        <target>ナイスです！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.12" xml:space="preserve">
+        <source>Nailed it.</source>
+        <target>バッチリです！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.13" xml:space="preserve">
+        <source>Give yourself a pat on the back!</source>
+        <target>自分を褒めてあげましょう！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.cta" xml:space="preserve">
+        <source>Give Access</source>
+        <target>アクセスを許可する</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.desc" xml:space="preserve">
+        <source>Give access to have all your health data conveniently stored in one place. Your data is private and will never be shared.</source>
+        <target>すべての健康データを1つの場所に保管するためのアクセスを許可しませんか？尚あなたのデータは非公開で、第三者に共有されることは一切ありません。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.info" xml:space="preserve">
+        <source>Using Vekt with Apple Health improves the app experience, as it automatically syncs all your health and fitness data together.
+
+Most importantly: your data belongs to you only and never leaves your device. It is kept secure in Apple Health, encrypted and protected with your iPhone's passcode.</source>
+        <target>Vektを『ヘルスケア』と一緒に使用すると、すべての健康とフィットネスのデータが自動的に同期されるため、アプリの使用感が向上します。最も重要なことは、あなたのデータは『ヘルスケア』内で安全に保管され、iPhoneのパスコードで暗号化され保護されます。データの漏洩はございませんのでご安心ください。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.noaccess.confirm" xml:space="preserve">
+        <source>I Did Give Access</source>
+        <target>アクセスを許可しました</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.noaccess.dec" xml:space="preserve">
+        <source>Please reconsider giving access. This allows for an optimal app experience. Your data belongs to you only.</source>
+        <target>『ヘルスケア』へのアクセスを考え直しませんか？最適なアプリ体験には必要です。また、あなたのデータは、第三者に読み取られることはありません。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.noaccess.edit" xml:space="preserve">
+        <source>Give Permission in Apple Health</source>
+        <target>『ヘルスケア』へのアクセスを許可する</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.system.read" xml:space="preserve">
+        <source>This is needed to read your weight, BMI, and height from Apple Health.</source>
+        <target>体重、BMI値、身長を記録するために、『ヘルスケア』へのアクセスが必要です。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.system.write" xml:space="preserve">
+        <source>This is needed to save your weight, BMI, and height into Apple Health.</source>
+        <target>体重、BMI値、身長を保存するために、『ヘルスケア』へのアクセスが必要です。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.title" xml:space="preserve">
+        <source>Apple Health Access</source>
+        <target>『ヘルスケア』へのアクセスについて</target>
+        <note>Onboarding</note>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.why" xml:space="preserve">
+        <source>Learn More</source>
+        <target>詳しくはこちら</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rang.card.desc" xml:space="preserve">
+        <source>Set your ideal range.</source>
+        <target>Set your ideal range.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="range.desc" xml:space="preserve">
+        <source>Decide what range you would consider healthy.</source>
+        <target>Decide what range you would consider healthy.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="range.suggest" xml:space="preserve">
+        <source>Suggested: %@</source>
+        <target>Suggested: %@</target>
+        <note>Weight value (e.g. 32)</note>
+      </trans-unit>
+      <trans-unit id="range.title" xml:space="preserve">
+        <source>Weight Range</source>
+        <target>Weight Range</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.action.enable" xml:space="preserve">
+        <source>Get Reminded</source>
+        <target>通知を設定する</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.button.biweekly" xml:space="preserve">
+        <source>Every other %@ at </source>
+        <target>隔週で%@時にリマインド通知</target>
+        <note>Weekday (e.g Every other Thursday at TIME)</note>
+      </trans-unit>
+      <trans-unit id="reminders.button.daily" xml:space="preserve">
+        <source>Daily at </source>
+        <target>毎日%@時にリマインド通知</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.button.monthly" xml:space="preserve">
+        <source>Every %@ at </source>
+        <target>毎月%@時にリマインド通知</target>
+        <note>Day (e.g Every 2nd at TIME)</note>
+      </trans-unit>
+      <trans-unit id="reminders.button.title" xml:space="preserve">
+        <source>Turn on Reminders</source>
+        <target>リマインド通知をオンにする</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.button.weekly" xml:space="preserve">
+        <source>Every %@ at </source>
+        <target>毎週%@時にリマインド通知</target>
+        <note>Weekday (e.g Every Thursday at TIME)</note>
+      </trans-unit>
+      <trans-unit id="reminders.date" xml:space="preserve">
+        <source>Start Date</source>
+        <target>開始日</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.day" xml:space="preserve">
+        <source>Weekday</source>
+        <target>Weekday</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.desc" xml:space="preserve">
+        <source>Vekt users are 32% more likely to succeed with notifications on.</source>
+        <target>通知を設定すると、成功への近道になります。当アプリのユーザーは、通知を設定することで、体重記録を習慣化する</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.freq" xml:space="preserve">
+        <source>Repeat</source>
+        <target>繰り返す</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.body" xml:space="preserve">
+        <source>⏰ Time to hop onto the scale!</source>
+        <target>お疲れ様です！体重を更新する時間になりました。パパッと終わらせましょう。☺️</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.body.2" xml:space="preserve">
+        <source>👋 Scales out, weights in!</source>
+        <target>体重計を出して測ろう！👋</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.body.3" xml:space="preserve">
+        <source>👍 Time for a weigh-in. Keep it up!</source>
+        <target>体重を測る時間だ！この調整で頑張りましょう！👍</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.body.4" xml:space="preserve">
+        <source>😄 Step onto the scale. You got this!</source>
+        <target>体重計が怖くない！あなたならできます！😄</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.body.5" xml:space="preserve">
+        <source>💪 You're up. Get onto the scale!</source>
+        <target>あなたの番です！体重計に乗りましょう！💪</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.hidden" xml:space="preserve">
+        <source>Reminder</source>
+        <target>通知</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.saved" xml:space="preserve">
+        <source>New weight saved! 🎉</source>
+        <target>体重を更新しました！ 🎉</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.title" xml:space="preserve">
+        <source>Track your weight</source>
+        <target>体重を更新する</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.repeat.biweekly" xml:space="preserve">
+        <source>Every two weeks</source>
+        <target>2週間に1回</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.repeat.daily" xml:space="preserve">
+        <source>Every day</source>
+        <target>毎日</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.repeat.desc" xml:space="preserve">
+        <source>How often would you like to get reminded?</source>
+        <target>理想的な更新の頻度を教えてください。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.repeat.monthly" xml:space="preserve">
+        <source>Every month</source>
+        <target>月に1回</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.repeat.weekly" xml:space="preserve">
+        <source>Every week</source>
+        <target>週に1回</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.time" xml:space="preserve">
+        <source>Time</source>
+        <target>時間</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.title" xml:space="preserve">
+        <source>Reminders</source>
+        <target>通知</target>
+        <note>Reminders</note>
+      </trans-unit>
+      <trans-unit id="reminders.tutorial.cta" xml:space="preserve">
+        <source>Remind Me</source>
+        <target>リマインダー通知をオンにする</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.tutorial.desc" xml:space="preserve">
+        <source>Turn on reminders to increase your chance of success with 32%.</source>
+        <target>新しい習慣を継続するためには、通知を受けることが有効です。実際、リマインダーがある事で32％成功しやすくなるという研究結果が出ています。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.tutorial.title" xml:space="preserve">
+        <source>Turn on reminders</source>
+        <target>通知をオンにする</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.about" xml:space="preserve">
+        <source>About Vekt</source>
+        <target>Vektについて</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.contact" xml:space="preserve">
+        <source>Contact Us</source>
+        <target>お問い合わせ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.milestones" xml:space="preserve">
+        <source>Set Target Milestones</source>
+        <target>目標を設定</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.motivation" xml:space="preserve">
+        <source>Show Messages</source>
+        <target>メッセージを表示</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.privacy" xml:space="preserve">
+        <source>Privacy Policy</source>
+        <target>個人情報保護方針</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.specialThanks" xml:space="preserve">
+        <source>Credits</source>
+        <target>Credits</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.subscription.expires" xml:space="preserve">
+        <source>Expires on %@</source>
+        <target>【有効期限】%@</target>
+        <note>Date (e.g. Expires on DATE)</note>
+      </trans-unit>
+      <trans-unit id="settings.subscription.purchased" xml:space="preserve">
+        <source>Purchased on %@</source>
+        <target>【購入日】 %@</target>
+        <note>Date (e.g. Purchased on DATE)</note>
+      </trans-unit>
+      <trans-unit id="settings.subscription.refunded" xml:space="preserve">
+        <source>Refunded on %@</source>
+        <target>Refunded on %@</target>
+        <note>(e.g. Refunded on DATE)</note>
+      </trans-unit>
+      <trans-unit id="settings.subscription.trial" xml:space="preserve">
+        <source>Free Trial</source>
+        <target>トライアル</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.subscription.willrenew" xml:space="preserve">
+        <source>Will renew on %@</source>
+        <target>【更新日】%@</target>
+        <note>Date (e.g. Will renew on DATE)</note>
+      </trans-unit>
+      <trans-unit id="settings.title" xml:space="preserve">
+        <source>Settings</source>
+        <target>設定</target>
+        <note>Settings</note>
+      </trans-unit>
+      <trans-unit id="settings.title.measurements" xml:space="preserve">
+        <source>Measurements</source>
+        <target>記録</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.title.motivation" xml:space="preserve">
+        <source>Motivation</source>
+        <target>モチベーション</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.title.subscription" xml:space="preserve">
+        <source>Subscription</source>
+        <target>サブスクリプション</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.title.support" xml:space="preserve">
+        <source>Support</source>
+        <target>サポート</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="siri.phrase" xml:space="preserve">
+        <source>Log new weight</source>
+        <target>体重入力</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="siri.shortcut.open" xml:space="preserve">
+        <source>Open Vekt…</source>
+        <target>Vektを開く</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="siri.title" xml:space="preserve">
+        <source>Log New Weight</source>
+        <target>体重入力</target>
+        <note>Siri</note>
+      </trans-unit>
+      <trans-unit id="subscription.action" xml:space="preserve">
+        <source>Subscribe Now</source>
+        <target>今すぐサブスクライブ！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.cancel" xml:space="preserve">
+        <source>(Cancel anytime)</source>
+        <target>（いつでもキャンセルが可能です）</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.lifetime" xml:space="preserve">
+        <source>%@ one time</source>
+        <target>都度利用料 %@</target>
+        <note>Price (e.g. €17.99 one time)</note>
+      </trans-unit>
+      <trans-unit id="subscription.manage" xml:space="preserve">
+        <source>Manage Subscription</source>
+        <target>サブスクリプション管理</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.month" xml:space="preserve">
+        <source>%@ per month</source>
+        <target>月間利用料 %@</target>
+        <note>Price (e.g. €2.99 per month)</note>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-1.desc" xml:space="preserve">
+        <source>Apple Health Integration, Automatic BMI Updates, Progress Line Chart</source>
+        <target>『ヘルスケア』との連携、BMIの自動更新、進捗状況の表</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-1.title" xml:space="preserve">
+        <source>Stay on track with your weight goals</source>
+        <target>目標体重を達成しましょう</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-2.desc" xml:space="preserve">
+        <source>Targets, Personalized Reminders, Motivational Texts, Siri Shortcuts and Widgets</source>
+        <target>目標・パーソナライズされたリマインダー通知・モチベーションを高める為のテキスト・Siriのショートカットとウィジェット</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-2.title" xml:space="preserve">
+        <source>Get motivated to make weight tracking a habit</source>
+        <target>体重記録を習慣化してモチベーションを維持しましょう</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-3.desc" xml:space="preserve">
+        <source>74% of Vekt users notice a healthy change in lifestyle after 3 weigh-ins</source>
+        <target>74%のVektユーザー達は、３度目の体重記録以降に健康的な生活習慣の変化があったと回答しています</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-3.title" xml:space="preserve">
+        <source>Feel healthier, happier, and driven to kick it </source>
+        <target>より健康的に。より幸せに。そして頑張る気持ちに。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-4.desc" xml:space="preserve">
+        <source>We will update this app regularly to keep it fresh</source>
+        <target>定期的な更新に努めてまいります。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-4.title" xml:space="preserve">
+        <source>Regular updates</source>
+        <target>定期的な更新</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.best" xml:space="preserve">
+        <source>Save 75%</source>
+        <target>75%オフセール！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.desc" xml:space="preserve">
+        <source>Subscribe to unlimited support for your healthy weight</source>
+        <target>健康的な体重のために無制限のサポートを購読する</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.title" xml:space="preserve">
+        <source>Vekt</source>
+        <target>Vekt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.old.action.buy" xml:space="preserve">
+        <source>Subscribe and Support</source>
+        <target>購買してサポートする</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.old.action.free" xml:space="preserve">
+        <source>Continue for Free</source>
+        <target>無料で利用</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.old.desc-1" xml:space="preserve">
+        <source>Welcome to Vekt 3, our biggest update yet.</source>
+        <target>大規模リニューアルの『Vekt 3』へようこそ！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.old.desc-2" xml:space="preserve">
+        <source>We are giving you free access for a year.</source>
+        <target>1年間の無料アクセスをプレゼントします。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.old.desc-3" xml:space="preserve">
+        <source>Because we appreciate you–this is our way of saying thank you.</source>
+        <target>日頃のご利用の感謝を込めて、1年間の無料利用を提供致します。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.old.title" xml:space="preserve">
+        <source>Hey friend!</source>
+        <target>こんにちは！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.privacy" xml:space="preserve">
+        <source>Privacy</source>
+        <target>個人情報保護方針</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.restore" xml:space="preserve">
+        <source>Already Purchased?</source>
+        <target>購入済みですか？</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.terms" xml:space="preserve">
+        <source>Terms</source>
+        <target>利用規約</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.title" xml:space="preserve">
+        <source>Subscribe to Vekt</source>
+        <target>Vektのサブスクリプションについて</target>
+        <note>Subscription</note>
+      </trans-unit>
+      <trans-unit id="subscription.trial" xml:space="preserve">
+        <source>Try 1 Month free</source>
+        <target>1ヶ月間無料でお試し</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.year" xml:space="preserve">
+        <source>%@ per year</source>
+        <target>年間利用料 %@</target>
+        <note>Price (e.g. €7.99 per year)</note>
+      </trans-unit>
+      <trans-unit id="target.action" xml:space="preserve">
+        <source>Set Target</source>
+        <target>目標体重を設定する</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.empty.starttitle" xml:space="preserve">
+        <source>Starting Weight</source>
+        <target>現在の体重</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.progress" xml:space="preserve">
+        <source>%@ %@ to go</source>
+        <target>あと%@ %@で達成</target>
+        <note>Weight value, Unit (e.g. 3.2 kg to go)</note>
+      </trans-unit>
+      <trans-unit id="target.progress.next" xml:space="preserve">
+        <source>Next Target</source>
+        <target>次の目標体重</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.reached.action.dismiss" xml:space="preserve">
+        <source>Maintain Weight</source>
+        <target>体重を維持する</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.reached.action.new" xml:space="preserve">
+        <source>Set New Target</source>
+        <target>次の目標体重を設定する</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.reached.action.share" xml:space="preserve">
+        <source>Share</source>
+        <target>シェア</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.reached.desc" xml:space="preserve">
+        <source>Congrats! You're taking serious steps to live healthier! Ready for your next target, or want to maintain this weight?</source>
+        <target>おめでとうございます！より健康なカラダ作りに向かって着々と進んでいます！次の目標体重を設定しますか？それとも、体重を維持しますか？</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.reached.share.message" xml:space="preserve">
+        <source>Pretty proud of this one! I just hit my target of %@ %@ thanks to Vekt</source>
+        <target>目標達成！Vektのおかげで、%@ %@ までの目標体重を達成しました！</target>
+        <note>Weight, Unit (e.g. I just hit my target of 43 kg thanks to Vekt)</note>
+      </trans-unit>
+      <trans-unit id="target.reached.title" xml:space="preserve">
+        <source>You made that look easy!</source>
+        <target>さすがですね！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.reached.title.short" xml:space="preserve">
+        <source>You did it!</source>
+        <target>目標達成！</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.title" xml:space="preserve">
+        <source>Target</source>
+        <target>目標体重</target>
+        <note>Target</note>
+      </trans-unit>
+      <trans-unit id="tipping.desc" xml:space="preserve">
+        <source>It is such a pleasure to build this software for you all. We hope that you are getting value from it.
+
+For the greatest fans among us, we have a special tip option. Your name will be written on our wall, to which we look up when we drip sweat, blood, and tears, to remind ourselves that it is all worth it.
+
+Thank you, thank you, thank you.</source>
+        <target>皆様にこのアプリを提供できたことをとても嬉しく感じています。 少しでも皆様の意義のある生活習慣の構築のお役に立てていれば幸いです。 Vektを大好きになってくださった方々に向けて、特別なチップ制度のオプションを用意させて頂きました。 チップ制度を通してサポートをしてくださったユーザー様の名前は私達の壁に刻まれ、開発スタッフ一同、血と汗と涙の滲む努力の末にその壁を見返して、感謝の気持ちを噛み締めたいと思っております。 もしサポートしてあげても良い！と感じてくださった場合は、是非宜しくお願い致します。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipping.item.large.title" xml:space="preserve">
+        <source>The Biggest Fan of Vekt</source>
+        <target>世界一のVektファン</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipping.item.medium.title" xml:space="preserve">
+        <source>Meal-Sized Tip</source>
+        <target>開発スタッフに食べ物を奢る</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipping.item.small.title" xml:space="preserve">
+        <source>Drink-Sized Tip</source>
+        <target>開発スタッフに飲み物を奢る</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipping.title" xml:space="preserve">
+        <source>Thank you for using Vekt!</source>
+        <target>Vektをご利用いただき、ありがとうございます！</target>
+        <note>Tipping</note>
+      </trans-unit>
+      <trans-unit id="unit.desc" xml:space="preserve">
+        <source>What language does your scale speak?</source>
+        <target>体重の測り方を教えてください。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="unit.imperial" xml:space="preserve">
+        <source>Imperial</source>
+        <target>ヤード・ポンド法（lb）</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="unit.metric" xml:space="preserve">
+        <source>Metric</source>
+        <target>メートル法（kg）</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="unit.soon" xml:space="preserve">
+        <source>Coming soon</source>
+        <target>Coming soon</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="unit.stones" xml:space="preserve">
+        <source>Stones</source>
+        <target>ヤード・ポンド法（ストーン）</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="unit.title" xml:space="preserve">
+        <source>Unit</source>
+        <target>単位</target>
+        <note>Unit</note>
+      </trans-unit>
+      <trans-unit id="widget.noacces" xml:space="preserve">
+        <source>Vekt needs to be able to read from Apple Health.</source>
+        <target>Vektのご利用は『ヘルスケア』アプリと連動させて読み取る必要があります。</target>
+        <note>Widget</note>
+      </trans-unit>
+      <trans-unit id="widget.target.desc" xml:space="preserve">
+        <source>Shows your progress toward your next target.</source>
+        <target>次の目標に向けての進捗状況を表示する。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="widget.target.remain" xml:space="preserve">
+        <source>%@ to go</source>
+        <target>あと%@</target>
+        <note>Weight value (e.g. 4.1 to go)</note>
+      </trans-unit>
+      <trans-unit id="widget.target.title" xml:space="preserve">
+        <source>Target Widget</source>
+        <target>目標体重</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="widget.weight.desc" xml:space="preserve">
+        <source>Shows your latest measured weight.</source>
+        <target>最新の体重記録を表示</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="widget.weight.title" xml:space="preserve">
+        <source>Weight Widget</source>
+        <target>体重のウィジェット</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="🎉" xml:space="preserve">
+        <source>🎉</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="💡" xml:space="preserve">
+        <source>💡</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Vekt for watchOS WatchKit Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A233"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Vekt</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Vekt for watchOS WatchKit Extension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+        <source>Needed to read your weight, BMI and height from Apple Health.</source>
+        <note>Privacy - Health Share Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
+        <source>Needed to save your weight, BMI and height into Apple Health.</source>
+        <note>Privacy - Health Update Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Vekt Widget Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A233"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Vekt</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Vekt Widget ExtensionExtension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+        <source>Needed to read your weight, BMI and height from Apple Health.</source>
+        <note>Privacy - Health Share Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
+        <source>Needed to save your weight, BMI and height into Apple Health.</source>
+        <note>Privacy - Health Update Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Vekt/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A233"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Vekt</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Vekt</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+        <source>This is needed to read your weight, BMI, and height from Apple Health.</source>
+        <note>Privacy - Health Share Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
+        <source>This is needed to save your weight, BMI, and height into Apple Health.</source>
+        <note>Privacy - Health Update Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>Allow Vekt to save your achievement into your photo library.</source>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

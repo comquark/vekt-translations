@@ -31,12 +31,16 @@
 
 // Goal
 "goal.title"="Your Goal";
-"goal.intro"="What brings you here? ";
+"goal.intro"="What brings you here?";
 "goal.desc"="Set your intention for tracking your weight.";
+"goal.gain.title"="Gain";
 "goal.gain.desc"="Gaining Weight";
 "goal.gain.past"="gained";
+"goal.lose.title"="Lose";
 "goal.lose.desc"="Losing Weight";
 "goal.lose.past"="lost";
+"goal.maintain.title"="Maintain";
+"goal.maintain.desc"="Maintain Weight";
 
 // All Weights
 "alldata.title"="All Weights";
@@ -46,8 +50,8 @@
 // Weight Details
 "details.weight.imperial"="Weight in Imperial:";
 "details.weight.metric"="Weight in Metric:";
-"details.weight.compared.more"="That's %@ %@ more than your average."; // Value, Unit
-"details.weight.compared.less"="This is %@ %@ less than your average."; // Value, Unit
+"details.weight.compared.more"="That's %@ %@ more than your average."; // Value, Unit (e.g. That's 2.2 kg more than your average.)
+"details.weight.compared.less"="This is %@ %@ less than your average."; // Value, Unit (e.g. That's 2.2 kg less than your average.)
 "details.weight.title"="Weight Details";
 "details.weight.delete.confirmation.title"="Are you sure?";
 "details.weight.delete.confirmation.description"="You want to delete this weight entry?";
@@ -57,6 +61,7 @@
 "reminders.desc"="Vekt users are 32% more likely to succeed with notifications on.";
 "reminders.action.enable"="Get Reminded";
 "reminders.date"="Start Date";
+"reminders.day"="Weekday";
 "reminders.freq"="Repeat";
 "reminders.time"="Time";
 "reminders.notification.title"="Track your weight";
@@ -75,9 +80,9 @@
 "reminders.repeat.monthly"="Every month";
 "reminders.button.title"="Turn on Reminders";
 "reminders.button.daily"="Daily at ";
-"reminders.button.weekly"="Every %@ at ";
-"reminders.button.biweekly"="Every other %@ at ";
-"reminders.button.monthly"="Every %@ at ";
+"reminders.button.weekly"="Every %@ at "; // Weekday (e.g Every Thursday at TIME)
+"reminders.button.biweekly"="Every other %@ at "; // Weekday (e.g Every other Thursday at TIME)
+"reminders.button.monthly"="Every %@ at "; // Day (e.g Every 2nd at TIME)
 "reminders.tutorial.desc"="Turn on reminders to increase your chance of success with 32%.";
 "reminders.tutorial.title"="Turn on reminders";
 "reminders.tutorial.cta"="Remind Me";
@@ -86,7 +91,7 @@
 "target.title"="Target";
 "target.action"="Set Target";
 "target.empty.starttitle"="Starting Weight";
-"target.progress"="%@ %@ to go";
+"target.progress"="%@ %@ to go"; // Weight value, Unit (e.g. 3.2 kg to go)
 "target.progress.next"="Next Target";
 "target.reached.title"="You made that look easy!";
 "target.reached.title.short"="You did it!";
@@ -94,13 +99,23 @@
 "target.reached.action.new"="Set New Target";
 "target.reached.action.share"="Share";
 "target.reached.action.dismiss"="Maintain Weight";
-"target.reached.share.message"="Pretty proud of this one! I just hit my target of %@ %@ thanks to Vekt";
+"target.reached.share.message"="Pretty proud of this one! I just hit my target of %@ %@ thanks to Vekt"; // Weight, Unit (e.g. I just hit my target of 43 kg thanks to Vekt)
 
 // Measure
 "measure.title"="New Weight";
 "measure.date.action"="Change Date";
 "measure.date"="Date:";
 "measure.now"="Now";
+
+// Range
+"lowest.title"="Lowest";
+"lowest.desc"="What would be your minimum weight?";
+"highest.title"="Highest";
+"highest.desc"="Decide on where it gets a bit too heavy?";
+"range.title"="Weight Range";
+"range.desc"="Decide what range you would consider healthy.";
+"range.suggest"="Suggested: %@"; // Weight value (e.g. 32)
+"rang.card.desc" = "Set your ideal range.";
 
 // BMI
 "bmi.overweight.title"="Overweight";
@@ -136,11 +151,11 @@
 "history.targets"="Targets hit";
 "history.measurements"="Measurements";
 "history.best"="Best weight";
-"history.status.gained"="You've gained %@ %@ since %@"; // Value Unit Date
-"history.status.lost"="You've lost %@ %@ since %@"; // Value Unit Date
-"history.average.value"="%.1f avg."; // BMI
+"history.status.gained"="You've gained %@ %@ since %@"; // Value Unit Date (e.g. You've gained 2.3 kg since DATE)
+"history.status.lost"="You've lost %@ %@ since %@"; // Value Unit Date (e.g. You've lost 2.3 kg since DATE)
+"history.average.value"="%.1f avg."; // BMI average (e.g. 21.5 avg.)
 "history.weight.graph.title" = "Latest weights";
-"history.weight.graph.count" = "entries";
+"history.weight.graph.count" = "%d entries";
 
 // Home
 "home.summary"="Summary";
@@ -160,10 +175,11 @@
 "settings.title.support"="Support";
 "settings.title.subscription"="Subscription";
 "settings.title.motivation"="Motivation";
-"settings.subscription.purchased" = "Purchased on %@";
-"settings.subscription.expires" = "Expires on %@";
-"settings.subscription.willrenew" = "Will renew on %@";
-"settings.subscription.trial" = "Trial";
+"settings.subscription.purchased" = "Purchased on %@"; // Date (e.g. Purchased on DATE)
+"settings.subscription.expires" = "Expires on %@"; // Date (e.g. Expires on DATE)
+"settings.subscription.willrenew" = "Will renew on %@"; // Date (e.g. Will renew on DATE)
+"settings.subscription.refunded" = "Refunded on %@"; // (e.g. Refunded on DATE)
+"settings.subscription.trial" = "Free Trial";
 
 // Icon
 "icon.action"="Change Appearance";
@@ -214,15 +230,15 @@
 "subscription.old.desc-3"="Because we appreciate you–this is our way of saying thank you.";
 "subscription.old.action.buy"="Subscribe and Support";
 "subscription.old.action.free"="Continue for Free";
-"subscription.year"="%@ per year";
-"subscription.month"="%@ per month";
-"subscription.lifetime"="%@ one time";
+"subscription.year"="%@ per year"; // Price (e.g. €7.99 per year)
+"subscription.month"="%@ per month"; // Price (e.g. €2.99 per month)
+"subscription.lifetime"="%@ one time"; // Price (e.g. €17.99 one time)
 "subscription.trial"="Try 1 Month free";
 "subscription.manage"="Manage Subscription";
 
 // Widget
 "widget.noacces"="Vekt needs to be able to read from Apple Health.";
-"widget.target.remain"="%@ to go";
+"widget.target.remain"="%@ to go"; // Weight value (e.g. 4.1 to go)
 "widget.weight.title"="Weight Widget";
 "widget.weight.desc"="Shows your latest measured weight.";
 "widget.target.title"="Target Widget";

@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Shared/Translations/en.lproj/Localizable.strings" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A233"/>
+    </header>
+    <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ ft" xml:space="preserve">
+        <source>%@ ft</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ in" xml:space="preserve">
+        <source>%@ in</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@, %@" xml:space="preserve">
+        <source>%1$@, %2$@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@.%@" xml:space="preserve">
+        <source>%1$@.%2$@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="&lt;%.1f" xml:space="preserve">
+        <source>&lt;%.1f</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="&gt;%.0f" xml:space="preserve">
+        <source>&gt;%.0f</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BMI" xml:space="preserve">
+        <source>BMI</source>
+        <target>ИМТ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LBS" xml:space="preserve">
+        <source>LBS</source>
+        <target>LBS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Refund is being processed" xml:space="preserve">
+        <source>Refund is being processed</source>
+        <target>Возврат обрабатывается</target>
+        <note>Alert Title: Confirming that the refund is being processed</note>
+      </trans-unit>
+      <trans-unit id="ST" xml:space="preserve">
+        <source>ST</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank you for staying, we really appreciate it!" xml:space="preserve">
+        <source>Thank you for staying, we really appreciate it!</source>
+        <target>Спасибо, что остались, мы очень ценим это!</target>
+        <note>Alert Message: thanking the user for remaing a subscriber.</note>
+      </trans-unit>
+      <trans-unit id="Thanks for staying" xml:space="preserve">
+        <source>Thanks for staying</source>
+        <target>Спасибо</target>
+        <note>Alert Title: Thanking the user for remaing a subscriber.</note>
+      </trans-unit>
+      <trans-unit id="These are all Vekt transactions you’ve made in the past." xml:space="preserve">
+        <source>These are all Vekt transactions you’ve made in the past.</source>
+        <target>Это все транзакции Vekt, которые вы совершали в прошлом.</target>
+        <note>Label: This view presents all previous transactions.</note>
+      </trans-unit>
+      <trans-unit id="View Transactions" xml:space="preserve">
+        <source>View Transactions</source>
+        <target>Просмотр транзакций</target>
+        <note>Button: Shows all previous transactions</note>
+      </trans-unit>
+      <trans-unit id="We're so sad to see you go, have a lovely day!" xml:space="preserve">
+        <source>We're so sad to see you go, have a lovely day!</source>
+        <target>Нам так грустно видеть, что вы уезжаете, хорошего вам дня!</target>
+        <note>Alert message: Tell our users we're sad that they cancel our subscription</note>
+      </trans-unit>
+      <trans-unit id="about.action.appstore" xml:space="preserve">
+        <source>Rate this App</source>
+        <target>Оцените это приложение</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.action.feedback" xml:space="preserve">
+        <source>Give Feedback</source>
+        <target>Отправить отзыв</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.action.helpTranslate" xml:space="preserve">
+        <source>Help Translating Vekt</source>
+        <target>Помощь Транслейтинг Vekt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.action.tip" xml:space="preserve">
+        <source>Tip the Makers</source>
+        <target>Поддержать разработчиков</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.action.twitter" xml:space="preserve">
+        <source>Follow Vekt on Twitter</source>
+        <target>Подписаться на Vekt в Twitter</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.credits.appicons" xml:space="preserve">
+        <source>App Icons</source>
+        <target>App Icons</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.credits.copy" xml:space="preserve">
+        <source>Copywriting</source>
+        <target>Копирайтинг</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.credits.daily" xml:space="preserve">
+        <source>Daily Support</source>
+        <target>Ежедневная поддержка</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.credits.desc" xml:space="preserve">
+        <source>Vekt couldn’t exist without the support of the following people.</source>
+        <target>Vekt не может существовать без поддержки следующих людей.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.credits.development" xml:space="preserve">
+        <source>Development</source>
+        <target>Развитие</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.credits.translations" xml:space="preserve">
+        <source>Translations</source>
+        <target>Переводы</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.specialThanks" xml:space="preserve">
+        <source>Special Thanks to...</source>
+        <target>Отдельное спасибо...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="about.title" xml:space="preserve">
+        <source>Thanks for the support!</source>
+        <target>Спасибо за поддержку!</target>
+        <note>About</note>
+      </trans-unit>
+      <trans-unit id="actions.cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>Отмена</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.close" xml:space="preserve">
+        <source>Close</source>
+        <target>Закрыть</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>Удалить</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.delete.weight" xml:space="preserve">
+        <source>Delete Weight</source>
+        <target>Удалить вес</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.done" xml:space="preserve">
+        <source>Done</source>
+        <target>Готово</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.edit" xml:space="preserve">
+        <source>Edit</source>
+        <target>Редактировать</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.next" xml:space="preserve">
+        <source>Next</source>
+        <target>Дальше</target>
+        <note>Actions</note>
+      </trans-unit>
+      <trans-unit id="actions.save" xml:space="preserve">
+        <source>Save</source>
+        <target>Сохранить</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.save.target" xml:space="preserve">
+        <source>Save Target</source>
+        <target>Сохранить объект</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.save.weight" xml:space="preserve">
+        <source>Save Weight</source>
+        <target>Сохранить вес</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="actions.skip" xml:space="preserve">
+        <source>Skip</source>
+        <target>Пропустить</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="alldata.action" xml:space="preserve">
+        <source>View All Weights</source>
+        <target>Посмотреть все измерения</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="alldata.healthkit.action" xml:space="preserve">
+        <source>View in Apple Health</source>
+        <target>Просмотр в Apple Health</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="alldata.title" xml:space="preserve">
+        <source>All Weights</source>
+        <target>Все веса</target>
+        <note>All Weights</note>
+      </trans-unit>
+      <trans-unit id="appearance.icon.title" xml:space="preserve">
+        <source>Icon</source>
+        <target>Иконка</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appearance.theme.dark" xml:space="preserve">
+        <source>Dark</source>
+        <target>Темная</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appearance.theme.light" xml:space="preserve">
+        <source>Light</source>
+        <target>Светлая</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appearance.theme.system" xml:space="preserve">
+        <source>System</source>
+        <target>Системная</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="appearance.theme.title" xml:space="preserve">
+        <source>Theme</source>
+        <target>Тема</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.action.edit.height" xml:space="preserve">
+        <source>Change Height</source>
+        <target>Изменить рост</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.action.height" xml:space="preserve">
+        <source>Enter Height</source>
+        <target>Введите рост</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.action.weight" xml:space="preserve">
+        <source>Enter Weight</source>
+        <target>Введите вес</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.healthy.desc" xml:space="preserve">
+        <source>a BMI between 18.5 and 25 is perfectly healthy. Good job! </source>
+        <target>ИМТ между 18,5 и 25 значит что вы совершенно здоровы. Отличная работа!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.healthy.title" xml:space="preserve">
+        <source>Healthy</source>
+        <target>Здоровый</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.height.title" xml:space="preserve">
+        <source>Height</source>
+        <target>Рост</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.how" xml:space="preserve">
+        <source>Where's my BMI?</source>
+        <target>Где мой ИМТ?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.obese.desc" xml:space="preserve">
+        <source>a BMI over 30 is considered obese. You've got work to do! Stay focused on your goal.</source>
+        <target>ИМТ больше 30 считается ожирением. У вас есть над чем поработать! Сосредоточьтесь на своей цели.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.obese.info" xml:space="preserve">
+        <source>Being obese means that you have a higher risk of developing coronary heart disease, as well as other health conditions.  It is important to reduce your weight- every kilo matters. You can lower your risk by being physically active every day and eating healthy food. Consider speaking to a medical or dietary specialist if you need a hand to get there.</source>
+        <target>Ожирение означает, что у вас более высокий риск развития ишемической болезни сердца, а также других заболеваний. Важно снизить свой вес - каждый килограмм имеет значение. Вы можете снизить риск, если будете физически активны каждый день и употреблять здоровую пищу. Если вам нужна помощь, подумайте о том, чтобы поговорить с врачом или диетологом.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.obese.title" xml:space="preserve">
+        <source>Obese</source>
+        <target>Тучный</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.overweight.desc" xml:space="preserve">
+        <source>a BMI over 25 is considered overweight. Good thing you're working on it!</source>
+        <target>ИМТ больше 25 считается избыточным весом. Хорошо, что вы работаете над этим!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.overweight.info" xml:space="preserve">
+        <source>Being overweight generally increases your risk of developing coronary heart disease. To get to a healthier weight, try to be physically active every day and eat well-balanced healthy food. Keep in mind that BMI doesn't paint a full picture, as it doesn't include muscle and fat measures. If you have a lot of muscle compared to fat - you are likely considered healthy too. When in doubt, consider speaking to a medical or dietary specialist.</source>
+        <target>Избыточный вес в целом повышает риск развития ишемической болезни сердца. Для того, чтобы приблизиться к здоровому весу, старайтесь быть физически активными каждый день и есть хорошо сбалансированную и здоровую пищу. Имейте в виду, что ИМТ не отображает полную картину, так как он не включает в себя измерения мышц и жира. Если у вас много мышц и мало жира - вы, вероятно, тоже считаетесь здоровым. В случае сомнений обратитесь к врачу или диетологу.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.overweight.title" xml:space="preserve">
+        <source>Overweight</source>
+        <target>Избыточный вес</target>
+        <note>BMI</note>
+      </trans-unit>
+      <trans-unit id="bmi.stats" xml:space="preserve">
+        <source>Your details</source>
+        <target>Ваши данные</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.title" xml:space="preserve">
+        <source>bmi</source>
+        <target>ИМТ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.underweight.desc" xml:space="preserve">
+        <source>a BMI below 18.5 is considered underweight. Good thing you're working on it!</source>
+        <target>ИМТ меньше 18,5 считается пониженным. Хорошо, что вы работаете над этим!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.underweight.info" xml:space="preserve">
+        <source>Being underweight could be a risk to your health. It is important to eat well-balanced, healthy food every day. Consider speaking to a medical or dietary specialist if you've lost a lot of weight in a short time or have a hard time adding weight.</source>
+        <target>Недостаточный вес может быть опасным для вашего здоровья. Важно каждый день есть сбалансированную, здоровую пищу. Поговорите с врачом или диетологом, если вы сильно похудели за короткое время или вам трудно прибавить в весе.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.underweight.title" xml:space="preserve">
+        <source>Underweight</source>
+        <target>Недовес</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.unknown.desc" xml:space="preserve">
+        <source>We need to know your height and weight first</source>
+        <target>Сначала нам нужно знать Ваш рост и вес</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.unknown.title" xml:space="preserve">
+        <source>Unknown</source>
+        <target>Неизвестно</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.watch.setup" xml:space="preserve">
+        <source>Please setup your height on iPhone first</source>
+        <target>Пожалуйста, сначала установите ваш рост на iPhone</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="bmi.weight.title" xml:space="preserve">
+        <source>Weight</source>
+        <target>Масса</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="complication.bmi.title" xml:space="preserve">
+        <source>BMI Complication</source>
+        <target>BMI Complication</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="complication.shortcut.title" xml:space="preserve">
+        <source>Quick access to Vekt</source>
+        <target>Быстрый доступ к Vekt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="complication.target.title" xml:space="preserve">
+        <source>Target &amp; Quick access</source>
+        <target>Прогресс цели</target>
+        <note>Complication</note>
+      </trans-unit>
+      <trans-unit id="details.weight.compared.less" xml:space="preserve">
+        <source>This is %@ %@ less than your average.</source>
+        <target>Это на  %@ %@ меньше среднего.</target>
+        <note>Value, Unit (e.g. That's 2.2 kg less than your average.)</note>
+      </trans-unit>
+      <trans-unit id="details.weight.compared.more" xml:space="preserve">
+        <source>That's %@ %@ more than your average.</source>
+        <target>Это на %@ %@ больше, чем в среднем.</target>
+        <note>Value, Unit (e.g. That's 2.2 kg more than your average.)</note>
+      </trans-unit>
+      <trans-unit id="details.weight.delete.confirmation.description" xml:space="preserve">
+        <source>You want to delete this weight entry?</source>
+        <target>Вы хотите удалить эту запись веса?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="details.weight.delete.confirmation.title" xml:space="preserve">
+        <source>Are you sure?</source>
+        <target>Уверены ли вы?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="details.weight.imperial" xml:space="preserve">
+        <source>Weight in Imperial:</source>
+        <target>Вес в имперских единицах:</target>
+        <note>Weight Details</note>
+      </trans-unit>
+      <trans-unit id="details.weight.metric" xml:space="preserve">
+        <source>Weight in Metric:</source>
+        <target>Вес в метрических единицах:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="details.weight.title" xml:space="preserve">
+        <source>Weight Details</source>
+        <target>Детали веса</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.desc" xml:space="preserve">
+        <source>Set your intention for tracking your weight.</source>
+        <target>Выберите цель для отслеживания вашего веса.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.gain.desc" xml:space="preserve">
+        <source>Gaining Weight</source>
+        <target>Набрать вес</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.gain.past" xml:space="preserve">
+        <source>gained</source>
+        <target>Вес набран</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.gain.title" xml:space="preserve">
+        <source>Gain</source>
+        <target>Gain</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.intro" xml:space="preserve">
+        <source>What brings you here?</source>
+        <target>Что привело вас сюда?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.lose.desc" xml:space="preserve">
+        <source>Losing Weight</source>
+        <target>Сбросить вес</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.lose.past" xml:space="preserve">
+        <source>lost</source>
+        <target>Вес сброшен</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.lose.title" xml:space="preserve">
+        <source>Lose</source>
+        <target>Lose</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.maintain.desc" xml:space="preserve">
+        <source>Maintain Weight</source>
+        <target>Maintain Weight</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.maintain.title" xml:space="preserve">
+        <source>Maintain</source>
+        <target>Maintain</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="goal.title" xml:space="preserve">
+        <source>Your Goal</source>
+        <target>Ваша Цель</target>
+        <note>Goal</note>
+      </trans-unit>
+      <trans-unit id="height.desc" xml:space="preserve">
+        <source>We need to know your height to calculate your body mass index for you.</source>
+        <target>Нам необходим ваш рост для вычисления индекса массы тела</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="height.intro" xml:space="preserve">
+        <source>How tall are you?</source>
+        <target>Какой у вас рост?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="height.placeholder" xml:space="preserve">
+        <source>Enter height...</source>
+        <target>Введите ваш рост</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="height.save" xml:space="preserve">
+        <source>You're All Set!</source>
+        <target>Все готово!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="height.title" xml:space="preserve">
+        <source>Height</source>
+        <target>Рост</target>
+        <note>Height</note>
+      </trans-unit>
+      <trans-unit id="highest.desc" xml:space="preserve">
+        <source>Decide on where it gets a bit too heavy?</source>
+        <target>Решите, где слишком много</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="highest.title" xml:space="preserve">
+        <source>Highest</source>
+        <target>Самый высокий</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.average" xml:space="preserve">
+        <source>Average weight</source>
+        <target>Средний вес</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.average.value" xml:space="preserve">
+        <source>%.1f avg.</source>
+        <target>%.1f avg.</target>
+        <note>BMI average (e.g. 21.5 avg.)</note>
+      </trans-unit>
+      <trans-unit id="history.best" xml:space="preserve">
+        <source>Best weight</source>
+        <target>Лучший вес</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.card.countdown-1" xml:space="preserve">
+        <source>Enter weight to see your progress!</source>
+        <target>Введите вес, чтобы увидеть свой прогресс!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.card.countdown-2" xml:space="preserve">
+        <source>Just 2 more weigh-ins to go!</source>
+        <target>Еще два взвешивания и все готово!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.card.countdown-3" xml:space="preserve">
+        <source>Save your weight 3 more times to see your progress chart.</source>
+        <target>Сохраните ваш вес еще 3 раз, чтобы увидеть график вашего прогресса.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.card.countdown-4" xml:space="preserve">
+        <source>You need 4 weigh-ins to see your progress chart.</source>
+        <target>Вам нужно 4 взвешивания, чтобы увидеть график вашего прогресса.</target>
+        <note>History</note>
+      </trans-unit>
+      <trans-unit id="history.measurements" xml:space="preserve">
+        <source>Measurements</source>
+        <target>Измерения</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.status.gained" xml:space="preserve">
+        <source>You've gained %@ %@ since %@</source>
+        <target>вы набрали %@ %@ вес, так как %@</target>
+        <note>Value Unit Date (e.g. You've gained 2.3 kg since DATE)</note>
+      </trans-unit>
+      <trans-unit id="history.status.lost" xml:space="preserve">
+        <source>You've lost %@ %@ since %@</source>
+        <target>вы потеряли %@ %@ вес, так как %@</target>
+        <note>Value Unit Date (e.g. You've lost 2.3 kg since DATE)</note>
+      </trans-unit>
+      <trans-unit id="history.targets" xml:space="preserve">
+        <source>Targets hit</source>
+        <target>Достижение цели</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.title" xml:space="preserve">
+        <source>History</source>
+        <target>История</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.weight.graph.count" xml:space="preserve">
+        <source>%d entries</source>
+        <target>%d измерения</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="history.weight.graph.title" xml:space="preserve">
+        <source>Latest weights</source>
+        <target>Последние веса</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.empty.desc" xml:space="preserve">
+        <source>Let's kick-start your healthy lifestyle by entering your first weight.</source>
+        <target>Начните с добавления вашего первого измерения веса.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.empty.title" xml:space="preserve">
+        <source>Set your starting weight</source>
+        <target>Добавьте свой изначальный вес</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.latest" xml:space="preserve">
+        <source>Latest</source>
+        <target>Последний</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="home.summary" xml:space="preserve">
+        <source>Summary</source>
+        <target>Сводка</target>
+        <note>Home</note>
+      </trans-unit>
+      <trans-unit id="icon.action" xml:space="preserve">
+        <source>Change Appearance</source>
+        <target>Изменение внешнего вида</target>
+        <note>Icon</note>
+      </trans-unit>
+      <trans-unit id="icon.desc" xml:space="preserve">
+        <source>Want a different look? You can switch around anytime you like.</source>
+        <target>Хотите другой вид? Вы можете переключаться между ними в любое время.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="icon.title" xml:space="preserve">
+        <source>Choose Your Colors </source>
+        <target>Выберите цвет</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lbs" xml:space="preserve">
+        <source>lbs</source>
+        <target>lbs</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="lowest.desc" xml:space="preserve">
+        <source>What would be your minimum weight?</source>
+        <target>Каким был бы ваш минимальный вес?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lowest.title" xml:space="preserve">
+        <source>Lowest</source>
+        <target>Самый низкий</target>
+        <note>Range</note>
+      </trans-unit>
+      <trans-unit id="measure.date" xml:space="preserve">
+        <source>Date:</source>
+        <target>Дата:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="measure.date.action" xml:space="preserve">
+        <source>Change Date</source>
+        <target>Изменить дату</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="measure.now" xml:space="preserve">
+        <source>Now</source>
+        <target>Сейчас</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="measure.title" xml:space="preserve">
+        <source>New Weight</source>
+        <target>Новый Вес</target>
+        <note>Measure</note>
+      </trans-unit>
+      <trans-unit id="motivation.negative.1" xml:space="preserve">
+        <source>Rome wasn't built in a day. Don't give up!</source>
+        <target>Рим тоже не за один день строился. Не сдаваться!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.2" xml:space="preserve">
+        <source>Keep your head up! Next week is yours.</source>
+        <target>Выше нос! Следующая неделе будет ваша.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.3" xml:space="preserve">
+        <source>It happens to the best of us. Just keep going!</source>
+        <target>Это случается с лучшими из нас. Просто продолжать идти!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.4" xml:space="preserve">
+        <source>One step back. Two steps forward. Chin up!</source>
+        <target>Один шаг назад. Два шага вперед. Выше нос!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.5" xml:space="preserve">
+        <source>We all have off-days. What matters is how you bounce back.</source>
+        <target>У всех бывают плохие дни. Важно то, что вы не сдаетесь.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.6" xml:space="preserve">
+        <source>Nobody said it was easy. You still got this!</source>
+        <target>Никто не говорил, что будет легко. У вас все получиться!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.gain.1" xml:space="preserve">
+        <source>Dust off those running shoes!</source>
+        <target>Стряхните пыль с этих кроссовок!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.gain.2" xml:space="preserve">
+        <source>Add some extra weights, you know you can do it!</source>
+        <target>Добавьте дополнительные веса, вы знаете, что это у вас получится!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.gain.3" xml:space="preserve">
+        <source>Try using bigger plates, this could help you gain some weight!</source>
+        <target>Попробуйте использовать посуду побольше, это поможет вам набрать вес!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.gain.4" xml:space="preserve">
+        <source>Try adding oats, almonds or peanut butter to your breakfast. Get those proteins in early!</source>
+        <target>Попробуйте добавить к завтраку овес, миндаль или арахисовое масло. Получите эти белки в начале дня!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.lose.1" xml:space="preserve">
+        <source>No worries, just don't give up!</source>
+        <target>Не беспокойтесь, просто не сдавайтесь!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.lose.2" xml:space="preserve">
+        <source>Winners don't quit. They keep going.</source>
+        <target>Победители не сдаются. Они продолжают идти.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.negative.lose.3" xml:space="preserve">
+        <source>Try drinking two glasses of water before meals. See if that helps! </source>
+        <target>Попробуйте пить два стакана воды перед едой. Посмотрим, поможет ли это!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.neutral.1" xml:space="preserve">
+        <source>Good work on measuring your weight!</source>
+        <target>Хорошая работа по измерению вашего веса!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.neutral.2" xml:space="preserve">
+        <source>Good job! You're on track to a healthy habit!</source>
+        <target>Отличная работа! Вы находитесь на пути к здоровой привычке!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.1" xml:space="preserve">
+        <source>Yes! Now give me a celebration dance!</source>
+        <target>Да! А теперь покажи мне праздничный танец!</target>
+        <note>Messages</note>
+      </trans-unit>
+      <trans-unit id="motivation.positive.2" xml:space="preserve">
+        <source>Simply amazing!</source>
+        <target>Просто удивительно!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.3" xml:space="preserve">
+        <source>Booom! Going straight for the kill.</source>
+        <target>Бууум! Вы просто уничтожитель.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.4" xml:space="preserve">
+        <source>You make me proud. Keep going!</source>
+        <target>Вы заставляете меня гордиться. Продолжать!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.5" xml:space="preserve">
+        <source>Show 'em how it's done! Great work.</source>
+        <target>Покажите им, как это делается! Отличная работа.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.6" xml:space="preserve">
+        <source>You absolute legend! Keep it up.</source>
+        <target>Вы абсолютная легенда! Так держать.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.7" xml:space="preserve">
+        <source>You're inspirational! Shoulder tap</source>
+        <target>Вы вдохновляете! *Хлопаю вас по плечу*.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.8" xml:space="preserve">
+        <source>Every step counts. Enjoy your progress!</source>
+        <target>Каждый шаг в счет. Наслаждайтесь вашим прогрессом!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.9" xml:space="preserve">
+        <source>Bellissimo! You're the best.</source>
+        <target>Bellissimo! Вы лучший.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.10" xml:space="preserve">
+        <source>I'm starstruck. Shine on!</source>
+        <target>Я в восторге. Продолжайте сиять!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.11" xml:space="preserve">
+        <source>You rock! Nice looking progress.</source>
+        <target>Ты жжешь! Отличный прогресс.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.12" xml:space="preserve">
+        <source>Nailed it.</source>
+        <target>Просто уделал всех.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="motivation.positive.13" xml:space="preserve">
+        <source>Give yourself a pat on the back!</source>
+        <target>Похлопайте себя по спине!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.cta" xml:space="preserve">
+        <source>Give Access</source>
+        <target>Предоставить доступ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.desc" xml:space="preserve">
+        <source>Give access to have all your health data conveniently stored in one place. Your data is private and will never be shared.</source>
+        <target>Предоставьте доступ для хранения всех данные о состоянии вашего здоровья в одном месте. Ваши данные остаются приватными и не будут разглашены.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.info" xml:space="preserve">
+        <source>Using Vekt with Apple Health improves the app experience, as it automatically syncs all your health and fitness data together.
+
+Most importantly: your data belongs to you only and never leaves your device. It is kept secure in Apple Health, encrypted and protected with your iPhone's passcode.</source>
+        <target>Доступ к Apple Health улучшает работу приложения Vekt, так как оно автоматически синхронизирует все ваши данные о здоровье и фитнесе.
+
+Самое главное: Ваши данные принадлежат только вам и никогда не покидают устройство. Они хранятся в безопасности в Apple Health, зашифрованы и защищены паролем вашего iPhone.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.noaccess.confirm" xml:space="preserve">
+        <source>I Did Give Access</source>
+        <target>Я уже предоставил доступ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.noaccess.dec" xml:space="preserve">
+        <source>Please reconsider giving access. This allows for an optimal app experience. Your data belongs to you only.</source>
+        <target>Пожалуйста, пересмотрите предоставление доступа. Это поможет обеспечить оптимальный опыт взаимодействия с приложением. Ваши данные доступны только вам.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.noaccess.edit" xml:space="preserve">
+        <source>Give Permission in Apple Health</source>
+        <target>Дайте разрешение в Apple Health</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.system.read" xml:space="preserve">
+        <source>This is needed to read your weight, BMI, and height from Apple Health.</source>
+        <target>Это необходимо чтобы прочитать ваш вес, индекс массы тела, а также рост из Apple Health</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.system.write" xml:space="preserve">
+        <source>This is needed to save your weight, BMI, and height into Apple Health.</source>
+        <target>Это необходимо чтобы сохранить ваш вес, индекс массы тела, а также рост в Apple Health</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.title" xml:space="preserve">
+        <source>Apple Health Access</source>
+        <target>Доступ к Apple Health</target>
+        <note>Onboarding</note>
+      </trans-unit>
+      <trans-unit id="onboarding.healthaccess.why" xml:space="preserve">
+        <source>Learn More</source>
+        <target>Узнать больше</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rang.card.desc" xml:space="preserve">
+        <source>Set your ideal range.</source>
+        <target>Установите диапазон.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="range.desc" xml:space="preserve">
+        <source>Decide what range you would consider healthy.</source>
+        <target>Какой диапазон вы бы считали здоровым.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="range.suggest" xml:space="preserve">
+        <source>Suggested: %@</source>
+        <target>Предложенный: %@</target>
+        <note>Weight value (e.g. 32)</note>
+      </trans-unit>
+      <trans-unit id="range.title" xml:space="preserve">
+        <source>Weight Range</source>
+        <target>Диапазон веса</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.action.enable" xml:space="preserve">
+        <source>Get Reminded</source>
+        <target>Напоминать</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.button.biweekly" xml:space="preserve">
+        <source>Every other %@ at </source>
+        <target>Через один %@ в </target>
+        <note>Weekday (e.g Every other Thursday at TIME)</note>
+      </trans-unit>
+      <trans-unit id="reminders.button.daily" xml:space="preserve">
+        <source>Daily at </source>
+        <target>Ежедневно в </target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.button.monthly" xml:space="preserve">
+        <source>Every %@ at </source>
+        <target>Каждый %@ в </target>
+        <note>Day (e.g Every 2nd at TIME)</note>
+      </trans-unit>
+      <trans-unit id="reminders.button.title" xml:space="preserve">
+        <source>Turn on Reminders</source>
+        <target>Включите Напоминания</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.button.weekly" xml:space="preserve">
+        <source>Every %@ at </source>
+        <target>Каждый %@ в </target>
+        <note>Weekday (e.g Every Thursday at TIME)</note>
+      </trans-unit>
+      <trans-unit id="reminders.date" xml:space="preserve">
+        <source>Start Date</source>
+        <target>Дата начала</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.day" xml:space="preserve">
+        <source>Weekday</source>
+        <target>Weekday</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.desc" xml:space="preserve">
+        <source>Vekt users are 32% more likely to succeed with notifications on.</source>
+        <target>Повысьте свои шансы с напоминаниями. У пользователей Vekt с включенными напоминаниями шанс выработать привычку отслеживать вес выше на 32%.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.freq" xml:space="preserve">
+        <source>Repeat</source>
+        <target>Повтор</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.body" xml:space="preserve">
+        <source>⏰ Time to hop onto the scale!</source>
+        <target>⏰ Пора вскочить на весы!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.body.2" xml:space="preserve">
+        <source>👋 Scales out, weights in!</source>
+        <target>👋 Вытащите весы, взвесьте!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.body.3" xml:space="preserve">
+        <source>👍 Time for a weigh-in. Keep it up!</source>
+        <target>👍 Время для взвешивания. Так держать!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.body.4" xml:space="preserve">
+        <source>😄 Step onto the scale. You got this!</source>
+        <target>😄 Встаньте на весы. Вы получили это!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.body.5" xml:space="preserve">
+        <source>💪 You're up. Get onto the scale!</source>
+        <target>💪 Ты до. Встаньте на весы!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.hidden" xml:space="preserve">
+        <source>Reminder</source>
+        <target>Напоминание</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.saved" xml:space="preserve">
+        <source>New weight saved! 🎉</source>
+        <target>Новый вес сохранен! 🎉</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.notification.title" xml:space="preserve">
+        <source>Track your weight</source>
+        <target>Отслеживание веса</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.repeat.biweekly" xml:space="preserve">
+        <source>Every two weeks</source>
+        <target>Каждые две недели</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.repeat.daily" xml:space="preserve">
+        <source>Every day</source>
+        <target>Каждый день</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.repeat.desc" xml:space="preserve">
+        <source>How often would you like to get reminded?</source>
+        <target>Как часто вы бы хотели получать напоминания?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.repeat.monthly" xml:space="preserve">
+        <source>Every month</source>
+        <target>Каждый месяц</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.repeat.weekly" xml:space="preserve">
+        <source>Every week</source>
+        <target>Каждую неделю</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.time" xml:space="preserve">
+        <source>Time</source>
+        <target>Время</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.title" xml:space="preserve">
+        <source>Reminders</source>
+        <target>Напоминания</target>
+        <note>Reminders</note>
+      </trans-unit>
+      <trans-unit id="reminders.tutorial.cta" xml:space="preserve">
+        <source>Remind Me</source>
+        <target>Напомни мне</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.tutorial.desc" xml:space="preserve">
+        <source>Turn on reminders to increase your chance of success with 32%.</source>
+        <target>Оставаться на пути к новой привычке помогают уведомления. На самом деле, шанс успеха с напоминаниями выше на 32%.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reminders.tutorial.title" xml:space="preserve">
+        <source>Turn on reminders</source>
+        <target>Включите Напоминания</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.about" xml:space="preserve">
+        <source>About Vekt</source>
+        <target>О Vekt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.contact" xml:space="preserve">
+        <source>Contact Us</source>
+        <target>Свяжитесь с нами</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.milestones" xml:space="preserve">
+        <source>Set Target Milestones</source>
+        <target>Установите целевые вехи</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.motivation" xml:space="preserve">
+        <source>Show Messages</source>
+        <target>Показывать сообщения</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.privacy" xml:space="preserve">
+        <source>Privacy Policy</source>
+        <target>Политика конфиденциальности</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.specialThanks" xml:space="preserve">
+        <source>Credits</source>
+        <target>Кредиты</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.subscription.expires" xml:space="preserve">
+        <source>Expires on %@</source>
+        <target>Срок действия истекает %@</target>
+        <note>Date (e.g. Expires on DATE)</note>
+      </trans-unit>
+      <trans-unit id="settings.subscription.purchased" xml:space="preserve">
+        <source>Purchased on %@</source>
+        <target>Куплен %@</target>
+        <note>Date (e.g. Purchased on DATE)</note>
+      </trans-unit>
+      <trans-unit id="settings.subscription.refunded" xml:space="preserve">
+        <source>Refunded on %@</source>
+        <target>Refunded on %@</target>
+        <note>(e.g. Refunded on DATE)</note>
+      </trans-unit>
+      <trans-unit id="settings.subscription.trial" xml:space="preserve">
+        <source>Free Trial</source>
+        <target>Пробная версия</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.subscription.willrenew" xml:space="preserve">
+        <source>Will renew on %@</source>
+        <target>Будет ли возобновить %@</target>
+        <note>Date (e.g. Will renew on DATE)</note>
+      </trans-unit>
+      <trans-unit id="settings.title" xml:space="preserve">
+        <source>Settings</source>
+        <target>Настройки</target>
+        <note>Settings</note>
+      </trans-unit>
+      <trans-unit id="settings.title.measurements" xml:space="preserve">
+        <source>Measurements</source>
+        <target>Измерения</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.title.motivation" xml:space="preserve">
+        <source>Motivation</source>
+        <target>Мотивация</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.title.subscription" xml:space="preserve">
+        <source>Subscription</source>
+        <target>Подписка</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.title.support" xml:space="preserve">
+        <source>Support</source>
+        <target>Служба поддержки</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="siri.phrase" xml:space="preserve">
+        <source>Log new weight</source>
+        <target>Внести новый вес</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="siri.shortcut.open" xml:space="preserve">
+        <source>Open Vekt…</source>
+        <target>Открыть Vekt ...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="siri.title" xml:space="preserve">
+        <source>Log New Weight</source>
+        <target>Внести новый Вес</target>
+        <note>Siri</note>
+      </trans-unit>
+      <trans-unit id="subscription.action" xml:space="preserve">
+        <source>Subscribe Now</source>
+        <target>Подпишитесь сейчас</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.cancel" xml:space="preserve">
+        <source>(Cancel anytime)</source>
+        <target>(Отмена в любое время)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.lifetime" xml:space="preserve">
+        <source>%@ one time</source>
+        <target>%@ один раз</target>
+        <note>Price (e.g. €17.99 one time)</note>
+      </trans-unit>
+      <trans-unit id="subscription.manage" xml:space="preserve">
+        <source>Manage Subscription</source>
+        <target>управлять подпиской</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.month" xml:space="preserve">
+        <source>%@ per month</source>
+        <target>%@ в месяц</target>
+        <note>Price (e.g. €2.99 per month)</note>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-1.desc" xml:space="preserve">
+        <source>Apple Health Integration, Automatic BMI Updates, Progress Line Chart</source>
+        <target>Интеграция с Apple Health, автоматическое обновление ИМТ, график прогресса</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-1.title" xml:space="preserve">
+        <source>Stay on track with your weight goals</source>
+        <target>Следите за своими целями</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-2.desc" xml:space="preserve">
+        <source>Targets, Personalized Reminders, Motivational Texts, Siri Shortcuts and Widgets</source>
+        <target>Цели, персонализированные напоминания, мотивационные тексты, быстрые команды Siri и виджеты</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-2.title" xml:space="preserve">
+        <source>Get motivated to make weight tracking a habit</source>
+        <target>Оставайтесь мотивированным, чтобы сделать отслеживание веса привычкой</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-3.desc" xml:space="preserve">
+        <source>74% of Vekt users notice a healthy change in lifestyle after 3 weigh-ins</source>
+        <target>74% пользователей Vekt замечают изменения в образе жизни уже после 3-го взвешивания</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-3.title" xml:space="preserve">
+        <source>Feel healthier, happier, and driven to kick it </source>
+        <target>Почувствуйте себя здоровее, счастливее, и замотивированнее жить лучше</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-4.desc" xml:space="preserve">
+        <source>We will update this app regularly to keep it fresh</source>
+        <target>Мы будем регулярно обновлять это приложение, чтобы оно оставалось актуальным</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.benefit-4.title" xml:space="preserve">
+        <source>Regular updates</source>
+        <target>Регулярные обновления</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.best" xml:space="preserve">
+        <source>Save 75%</source>
+        <target>Экономия 75%</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.desc" xml:space="preserve">
+        <source>Subscribe to unlimited support for your healthy weight</source>
+        <target>Подписка на неограниченную помощь в поддержании здорового веса.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.new.title" xml:space="preserve">
+        <source>Vekt</source>
+        <target>Vekt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.old.action.buy" xml:space="preserve">
+        <source>Subscribe and Support</source>
+        <target>Подписаться и поддержать</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.old.action.free" xml:space="preserve">
+        <source>Continue for Free</source>
+        <target>Продолжить бесплатно</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.old.desc-1" xml:space="preserve">
+        <source>Welcome to Vekt 3, our biggest update yet.</source>
+        <target>Добро пожаловать в Vekt 3, самое крупное обновление на данный момент.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.old.desc-2" xml:space="preserve">
+        <source>We are giving you free access for a year.</source>
+        <target>Мы предоставляем вам бесплатный доступ в течение года.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.old.desc-3" xml:space="preserve">
+        <source>Because we appreciate you–this is our way of saying thank you.</source>
+        <target>Потому что мы ценим Вас, это наш способ сказать спасибо.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.old.title" xml:space="preserve">
+        <source>Hey friend!</source>
+        <target>Эй приятель!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.privacy" xml:space="preserve">
+        <source>Privacy</source>
+        <target>Конфиденциальность</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.restore" xml:space="preserve">
+        <source>Already Purchased?</source>
+        <target>Уже купили?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.terms" xml:space="preserve">
+        <source>Terms</source>
+        <target>Условия</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.title" xml:space="preserve">
+        <source>Subscribe to Vekt</source>
+        <target>Подписаться на Vekt</target>
+        <note>Subscription</note>
+      </trans-unit>
+      <trans-unit id="subscription.trial" xml:space="preserve">
+        <source>Try 1 Month free</source>
+        <target>Первый месяц бесплатно</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subscription.year" xml:space="preserve">
+        <source>%@ per year</source>
+        <target>%@ в год</target>
+        <note>Price (e.g. €7.99 per year)</note>
+      </trans-unit>
+      <trans-unit id="target.action" xml:space="preserve">
+        <source>Set Target</source>
+        <target>Задать цель</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.empty.starttitle" xml:space="preserve">
+        <source>Starting Weight</source>
+        <target>Изначальный вес</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.progress" xml:space="preserve">
+        <source>%@ %@ to go</source>
+        <target>%@ %@ осталось</target>
+        <note>Weight value, Unit (e.g. 3.2 kg to go)</note>
+      </trans-unit>
+      <trans-unit id="target.progress.next" xml:space="preserve">
+        <source>Next Target</source>
+        <target>Следующая цель</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.reached.action.dismiss" xml:space="preserve">
+        <source>Maintain Weight</source>
+        <target>Поддержание веса</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.reached.action.new" xml:space="preserve">
+        <source>Set New Target</source>
+        <target>Задать новую цель</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.reached.action.share" xml:space="preserve">
+        <source>Share</source>
+        <target>Поделиться</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.reached.desc" xml:space="preserve">
+        <source>Congrats! You're taking serious steps to live healthier! Ready for your next target, or want to maintain this weight?</source>
+        <target>Поздравляю! Вы делаете серьезные шаги к тому, чтобы стать более здоровым. Готовы к следующему этапу или хотите сохранить этот вес?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.reached.share.message" xml:space="preserve">
+        <source>Pretty proud of this one! I just hit my target of %@ %@ thanks to Vekt</source>
+        <target>Я только что достиг цели в %@ %@ благодаря Vekt. Горжусь этим!</target>
+        <note>Weight, Unit (e.g. I just hit my target of 43 kg thanks to Vekt)</note>
+      </trans-unit>
+      <trans-unit id="target.reached.title" xml:space="preserve">
+        <source>You made that look easy!</source>
+        <target>Отличный прогресс!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.reached.title.short" xml:space="preserve">
+        <source>You did it!</source>
+        <target>Вы сделали это!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="target.title" xml:space="preserve">
+        <source>Target</source>
+        <target>Цель</target>
+        <note>Target</note>
+      </trans-unit>
+      <trans-unit id="tipping.desc" xml:space="preserve">
+        <source>It is such a pleasure to build this software for you all. We hope that you are getting value from it.
+
+For the greatest fans among us, we have a special tip option. Your name will be written on our wall, to which we look up when we drip sweat, blood, and tears, to remind ourselves that it is all worth it.
+
+Thank you, thank you, thank you.</source>
+        <target>Создавать это программное обеспечение для всех вас - огромное удовольствие. Мы надеемся, что вы извлечете из этого пользу.
+
+fДля самых больших фанатов у нас есть специальный вариант чаевых. Ваше имя будет написано на нашей стене, на которую мы смотрим, когда с нас капаем пот, кровь и слезы, чтобы напомнить себе, что все это того стоит.
+
+Спасибо, спасибо, спасибо.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipping.item.large.title" xml:space="preserve">
+        <source>The Biggest Fan of Vekt</source>
+        <target>Самый большой фанат Vekt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipping.item.medium.title" xml:space="preserve">
+        <source>Meal-Sized Tip</source>
+        <target>Чаевые на обед</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipping.item.small.title" xml:space="preserve">
+        <source>Drink-Sized Tip</source>
+        <target>Чаевые на кофе</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tipping.title" xml:space="preserve">
+        <source>Thank you for using Vekt!</source>
+        <target>Благодарим Вас за использование Vekt!</target>
+        <note>Tipping</note>
+      </trans-unit>
+      <trans-unit id="unit.desc" xml:space="preserve">
+        <source>What language does your scale speak?</source>
+        <target>В какой системе работают ваши весы?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="unit.imperial" xml:space="preserve">
+        <source>Imperial</source>
+        <target>Имперская</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="unit.metric" xml:space="preserve">
+        <source>Metric</source>
+        <target>Метрическая</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="unit.soon" xml:space="preserve">
+        <source>Coming soon</source>
+        <target>Скоро добавим</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="unit.stones" xml:space="preserve">
+        <source>Stones</source>
+        <target>В камнях</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="unit.title" xml:space="preserve">
+        <source>Unit</source>
+        <target>Единицы измерения</target>
+        <note>Unit</note>
+      </trans-unit>
+      <trans-unit id="widget.noacces" xml:space="preserve">
+        <source>Vekt needs to be able to read from Apple Health.</source>
+        <target>Vekt нужен доступ для чтения Apple Health.</target>
+        <note>Widget</note>
+      </trans-unit>
+      <trans-unit id="widget.target.desc" xml:space="preserve">
+        <source>Shows your progress toward your next target.</source>
+        <target>Показывает прогресс на пути к вашей следующей цели.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="widget.target.remain" xml:space="preserve">
+        <source>%@ to go</source>
+        <target>%@ осталось</target>
+        <note>Weight value (e.g. 4.1 to go)</note>
+      </trans-unit>
+      <trans-unit id="widget.target.title" xml:space="preserve">
+        <source>Target Widget</source>
+        <target>Виджет Цели</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="widget.weight.desc" xml:space="preserve">
+        <source>Shows your latest measured weight.</source>
+        <target>Показывает ваш последний измеренный вес.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="widget.weight.title" xml:space="preserve">
+        <source>Weight Widget</source>
+        <target>Виджет Веса</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="🎉" xml:space="preserve">
+        <source>🎉</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="💡" xml:space="preserve">
+        <source>💡</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Vekt for watchOS WatchKit Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A233"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Vekt</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Vekt for watchOS WatchKit Extension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+        <source>Needed to read your weight, BMI and height from Apple Health.</source>
+        <target>Это необходимо для считывания вашего веса, ИМТ и роста в Apple Health.</target>
+        <note>Privacy - Health Share Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
+        <source>Needed to save your weight, BMI and height into Apple Health.</source>
+        <target>Это необходимо для сохранения вашего веса, ИМТ и роста в Apple Health.</target>
+        <note>Privacy - Health Update Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Vekt Widget Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A233"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Vekt</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Vekt Widget ExtensionExtension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+        <source>Needed to read your weight, BMI and height from Apple Health.</source>
+        <target>Это необходимо для считывания вашего веса, ИМТ и роста в Apple Health.</target>
+        <note>Privacy - Health Share Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
+        <source>Needed to save your weight, BMI and height into Apple Health.</source>
+        <target>Это необходимо для сохранения вашего веса, ИМТ и роста в Apple Health.</target>
+        <note>Privacy - Health Update Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Vekt/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.0" build-num="13A233"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Vekt</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Vekt</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHealthShareUsageDescription" xml:space="preserve">
+        <source>This is needed to read your weight, BMI, and height from Apple Health.</source>
+        <target>Это необходимо для считывания вашего веса, ИМТ и роста в Apple Health.</target>
+        <note>Privacy - Health Share Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHealthUpdateUsageDescription" xml:space="preserve">
+        <source>This is needed to save your weight, BMI, and height into Apple Health.</source>
+        <target>Это необходимо для сохранения вашего веса, ИМТ и роста в Apple Health.</target>
+        <note>Privacy - Health Update Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>Allow Vekt to save your achievement into your photo library.</source>
+        <target>Разрешите Vekt сохранить ваше достижение в вашей фото-библиотеке.</target>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
