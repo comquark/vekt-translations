@@ -7,66 +7,82 @@
     <body>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
+        <target>%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ ft" xml:space="preserve">
         <source>%@ ft</source>
+        <target>%@ ft</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ in" xml:space="preserve">
         <source>%@ in</source>
+        <target>%@ in</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@, %@" xml:space="preserve">
         <source>%1$@, %2$@</source>
+        <target>%1$a, %2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@.%@" xml:space="preserve">
         <source>%1$@.%2$@</source>
+        <target>%1$a.%2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="&lt;%.1f" xml:space="preserve">
         <source>&lt;%.1f</source>
+        <target>&gt;% 1f</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="&gt;%.0f" xml:space="preserve">
         <source>&gt;%.0f</source>
+        <target>&gt;% 0f</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BMI" xml:space="preserve">
         <source>BMI</source>
+        <target>BMI</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LBS" xml:space="preserve">
         <source>LBS</source>
+        <target>LBS</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Refund is being processed" xml:space="preserve">
         <source>Refund is being processed</source>
+        <target>返金は処理中です。</target>
         <note>Alert Title: Confirming that the refund is being processed</note>
       </trans-unit>
       <trans-unit id="ST" xml:space="preserve">
         <source>ST</source>
+        <target>ST</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank you for staying, we really appreciate it!" xml:space="preserve">
         <source>Thank you for staying, we really appreciate it!</source>
+        <target>感謝しています！</target>
         <note>Alert Message: thanking the user for remaing a subscriber.</note>
       </trans-unit>
       <trans-unit id="Thanks for staying" xml:space="preserve">
         <source>Thanks for staying</source>
+        <target>ありがとうございます！</target>
         <note>Alert Title: Thanking the user for remaing a subscriber.</note>
       </trans-unit>
       <trans-unit id="These are all Vekt transactions you’ve made in the past." xml:space="preserve">
         <source>These are all Vekt transactions you’ve made in the past.</source>
+        <target>過去の購入履歴の全てはこちらになります。</target>
         <note>Label: This view presents all previous transactions.</note>
       </trans-unit>
       <trans-unit id="View Transactions" xml:space="preserve">
         <source>View Transactions</source>
+        <target>購入履歴を見る</target>
         <note>Button: Shows all previous transactions</note>
       </trans-unit>
       <trans-unit id="We're so sad to see you go, have a lovely day!" xml:space="preserve">
         <source>We're so sad to see you go, have a lovely day!</source>
+        <target>この度、Vektのご利用をありがとうございます。またお待ちしています！</target>
         <note>Alert message: Tell our users we're sad that they cancel our subscription</note>
       </trans-unit>
       <trans-unit id="about.action.appstore" xml:space="preserve">
@@ -81,7 +97,7 @@
       </trans-unit>
       <trans-unit id="about.action.helpTranslate" xml:space="preserve">
         <source>Help Translating Vekt</source>
-        <target>Help Translating Vekt</target>
+        <target>Vektの翻訳に手伝う</target>
         <note/>
       </trans-unit>
       <trans-unit id="about.action.tip" xml:space="preserve">
@@ -96,37 +112,37 @@
       </trans-unit>
       <trans-unit id="about.credits.appicons" xml:space="preserve">
         <source>App Icons</source>
-        <target>App Icons</target>
+        <target>アプリのアイコン</target>
         <note/>
       </trans-unit>
       <trans-unit id="about.credits.copy" xml:space="preserve">
         <source>Copywriting</source>
-        <target>Copywriting</target>
+        <target>コピーライティング</target>
         <note/>
       </trans-unit>
       <trans-unit id="about.credits.daily" xml:space="preserve">
         <source>Daily Support</source>
-        <target>Daily Support</target>
+        <target>日常の応援団</target>
         <note/>
       </trans-unit>
       <trans-unit id="about.credits.desc" xml:space="preserve">
         <source>Vekt couldn’t exist without the support of the following people.</source>
-        <target>Vekt couldn’t exist without the support of the following people.</target>
+        <target>Vektは、下記の人々のおかげで成立しています。</target>
         <note/>
       </trans-unit>
       <trans-unit id="about.credits.development" xml:space="preserve">
         <source>Development</source>
-        <target>Development</target>
+        <target>開発</target>
         <note/>
       </trans-unit>
       <trans-unit id="about.credits.translations" xml:space="preserve">
         <source>Translations</source>
-        <target>Translations</target>
+        <target>翻訳</target>
         <note/>
       </trans-unit>
       <trans-unit id="about.specialThanks" xml:space="preserve">
         <source>Special Thanks to...</source>
-        <target>Special Thanks to...</target>
+        <target>スペシャル・サンクス</target>
         <note/>
       </trans-unit>
       <trans-unit id="about.title" xml:space="preserve">
@@ -296,7 +312,7 @@
       </trans-unit>
       <trans-unit id="bmi.stats" xml:space="preserve">
         <source>Your details</source>
-        <target>Your details</target>
+        <target>詳細</target>
         <note/>
       </trans-unit>
       <trans-unit id="bmi.title" xml:space="preserve">
@@ -406,7 +422,7 @@
       </trans-unit>
       <trans-unit id="goal.gain.title" xml:space="preserve">
         <source>Gain</source>
-        <target>Gain</target>
+        <target>体重を増やす</target>
         <note/>
       </trans-unit>
       <trans-unit id="goal.intro" xml:space="preserve">
@@ -426,17 +442,17 @@
       </trans-unit>
       <trans-unit id="goal.lose.title" xml:space="preserve">
         <source>Lose</source>
-        <target>Lose</target>
+        <target>体重を減らす</target>
         <note/>
       </trans-unit>
       <trans-unit id="goal.maintain.desc" xml:space="preserve">
         <source>Maintain Weight</source>
-        <target>Maintain Weight</target>
+        <target>体重維持</target>
         <note/>
       </trans-unit>
       <trans-unit id="goal.maintain.title" xml:space="preserve">
         <source>Maintain</source>
-        <target>Maintain</target>
+        <target>維持</target>
         <note/>
       </trans-unit>
       <trans-unit id="goal.title" xml:space="preserve">
@@ -471,12 +487,12 @@
       </trans-unit>
       <trans-unit id="highest.desc" xml:space="preserve">
         <source>Decide on where it gets a bit too heavy?</source>
-        <target>Decide on where it gets a bit too heavy?</target>
+        <target>最大まで増えても良い体重を教えてください。</target>
         <note/>
       </trans-unit>
       <trans-unit id="highest.title" xml:space="preserve">
         <source>Highest</source>
-        <target>Highest</target>
+        <target>最大の体重</target>
         <note/>
       </trans-unit>
       <trans-unit id="history.average" xml:space="preserve">
@@ -501,12 +517,12 @@
       </trans-unit>
       <trans-unit id="history.card.countdown-2" xml:space="preserve">
         <source>Just 2 more weigh-ins to go!</source>
-        <target>あと2回体重記録をすると、進捗表が確認出来ます。</target>
+        <target>あと2回体重記録をすると、進捗表が確認できます。</target>
         <note/>
       </trans-unit>
       <trans-unit id="history.card.countdown-3" xml:space="preserve">
         <source>Save your weight 3 more times to see your progress chart.</source>
-        <target>あと3回体重記録をすると、進捗表が確認出来ます。</target>
+        <target>あと3回体重記録をすると、進捗表が確認できます。</target>
         <note/>
       </trans-unit>
       <trans-unit id="history.card.countdown-4" xml:space="preserve">
@@ -586,21 +602,22 @@
       </trans-unit>
       <trans-unit id="lbs" xml:space="preserve">
         <source>lbs</source>
+        <target>lbs</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="lowest.desc" xml:space="preserve">
         <source>What would be your minimum weight?</source>
-        <target>What would be your minimum weight?</target>
+        <target>最小まで減っても良い体重を教えてください。</target>
         <note/>
       </trans-unit>
       <trans-unit id="lowest.title" xml:space="preserve">
         <source>Lowest</source>
-        <target>Lowest</target>
+        <target>最小の体重</target>
         <note>Range</note>
       </trans-unit>
       <trans-unit id="measure.date" xml:space="preserve">
         <source>Date:</source>
-        <target>【日付】</target>
+        <target>日付：</target>
         <note/>
       </trans-unit>
       <trans-unit id="measure.date.action" xml:space="preserve">
@@ -655,7 +672,7 @@
       </trans-unit>
       <trans-unit id="motivation.negative.gain.2" xml:space="preserve">
         <source>Add some extra weights, you know you can do it!</source>
-        <target>目指せ、体重増加！あなたなら出来ます！</target>
+        <target>目指せ、体重増加！あなたならできます！</target>
         <note/>
       </trans-unit>
       <trans-unit id="motivation.negative.gain.3" xml:space="preserve">
@@ -772,7 +789,9 @@
         <source>Using Vekt with Apple Health improves the app experience, as it automatically syncs all your health and fitness data together.
 
 Most importantly: your data belongs to you only and never leaves your device. It is kept secure in Apple Health, encrypted and protected with your iPhone's passcode.</source>
-        <target>Vektを『ヘルスケア』と一緒に使用すると、すべての健康とフィットネスのデータが自動的に同期されるため、アプリの使用感が向上します。最も重要なことは、あなたのデータは『ヘルスケア』内で安全に保管され、iPhoneのパスコードで暗号化され保護されます。データの漏洩はございませんのでご安心ください。</target>
+        <target>Vektを『ヘルスケア』と一緒に使用すると、すべての健康とフィットネスのデータが自動的に同期されるため、アプリの使用感が向上します。
+
+最も重要なことは、あなたのデータは『ヘルスケア』内で安全に保管され、iPhoneのパスコードで暗号化され保護されます。データの漏洩はございませんのでご安心ください。</target>
         <note/>
       </trans-unit>
       <trans-unit id="onboarding.healthaccess.noaccess.confirm" xml:space="preserve">
@@ -812,22 +831,22 @@ Most importantly: your data belongs to you only and never leaves your device. It
       </trans-unit>
       <trans-unit id="rang.card.desc" xml:space="preserve">
         <source>Set your ideal range.</source>
-        <target>Set your ideal range.</target>
+        <target>理想の体重の範囲を設定してください。</target>
         <note/>
       </trans-unit>
       <trans-unit id="range.desc" xml:space="preserve">
         <source>Decide what range you would consider healthy.</source>
-        <target>Decide what range you would consider healthy.</target>
+        <target>あなたにとっては健康的な体重の範囲を決めましょう。</target>
         <note/>
       </trans-unit>
       <trans-unit id="range.suggest" xml:space="preserve">
         <source>Suggested: %@</source>
-        <target>Suggested: %@</target>
+        <target>おすすめ： %@</target>
         <note>Weight value (e.g. 32)</note>
       </trans-unit>
       <trans-unit id="range.title" xml:space="preserve">
         <source>Weight Range</source>
-        <target>Weight Range</target>
+        <target>体重の範囲</target>
         <note/>
       </trans-unit>
       <trans-unit id="reminders.action.enable" xml:space="preserve">
@@ -867,12 +886,12 @@ Most importantly: your data belongs to you only and never leaves your device. It
       </trans-unit>
       <trans-unit id="reminders.day" xml:space="preserve">
         <source>Weekday</source>
-        <target>Weekday</target>
+        <target>平日</target>
         <note/>
       </trans-unit>
       <trans-unit id="reminders.desc" xml:space="preserve">
         <source>Vekt users are 32% more likely to succeed with notifications on.</source>
-        <target>通知を設定すると、成功への近道になります。当アプリのユーザーは、通知を設定することで、体重記録を習慣化する</target>
+        <target>通知を設定すると、成功への近道になります。当アプリのユーザーは、通知を設定することで、体重記録を習慣化すします。</target>
         <note/>
       </trans-unit>
       <trans-unit id="reminders.freq" xml:space="preserve">
@@ -997,7 +1016,7 @@ Most importantly: your data belongs to you only and never leaves your device. It
       </trans-unit>
       <trans-unit id="settings.specialThanks" xml:space="preserve">
         <source>Credits</source>
-        <target>Credits</target>
+        <target>エンド・ロール</target>
         <note/>
       </trans-unit>
       <trans-unit id="settings.subscription.expires" xml:space="preserve">
@@ -1137,7 +1156,7 @@ Most importantly: your data belongs to you only and never leaves your device. It
       </trans-unit>
       <trans-unit id="subscription.new.desc" xml:space="preserve">
         <source>Subscribe to unlimited support for your healthy weight</source>
-        <target>健康的な体重のために無制限のサポートを購読する</target>
+        <target>健康的な体重のために無制限のサポートを購読しませんか？</target>
         <note/>
       </trans-unit>
       <trans-unit id="subscription.new.title" xml:space="preserve">
@@ -1147,7 +1166,7 @@ Most importantly: your data belongs to you only and never leaves your device. It
       </trans-unit>
       <trans-unit id="subscription.old.action.buy" xml:space="preserve">
         <source>Subscribe and Support</source>
-        <target>購買してサポートする</target>
+        <target>購買する</target>
         <note/>
       </trans-unit>
       <trans-unit id="subscription.old.action.free" xml:space="preserve">
@@ -1271,7 +1290,11 @@ Most importantly: your data belongs to you only and never leaves your device. It
 For the greatest fans among us, we have a special tip option. Your name will be written on our wall, to which we look up when we drip sweat, blood, and tears, to remind ourselves that it is all worth it.
 
 Thank you, thank you, thank you.</source>
-        <target>皆様にこのアプリを提供できたことをとても嬉しく感じています。 少しでも皆様の意義のある生活習慣の構築のお役に立てていれば幸いです。 Vektを大好きになってくださった方々に向けて、特別なチップ制度のオプションを用意させて頂きました。 チップ制度を通してサポートをしてくださったユーザー様の名前は私達の壁に刻まれ、開発スタッフ一同、血と汗と涙の滲む努力の末にその壁を見返して、感謝の気持ちを噛み締めたいと思っております。 もしサポートしてあげても良い！と感じてくださった場合は、是非宜しくお願い致します。</target>
+        <target>皆様にこのアプリを提供できたことをとても嬉しく感じています。 少しでも皆様の意義のある生活習慣の構築のお役に立てていれば幸いです。 
+
+Vektを大好きになってくださった方々に向けて、特別なチップ制度のオプションを用意させていただきました。 チップ制度を通してサポートをしてくださったユーザー様の名前は私達の壁に刻まれ、開発スタッフ一同、血と汗と涙の滲む努力の末にその壁を見返して、感謝の気持ちを噛み締めたいと思っております。 
+
+もしサポートしてあげても良い！と感じてくださった場合は、ぜひよろしくお願いいたします。</target>
         <note/>
       </trans-unit>
       <trans-unit id="tipping.item.large.title" xml:space="preserve">
@@ -1311,7 +1334,7 @@ Thank you, thank you, thank you.</source>
       </trans-unit>
       <trans-unit id="unit.soon" xml:space="preserve">
         <source>Coming soon</source>
-        <target>Coming soon</target>
+        <target>近日公開</target>
         <note/>
       </trans-unit>
       <trans-unit id="unit.stones" xml:space="preserve">
@@ -1346,7 +1369,7 @@ Thank you, thank you, thank you.</source>
       </trans-unit>
       <trans-unit id="widget.weight.desc" xml:space="preserve">
         <source>Shows your latest measured weight.</source>
-        <target>最新の体重記録を表示</target>
+        <target>最新の体重記録を表示する。</target>
         <note/>
       </trans-unit>
       <trans-unit id="widget.weight.title" xml:space="preserve">
